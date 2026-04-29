@@ -267,14 +267,15 @@
     },
     {
       "japanese": "口寂しい",
-      "reading_romaji": "",
+      "reading_romaji": "kuchisabishii",
       "translation": "when you're not hungry, but you eat because your mouth is lonely",
       "notes": "",
       "added_at": "2026-04-29T22:55:58.856Z",
       "source": "user",
       "week_number": 1,
       "character": null,
-      "delivered_at": "2026-04-29T22:55:58.856Z"
+      "delivered_at": "2026-04-29T22:55:58.856Z",
+      "updated_at": "2026-04-29T22:56:06.599Z"
     }
   ],
   "all_characters_learned": [
@@ -369,11 +370,12 @@
     },
     {
       "japanese": "口寂しい",
-      "reading_romaji": "",
+      "reading_romaji": "kuchisabishii",
       "translation": "when you're not hungry, but you eat because your mouth is lonely",
       "notes": "",
       "added_at": "2026-04-29T22:55:58.856Z",
-      "source": "user"
+      "source": "user",
+      "updated_at": "2026-04-29T22:56:06.599Z"
     }
   ],
   "skipped_character_priorities": [],
