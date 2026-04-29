@@ -153,6 +153,17 @@
       "source": "routine",
       "example_jp": "がっこうへいきます。",
       "example_en": "I go to school."
+    },
+    {
+      "japanese": "こんにちは",
+      "reading_romaji": "kon'nichiwa",
+      "translation": "hello",
+      "notes": "",
+      "added_at": "2026-04-29T22:45:59.882Z",
+      "source": "user",
+      "week_number": 1,
+      "character": null,
+      "delivered_at": "2026-04-29T22:45:59.882Z"
     }
   ],
   "all_characters_learned": [
@@ -163,7 +174,16 @@
     "ん",
     "ぬ"
   ],
-  "user_words": [],
+  "user_words": [
+    {
+      "japanese": "こんにちは",
+      "reading_romaji": "kon'nichiwa",
+      "translation": "hello",
+      "notes": "",
+      "added_at": "2026-04-29T22:45:59.882Z",
+      "source": "user"
+    }
+  ],
   "skipped_character_priorities": [],
   "last_health_check": null,
   "notes": "Neosai state file. Routines read and write this. user_words is the manually-added list (replaces user-lists.json from v1). all_words_learned grows over time and includes both routine-delivered words and user-added words distinguished by the 'source' field."
