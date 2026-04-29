@@ -352,6 +352,17 @@
       "week_number": 1,
       "character": null,
       "delivered_at": "2026-04-29T22:57:42.234Z"
+    },
+    {
+      "japanese": "九",
+      "reading_romaji": "kyoo",
+      "translation": "9",
+      "notes": "(also said “Ku” — but avoided since it can mean suffering)",
+      "added_at": "2026-04-29T22:57:58.261Z",
+      "source": "user",
+      "week_number": 1,
+      "character": null,
+      "delivered_at": "2026-04-29T22:57:58.261Z"
     }
   ],
   "all_characters_learned": [
@@ -506,6 +517,14 @@
       "translation": "8",
       "notes": "",
       "added_at": "2026-04-29T22:57:42.234Z",
+      "source": "user"
+    },
+    {
+      "japanese": "九",
+      "reading_romaji": "kyoo",
+      "translation": "9",
+      "notes": "(also said “Ku” — but avoided since it can mean suffering)",
+      "added_at": "2026-04-29T22:57:58.261Z",
       "source": "user"
     }
   ],
