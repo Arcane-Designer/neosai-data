@@ -319,6 +319,17 @@
       "week_number": 1,
       "character": null,
       "delivered_at": "2026-04-29T22:57:14.306Z"
+    },
+    {
+      "japanese": "六",
+      "reading_romaji": "roh-koo",
+      "translation": "6",
+      "notes": "",
+      "added_at": "2026-04-29T22:57:22.727Z",
+      "source": "user",
+      "week_number": 1,
+      "character": null,
+      "delivered_at": "2026-04-29T22:57:22.727Z"
     }
   ],
   "all_characters_learned": [
@@ -449,6 +460,14 @@
       "translation": "5",
       "notes": "",
       "added_at": "2026-04-29T22:57:14.306Z",
+      "source": "user"
+    },
+    {
+      "japanese": "六",
+      "reading_romaji": "roh-koo",
+      "translation": "6",
+      "notes": "",
+      "added_at": "2026-04-29T22:57:22.727Z",
       "source": "user"
     }
   ],
