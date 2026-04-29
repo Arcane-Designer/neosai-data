@@ -330,6 +330,17 @@
       "week_number": 1,
       "character": null,
       "delivered_at": "2026-04-29T22:57:22.727Z"
+    },
+    {
+      "japanese": "七",
+      "reading_romaji": "shee-chee",
+      "translation": "7",
+      "notes": "",
+      "added_at": "2026-04-29T22:57:30.960Z",
+      "source": "user",
+      "week_number": 1,
+      "character": null,
+      "delivered_at": "2026-04-29T22:57:30.960Z"
     }
   ],
   "all_characters_learned": [
@@ -468,6 +479,14 @@
       "translation": "6",
       "notes": "",
       "added_at": "2026-04-29T22:57:22.727Z",
+      "source": "user"
+    },
+    {
+      "japanese": "七",
+      "reading_romaji": "shee-chee",
+      "translation": "7",
+      "notes": "",
+      "added_at": "2026-04-29T22:57:30.960Z",
       "source": "user"
     }
   ],
