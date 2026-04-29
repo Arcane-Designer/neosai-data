@@ -8,30 +8,9 @@
   "current_character_script": null,
   "current_week_words": [],
   "delivery_log": [],
-  "all_words_learned": [
-    {
-      "japanese": "テスト",
-      "reading_romaji": "tesuto",
-      "translation": "test",
-      "notes": "",
-      "added_at": "2026-04-29T04:40:20.354Z",
-      "source": "user",
-      "week_number": 1,
-      "character": null,
-      "delivered_at": "2026-04-29T04:40:20.354Z"
-    }
-  ],
+  "all_words_learned": [],
   "all_characters_learned": [],
-  "user_words": [
-    {
-      "japanese": "テスト",
-      "reading_romaji": "tesuto",
-      "translation": "test",
-      "notes": "",
-      "added_at": "2026-04-29T04:40:20.354Z",
-      "source": "user"
-    }
-  ],
+  "user_words": [],
   "skipped_character_priorities": [],
   "last_health_check": null,
   "notes": "Neosai state file. Routines read and write this. user_words is the manually-added list (replaces user-lists.json from v1). all_words_learned grows over time and includes both routine-delivered words and user-added words distinguished by the 'source' field."
