@@ -263,6 +263,17 @@
       "week_number": 1,
       "character": null,
       "delivered_at": "2026-04-29T22:49:34.662Z"
+    },
+    {
+      "japanese": "一",
+      "reading_romaji": "1",
+      "translation": "1",
+      "notes": "",
+      "added_at": "2026-04-29T22:55:09.729Z",
+      "source": "user",
+      "week_number": 1,
+      "character": null,
+      "delivered_at": "2026-04-29T22:55:09.729Z"
     }
   ],
   "all_characters_learned": [
@@ -352,6 +363,14 @@
       "translation": "when you're not hungry, but you eat because your mouth is lonely.",
       "notes": "",
       "added_at": "2026-04-29T22:49:34.662Z",
+      "source": "user"
+    },
+    {
+      "japanese": "一",
+      "reading_romaji": "1",
+      "translation": "1",
+      "notes": "",
+      "added_at": "2026-04-29T22:55:09.729Z",
       "source": "user"
     }
   ],
