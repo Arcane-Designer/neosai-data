@@ -1,17 +1,17 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "system_start_date": "2026-04-29",
   "current_week_number": 1,
-  "current_week_start": "2026-04-27",
+  "current_week_start": null,
   "current_character": null,
   "current_character_romaji": null,
+  "current_character_script": null,
   "current_week_words": [],
   "delivery_log": [],
   "all_words_learned": [],
   "all_characters_learned": [],
-  "user_known_words": [],
-  "user_added_words": [],
-  "skipped_curriculum_ids": [],
+  "user_words": [],
+  "skipped_character_priorities": [],
   "last_health_check": null,
-  "notes": "Captain's Japanese learning database. Updated by Claude routines. State file for the brain; curriculum.json is the upcoming-word bank."
+  "notes": "Neosai state file. Routines read and write this. user_words is the manually-added list (replaces user-lists.json from v1). all_words_learned grows over time and includes both routine-delivered words and user-added words distinguished by the 'source' field."
 }

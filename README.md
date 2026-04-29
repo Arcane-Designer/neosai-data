@@ -1,44 +1,33 @@
-# Neosai — Captain's Japanese Learning System
+# Neosai
 
-A daily Japanese vocabulary system delivered via Claude routines, with a dashboard for browsing words and managing personal lists.
+A daily Japanese vocabulary system delivered via Claude Routines, with a dashboard for tracking progress and managing personal word lists.
 
 ## Architecture
 
-- **Claude Routines** fire on a schedule and post notifications with the day's content
-- **`state.json`** — the brain. Tracks what's been delivered, the current week, characters learned. The routines read and update this.
-- **`curriculum.json`** — the pre-built word bank. 26 weeks of hiragana-foundation vocabulary. Captain doesn't read this directly (no spoilers).
-- **`user-lists.json`** — Captain's manual additions: words already known (so the system skips them) and words learned outside the system.
-- **`dashboard/`** — the static web UI hosted at arcanedesigner.com/neosai. Reads everything via raw GitHub URLs.
+- **Claude Routines** fire on schedule, generate each word fresh, and write to GitHub
+- **`state.json`** — single source of truth. Tracks delivery history, characters covered, current week, user-added words.
+- **`character-order.json`** — priority order for character-of-the-week selection (hiragana → katakana → kanji starter set)
+- **Cloudflare Worker** — handles dashboard writes back to GitHub (no manual copy-paste)
+- **Dashboard** at `arcanedesigner.com/neosai` — reads state, allows adding/editing personal words
 
 ## Schedule
 
-| Day | Times | Content |
-|-----|-------|---------|
-| Mon-Thu | 8:00 AM, 5:00 PM | Same word twice — full lesson AM, reinforcement PM |
-| Fri | 8:00 AM, 5:00 PM | Funword Friday |
-| Sat | 11:00 AM | Weekly recap (5 words + character of the week) |
-| Sun | 5:00 PM | Master recap of all words and characters to date |
+| Day | Time | Content |
+|-----|------|---------|
+| Mon-Thu | 8:00 AM, 5:00 PM | Word of the day, reinforced in evening |
+| Fri | 8:00 AM, 5:00 PM | Funword Friday, reinforced in evening |
+| Sat | 11:00 AM | Weekly recap |
+| Sun | 5:00 PM | Master recap (everything to date) |
 
-## Files reference
+Each weekday word contains the character of the week. The character changes every Monday; the routine picks the next from `character-order.json` that hasn't been used.
+
+## Files
 
 ```
-neosai-data/
-├── state.json              # Live state, updated by routines
-├── curriculum.json         # 26-week word bank, locked
-├── user-lists.json         # Captain's manual lists
-└── dashboard/
-    ├── index.html
-    └── dashboard.js
+neosai-data/                    (private GitHub repo)
+├── state.json                  ← live state, updated by routines
+├── character-order.json        ← priority list, rarely edited
+└── README.md
 ```
 
-## Updating user lists
-
-The dashboard is read-only. To add words to your "known" or "custom" lists:
-1. Open the dashboard, go to **Manage Lists**
-2. Add the entries via the forms
-3. Click **Copy to clipboard** in the export zone
-4. Paste into `user-lists.json` in this repo and commit
-
-## Extending the curriculum
-
-After 26 weeks, run `build_curriculum.py` to add more weeks. The format is documented in that script.
+The dashboard (HTML/JS) lives in the `arcanedesigner.com` repo under `neosai/`.
