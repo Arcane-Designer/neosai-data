@@ -308,6 +308,17 @@
       "week_number": 1,
       "character": null,
       "delivered_at": "2026-04-29T22:57:05.931Z"
+    },
+    {
+      "japanese": "五",
+      "reading_romaji": "goh",
+      "translation": "5",
+      "notes": "",
+      "added_at": "2026-04-29T22:57:14.306Z",
+      "source": "user",
+      "week_number": 1,
+      "character": null,
+      "delivered_at": "2026-04-29T22:57:14.306Z"
     }
   ],
   "all_characters_learned": [
@@ -430,6 +441,14 @@
       "translation": "4",
       "notes": "",
       "added_at": "2026-04-29T22:57:05.931Z",
+      "source": "user"
+    },
+    {
+      "japanese": "五",
+      "reading_romaji": "goh",
+      "translation": "5",
+      "notes": "",
+      "added_at": "2026-04-29T22:57:14.306Z",
       "source": "user"
     }
   ],
