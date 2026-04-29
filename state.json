@@ -374,6 +374,17 @@
       "week_number": 1,
       "character": null,
       "delivered_at": "2026-04-29T22:58:15.407Z"
+    },
+    {
+      "japanese": "ゼロ",
+      "reading_romaji": "zeh-ro",
+      "translation": "0",
+      "notes": "most common in everyday speech. From English. Used for phone numbers, scores, temperatures",
+      "added_at": "2026-04-29T23:01:17.000Z",
+      "source": "user",
+      "week_number": 1,
+      "character": null,
+      "delivered_at": "2026-04-29T23:01:17.000Z"
     }
   ],
   "all_characters_learned": [
@@ -544,6 +555,14 @@
       "translation": "10",
       "notes": "",
       "added_at": "2026-04-29T22:58:15.407Z",
+      "source": "user"
+    },
+    {
+      "japanese": "ゼロ",
+      "reading_romaji": "zeh-ro",
+      "translation": "0",
+      "notes": "most common in everyday speech. From English. Used for phone numbers, scores, temperatures",
+      "added_at": "2026-04-29T23:01:17.000Z",
       "source": "user"
     }
   ],
