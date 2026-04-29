@@ -186,6 +186,17 @@
       "week_number": 1,
       "character": null,
       "delivered_at": "2026-04-29T22:47:07.476Z"
+    },
+    {
+      "japanese": "マジで",
+      "reading_romaji": "mah-jee-deh",
+      "translation": "seriously",
+      "notes": "",
+      "added_at": "2026-04-29T22:47:29.358Z",
+      "source": "user",
+      "week_number": 1,
+      "character": null,
+      "delivered_at": "2026-04-29T22:47:29.358Z"
     }
   ],
   "all_characters_learned": [
@@ -219,6 +230,14 @@
       "translation": "yikes",
       "notes": "",
       "added_at": "2026-04-29T22:47:07.476Z",
+      "source": "user"
+    },
+    {
+      "japanese": "マジで",
+      "reading_romaji": "mah-jee-deh",
+      "translation": "seriously",
+      "notes": "",
+      "added_at": "2026-04-29T22:47:29.358Z",
       "source": "user"
     }
   ],
