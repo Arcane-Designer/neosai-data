@@ -164,6 +164,17 @@
       "week_number": 1,
       "character": null,
       "delivered_at": "2026-04-29T22:45:59.882Z"
+    },
+    {
+      "japanese": "かわいい",
+      "reading_romaji": "kawaī",
+      "translation": "cute",
+      "notes": "",
+      "added_at": "2026-04-29T22:46:49.098Z",
+      "source": "user",
+      "week_number": 1,
+      "character": null,
+      "delivered_at": "2026-04-29T22:46:49.098Z"
     }
   ],
   "all_characters_learned": [
@@ -181,6 +192,14 @@
       "translation": "hello",
       "notes": "",
       "added_at": "2026-04-29T22:45:59.882Z",
+      "source": "user"
+    },
+    {
+      "japanese": "かわいい",
+      "reading_romaji": "kawaī",
+      "translation": "cute",
+      "notes": "",
+      "added_at": "2026-04-29T22:46:49.098Z",
       "source": "user"
     }
   ],
