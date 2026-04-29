@@ -230,6 +230,17 @@
       "week_number": 1,
       "character": null,
       "delivered_at": "2026-04-29T22:48:28.556Z"
+    },
+    {
+      "japanese": "いいえ",
+      "reading_romaji": "ee-yeh",
+      "translation": "no",
+      "notes": "",
+      "added_at": "2026-04-29T22:48:41.476Z",
+      "source": "user",
+      "week_number": 1,
+      "character": null,
+      "delivered_at": "2026-04-29T22:48:41.476Z"
     }
   ],
   "all_characters_learned": [
@@ -295,6 +306,14 @@
       "translation": "yes",
       "notes": "",
       "added_at": "2026-04-29T22:48:28.556Z",
+      "source": "user"
+    },
+    {
+      "japanese": "いいえ",
+      "reading_romaji": "ee-yeh",
+      "translation": "no",
+      "notes": "",
+      "added_at": "2026-04-29T22:48:41.476Z",
       "source": "user"
     }
   ],
