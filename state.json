@@ -18,6 +18,18 @@
       "character": "い",
       "delivered_at": "2026-04-29",
       "source": "routine"
+    },
+    {
+      "japanese": "いぬ",
+      "reading_romaji": "inu",
+      "english": "dog",
+      "date": "2026-04-29",
+      "slot": "weekday-AM",
+      "week_number": 1,
+      "weekday": "Wednesday",
+      "character": "い",
+      "delivered_at": "2026-04-29",
+      "source": "routine"
     }
   ],
   "delivery_log": [
@@ -28,6 +40,14 @@
       "weekday": "Wednesday",
       "word_japanese": "いい",
       "character": "い"
+    },
+    {
+      "date": "2026-04-29",
+      "slot": "weekday-AM",
+      "week_number": 1,
+      "weekday": "Wednesday",
+      "word_japanese": "いぬ",
+      "character": "い"
     }
   ],
   "all_words_learned": [
@@ -35,6 +55,18 @@
       "japanese": "いい",
       "reading_romaji": "ii",
       "english": "good; nice; fine",
+      "date": "2026-04-29",
+      "slot": "weekday-AM",
+      "week_number": 1,
+      "weekday": "Wednesday",
+      "character": "い",
+      "delivered_at": "2026-04-29",
+      "source": "routine"
+    },
+    {
+      "japanese": "いぬ",
+      "reading_romaji": "inu",
+      "english": "dog",
       "date": "2026-04-29",
       "slot": "weekday-AM",
       "week_number": 1,
