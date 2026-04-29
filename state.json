@@ -219,6 +219,17 @@
       "week_number": 1,
       "character": null,
       "delivered_at": "2026-04-29T22:48:11.322Z"
+    },
+    {
+      "japanese": "はい",
+      "reading_romaji": "hai",
+      "translation": "yes",
+      "notes": "",
+      "added_at": "2026-04-29T22:48:28.556Z",
+      "source": "user",
+      "week_number": 1,
+      "character": null,
+      "delivered_at": "2026-04-29T22:48:28.556Z"
     }
   ],
   "all_characters_learned": [
@@ -276,6 +287,14 @@
       "translation": "goodbye",
       "notes": "",
       "added_at": "2026-04-29T22:48:11.322Z",
+      "source": "user"
+    },
+    {
+      "japanese": "はい",
+      "reading_romaji": "hai",
+      "translation": "yes",
+      "notes": "",
+      "added_at": "2026-04-29T22:48:28.556Z",
       "source": "user"
     }
   ],
