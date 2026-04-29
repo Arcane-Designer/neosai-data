@@ -254,18 +254,6 @@
       "delivered_at": "2026-04-29T22:49:02.965Z"
     },
     {
-      "japanese": "一",
-      "reading_romaji": "ee-chee",
-      "translation": "1",
-      "notes": "",
-      "added_at": "2026-04-29T22:55:09.729Z",
-      "source": "user",
-      "week_number": 1,
-      "character": null,
-      "delivered_at": "2026-04-29T22:55:09.729Z",
-      "updated_at": "2026-04-29T22:56:15.853Z"
-    },
-    {
       "japanese": "口寂しい",
       "reading_romaji": "kuchisabishii",
       "translation": "when you're not hungry, but you eat because your mouth is lonely",
@@ -358,15 +346,6 @@
       "notes": "",
       "added_at": "2026-04-29T22:49:02.965Z",
       "source": "user"
-    },
-    {
-      "japanese": "一",
-      "reading_romaji": "ee-chee",
-      "translation": "1",
-      "notes": "",
-      "added_at": "2026-04-29T22:55:09.729Z",
-      "source": "user",
-      "updated_at": "2026-04-29T22:56:15.853Z"
     },
     {
       "japanese": "口寂しい",
