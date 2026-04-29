@@ -264,6 +264,17 @@
       "character": null,
       "delivered_at": "2026-04-29T22:55:58.856Z",
       "updated_at": "2026-04-29T22:56:06.599Z"
+    },
+    {
+      "japanese": "一",
+      "reading_romaji": "ee-chee",
+      "translation": "1",
+      "notes": "",
+      "added_at": "2026-04-29T22:56:35.625Z",
+      "source": "user",
+      "week_number": 1,
+      "character": null,
+      "delivered_at": "2026-04-29T22:56:35.625Z"
     }
   ],
   "all_characters_learned": [
@@ -355,6 +366,14 @@
       "added_at": "2026-04-29T22:55:58.856Z",
       "source": "user",
       "updated_at": "2026-04-29T22:56:06.599Z"
+    },
+    {
+      "japanese": "一",
+      "reading_romaji": "ee-chee",
+      "translation": "1",
+      "notes": "",
+      "added_at": "2026-04-29T22:56:35.625Z",
+      "source": "user"
     }
   ],
   "skipped_character_priorities": [],
