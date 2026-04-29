@@ -30,6 +30,23 @@
       "character": "い",
       "delivered_at": "2026-04-29",
       "source": "routine"
+    },
+    {
+      "japanese": "いく",
+      "reading_romaji": "iku",
+      "translation": "to go",
+      "casual_usage": "Used in plain form in casual speech — 「どこいくの？」(Doko iku no?) means 'Where are you going?' You'll hear this constantly among friends.",
+      "formal_usage": "Becomes 「いきます」(ikimasu) in polite form. 「どこへいきますか？」(Doko e ikimasu ka?) is the formal equivalent for acquaintances or work.",
+      "similar_words": [
+        {"japanese": "くる", "romaji": "kuru", "translation": "to come"},
+        {"japanese": "かえる", "romaji": "kaeru", "translation": "to return / go home"},
+        {"japanese": "でかける", "romaji": "dekakeru", "translation": "to head out / go out"}
+      ],
+      "weekday": "Wednesday",
+      "slot": "weekday-AM",
+      "week_number": 1,
+      "character": "い",
+      "source": "routine"
     }
   ],
   "delivery_log": [
@@ -47,6 +64,14 @@
       "week_number": 1,
       "weekday": "Wednesday",
       "word_japanese": "いぬ",
+      "character": "い"
+    },
+    {
+      "date": "2026-04-29",
+      "slot": "weekday-AM",
+      "week_number": 1,
+      "weekday": "Wednesday",
+      "word_japanese": "いく",
       "character": "い"
     }
   ],
@@ -71,6 +96,24 @@
       "slot": "weekday-AM",
       "week_number": 1,
       "weekday": "Wednesday",
+      "character": "い",
+      "delivered_at": "2026-04-29",
+      "source": "routine"
+    },
+    {
+      "japanese": "いく",
+      "reading_romaji": "iku",
+      "translation": "to go",
+      "casual_usage": "Used in plain form in casual speech — 「どこいくの？」(Doko iku no?) means 'Where are you going?' You'll hear this constantly among friends.",
+      "formal_usage": "Becomes 「いきます」(ikimasu) in polite form. 「どこへいきますか？」(Doko e ikimasu ka?) is the formal equivalent for acquaintances or work.",
+      "similar_words": [
+        {"japanese": "くる", "romaji": "kuru", "translation": "to come"},
+        {"japanese": "かえる", "romaji": "kaeru", "translation": "to return / go home"},
+        {"japanese": "でかける", "romaji": "dekakeru", "translation": "to head out / go out"}
+      ],
+      "weekday": "Wednesday",
+      "slot": "weekday-AM",
+      "week_number": 1,
       "character": "い",
       "delivered_at": "2026-04-29",
       "source": "routine"
