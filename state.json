@@ -241,6 +241,17 @@
       "week_number": 1,
       "character": null,
       "delivered_at": "2026-04-29T22:48:41.476Z"
+    },
+    {
+      "japanese": "爆発",
+      "reading_romaji": "blast",
+      "translation": "bakuhatsu",
+      "notes": "",
+      "added_at": "2026-04-29T22:49:02.965Z",
+      "source": "user",
+      "week_number": 1,
+      "character": null,
+      "delivered_at": "2026-04-29T22:49:02.965Z"
     }
   ],
   "all_characters_learned": [
@@ -314,6 +325,14 @@
       "translation": "no",
       "notes": "",
       "added_at": "2026-04-29T22:48:41.476Z",
+      "source": "user"
+    },
+    {
+      "japanese": "爆発",
+      "reading_romaji": "blast",
+      "translation": "bakuhatsu",
+      "notes": "",
+      "added_at": "2026-04-29T22:49:02.965Z",
       "source": "user"
     }
   ],
