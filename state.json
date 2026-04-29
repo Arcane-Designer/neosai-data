@@ -197,6 +197,17 @@
       "week_number": 1,
       "character": null,
       "delivered_at": "2026-04-29T22:47:29.358Z"
+    },
+    {
+      "japanese": "ありがとう",
+      "reading_romaji": "ah-ree-gah-toh",
+      "translation": "thank you",
+      "notes": "",
+      "added_at": "2026-04-29T22:47:53.934Z",
+      "source": "user",
+      "week_number": 1,
+      "character": null,
+      "delivered_at": "2026-04-29T22:47:53.934Z"
     }
   ],
   "all_characters_learned": [
@@ -238,6 +249,14 @@
       "translation": "seriously",
       "notes": "",
       "added_at": "2026-04-29T22:47:29.358Z",
+      "source": "user"
+    },
+    {
+      "japanese": "ありがとう",
+      "reading_romaji": "ah-ree-gah-toh",
+      "translation": "thank you",
+      "notes": "",
+      "added_at": "2026-04-29T22:47:53.934Z",
       "source": "user"
     }
   ],
