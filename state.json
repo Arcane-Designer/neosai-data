@@ -208,6 +208,17 @@
       "week_number": 1,
       "character": null,
       "delivered_at": "2026-04-29T22:47:53.934Z"
+    },
+    {
+      "japanese": "さようなら",
+      "reading_romaji": "sayōnara",
+      "translation": "goodbye",
+      "notes": "",
+      "added_at": "2026-04-29T22:48:11.322Z",
+      "source": "user",
+      "week_number": 1,
+      "character": null,
+      "delivered_at": "2026-04-29T22:48:11.322Z"
     }
   ],
   "all_characters_learned": [
@@ -257,6 +268,14 @@
       "translation": "thank you",
       "notes": "",
       "added_at": "2026-04-29T22:47:53.934Z",
+      "source": "user"
+    },
+    {
+      "japanese": "さようなら",
+      "reading_romaji": "sayōnara",
+      "translation": "goodbye",
+      "notes": "",
+      "added_at": "2026-04-29T22:48:11.322Z",
       "source": "user"
     }
   ],
