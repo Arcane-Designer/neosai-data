@@ -175,6 +175,17 @@
       "week_number": 1,
       "character": null,
       "delivered_at": "2026-04-29T22:46:49.098Z"
+    },
+    {
+      "japanese": "やばい",
+      "reading_romaji": "yah-bye",
+      "translation": "yikes",
+      "notes": "",
+      "added_at": "2026-04-29T22:47:07.476Z",
+      "source": "user",
+      "week_number": 1,
+      "character": null,
+      "delivered_at": "2026-04-29T22:47:07.476Z"
     }
   ],
   "all_characters_learned": [
@@ -200,6 +211,14 @@
       "translation": "cute",
       "notes": "",
       "added_at": "2026-04-29T22:46:49.098Z",
+      "source": "user"
+    },
+    {
+      "japanese": "やばい",
+      "reading_romaji": "yah-bye",
+      "translation": "yikes",
+      "notes": "",
+      "added_at": "2026-04-29T22:47:07.476Z",
       "source": "user"
     }
   ],
