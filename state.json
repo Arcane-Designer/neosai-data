@@ -91,6 +91,13 @@
       "weekday": "Wednesday",
       "word_japanese": "いく",
       "character": "い"
+    },
+    {
+      "date": "2026-04-29",
+      "slot": "weekday-PM",
+      "week_number": 1,
+      "weekday": "Wednesday",
+      "word_japanese": "いく"
     }
   ],
   "all_words_learned": [
