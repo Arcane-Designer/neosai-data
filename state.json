@@ -65,6 +65,25 @@
       "source": "routine",
       "example_jp": "がっこうへいきます。",
       "example_en": "I go to school."
+    },
+    {
+      "japanese": "いつ",
+      "reading_romaji": "itsu",
+      "translation": "when",
+      "casual_usage": "Dropped straight into casual questions — 「いつくるの？」(Itsu kuru no?) means 'When are you coming?' It pairs naturally with verbs like いく and くる that you already know.",
+      "formal_usage": "いつ itself never changes form; only the verb after it shifts — 「いつきますか？」(Itsu kimasu ka?) is the polite equivalent.",
+      "similar_words": [
+        { "japanese": "どこ", "romaji": "doko", "translation": "where" },
+        { "japanese": "だれ", "romaji": "dare", "translation": "who" },
+        { "japanese": "なに", "romaji": "nani", "translation": "what" }
+      ],
+      "weekday": "Thursday",
+      "slot": "weekday-AM",
+      "week_number": 1,
+      "character": "い",
+      "source": "routine",
+      "example_jp": "いつですか。",
+      "example_en": "When is it?"
     }
   ],
   "delivery_log": [
@@ -98,6 +117,14 @@
       "week_number": 1,
       "weekday": "Wednesday",
       "word_japanese": "いく"
+    },
+    {
+      "date": "2026-04-30",
+      "slot": "weekday-AM",
+      "week_number": 1,
+      "weekday": "Thursday",
+      "word_japanese": "いつ",
+      "character": "い"
     }
   ],
   "all_words_learned": [
@@ -393,6 +420,26 @@
       "week_number": 1,
       "character": null,
       "delivered_at": "2026-04-29T23:01:17.000Z"
+    },
+    {
+      "japanese": "いつ",
+      "reading_romaji": "itsu",
+      "translation": "when",
+      "casual_usage": "Dropped straight into casual questions — 「いつくるの？」(Itsu kuru no?) means 'When are you coming?' It pairs naturally with verbs like いく and くる that you already know.",
+      "formal_usage": "いつ itself never changes form; only the verb after it shifts — 「いつきますか？」(Itsu kimasu ka?) is the polite equivalent.",
+      "similar_words": [
+        { "japanese": "どこ", "romaji": "doko", "translation": "where" },
+        { "japanese": "だれ", "romaji": "dare", "translation": "who" },
+        { "japanese": "なに", "romaji": "nani", "translation": "what" }
+      ],
+      "weekday": "Thursday",
+      "slot": "weekday-AM",
+      "week_number": 1,
+      "character": "い",
+      "source": "routine",
+      "delivered_at": "2026-04-30",
+      "example_jp": "いつですか。",
+      "example_en": "When is it?"
     }
   ],
   "all_characters_learned": [
