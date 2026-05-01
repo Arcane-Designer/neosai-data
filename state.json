@@ -103,6 +103,25 @@
       "source": "routine",
       "example_jp": "いまいきます。",
       "example_en": "I'm going now."
+    },
+    {
+      "japanese": "いただきます",
+      "reading_romaji": "itadakimasu",
+      "translation": "I humbly receive (said before eating)",
+      "what_it_is": "いただきます is the expression Japanese people say — hands together, often eyes closed — before every single meal. Literally meaning 'I humbly receive,' it's directed at the food itself, the animals and plants that became it, the farmers who grew it, and the person who cooked it. There's no English equivalent because English-speaking cultures simply don't have this ritual baked into daily life.",
+      "similar_words": [
+        { "japanese": "ごちそうさま", "romaji": "gochisōsama", "translation": "thanks for the feast (said after eating)" },
+        { "japanese": "おかげさまで", "romaji": "okagesama de", "translation": "thanks to your support (humble gratitude)" },
+        { "japanese": "もったいない", "romaji": "mottainai", "translation": "what a waste (the feeling of guilt over wasting something precious)" }
+      ],
+      "weekday": "Friday",
+      "slot": "friday-AM",
+      "week_number": 1,
+      "character": "い",
+      "source": "routine",
+      "is_funword": true,
+      "example_jp": "いただきます。",
+      "example_en": "I'll gratefully receive this."
     }
   ],
   "delivery_log": [
@@ -159,7 +178,8 @@
       "week_number": 1,
       "weekday": "Thursday",
       "word_japanese": "いま"
-    }
+    },
+    { "date": "2026-05-01", "slot": "friday-AM", "week_number": 1, "word_japanese": "いただきます", "character": "い", "weekday": "Friday" }
   ],
   "all_words_learned": [
     {
@@ -494,6 +514,26 @@
       "delivered_at": "2026-04-30",
       "example_jp": "いまいきます。",
       "example_en": "I'm going now."
+    },
+    {
+      "japanese": "いただきます",
+      "reading_romaji": "itadakimasu",
+      "translation": "I humbly receive (said before eating)",
+      "what_it_is": "いただきます is the expression Japanese people say — hands together, often eyes closed — before every single meal. Literally meaning 'I humbly receive,' it's directed at the food itself, the animals and plants that became it, the farmers who grew it, and the person who cooked it. There's no English equivalent because English-speaking cultures simply don't have this ritual baked into daily life.",
+      "similar_words": [
+        { "japanese": "ごちそうさま", "romaji": "gochisōsama", "translation": "thanks for the feast (said after eating)" },
+        { "japanese": "おかげさまで", "romaji": "okagesama de", "translation": "thanks to your support (humble gratitude)" },
+        { "japanese": "もったいない", "romaji": "mottainai", "translation": "what a waste (the feeling of guilt over wasting something precious)" }
+      ],
+      "weekday": "Friday",
+      "slot": "friday-AM",
+      "week_number": 1,
+      "character": "い",
+      "source": "routine",
+      "is_funword": true,
+      "delivered_at": "2026-05-01",
+      "example_jp": "いただきます。",
+      "example_en": "I'll gratefully receive this."
     }
   ],
   "all_characters_learned": [
