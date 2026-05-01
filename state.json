@@ -152,6 +152,13 @@
       "weekday": "Thursday",
       "word_japanese": "いま",
       "character": "い"
+    },
+    {
+      "date": "2026-04-30",
+      "slot": "weekday-PM",
+      "week_number": 1,
+      "weekday": "Thursday",
+      "word_japanese": "いま"
     }
   ],
   "all_words_learned": [
