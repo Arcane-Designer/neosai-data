@@ -179,7 +179,8 @@
       "weekday": "Thursday",
       "word_japanese": "いま"
     },
-    { "date": "2026-05-01", "slot": "friday-AM", "week_number": 1, "word_japanese": "いただきます", "character": "い", "weekday": "Friday" }
+    { "date": "2026-05-01", "slot": "friday-AM", "week_number": 1, "word_japanese": "いただきます", "character": "い", "weekday": "Friday" },
+    { "date": "2026-05-02", "slot": "saturday-recap", "week_number": 1, "weekday": "Saturday" }
   ],
   "all_words_learned": [
     {
