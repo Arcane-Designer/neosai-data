@@ -73,9 +73,21 @@
       "casual_usage": "Dropped straight into casual questions — 「いつくるの？」(Itsu kuru no?) means 'When are you coming?' It pairs naturally with verbs like いく and くる that you already know.",
       "formal_usage": "いつ itself never changes form; only the verb after it shifts — 「いつきますか？」(Itsu kimasu ka?) is the polite equivalent.",
       "similar_words": [
-        { "japanese": "どこ", "romaji": "doko", "translation": "where" },
-        { "japanese": "だれ", "romaji": "dare", "translation": "who" },
-        { "japanese": "なに", "romaji": "nani", "translation": "what" }
+        {
+          "japanese": "どこ",
+          "romaji": "doko",
+          "translation": "where"
+        },
+        {
+          "japanese": "だれ",
+          "romaji": "dare",
+          "translation": "who"
+        },
+        {
+          "japanese": "なに",
+          "romaji": "nani",
+          "translation": "what"
+        }
       ],
       "weekday": "Thursday",
       "slot": "weekday-AM",
@@ -92,9 +104,21 @@
       "casual_usage": "いま is everywhere in casual speech — 「いまなに？」(ima nani?) means 'What are you up to right now?' and 「いまいい？」(ima ii?) is the quick way to ask 'Is now a good time?' It drops naturally in front of almost any verb.",
       "formal_usage": "The word itself doesn't change in formal settings — 「いまよろしいですか？」(ima yoroshii desu ka?) is the polite way to ask 'Is now okay?' Only the verb that follows shifts into ます/です form.",
       "similar_words": [
-        { "japanese": "もう", "romaji": "mou", "translation": "already / now (signals something has changed)" },
-        { "japanese": "すぐ", "romaji": "sugu", "translation": "right away / immediately" },
-        { "japanese": "あとで", "romaji": "ato de", "translation": "later" }
+        {
+          "japanese": "もう",
+          "romaji": "mou",
+          "translation": "already / now (signals something has changed)"
+        },
+        {
+          "japanese": "すぐ",
+          "romaji": "sugu",
+          "translation": "right away / immediately"
+        },
+        {
+          "japanese": "あとで",
+          "romaji": "ato de",
+          "translation": "later"
+        }
       ],
       "weekday": "Thursday",
       "slot": "weekday-AM",
@@ -110,9 +134,21 @@
       "translation": "I humbly receive (said before eating)",
       "what_it_is": "いただきます is the expression Japanese people say — hands together, often eyes closed — before every single meal. Literally meaning 'I humbly receive,' it's directed at the food itself, the animals and plants that became it, the farmers who grew it, and the person who cooked it. There's no English equivalent because English-speaking cultures simply don't have this ritual baked into daily life.",
       "similar_words": [
-        { "japanese": "ごちそうさま", "romaji": "gochisōsama", "translation": "thanks for the feast (said after eating)" },
-        { "japanese": "おかげさまで", "romaji": "okagesama de", "translation": "thanks to your support (humble gratitude)" },
-        { "japanese": "もったいない", "romaji": "mottainai", "translation": "what a waste (the feeling of guilt over wasting something precious)" }
+        {
+          "japanese": "ごちそうさま",
+          "romaji": "gochisōsama",
+          "translation": "thanks for the feast (said after eating)"
+        },
+        {
+          "japanese": "おかげさまで",
+          "romaji": "okagesama de",
+          "translation": "thanks to your support (humble gratitude)"
+        },
+        {
+          "japanese": "もったいない",
+          "romaji": "mottainai",
+          "translation": "what a waste (the feeling of guilt over wasting something precious)"
+        }
       ],
       "weekday": "Friday",
       "slot": "friday-AM",
@@ -179,7 +215,20 @@
       "weekday": "Thursday",
       "word_japanese": "いま"
     },
-    { "date": "2026-05-01", "slot": "friday-AM", "week_number": 1, "word_japanese": "いただきます", "character": "い", "weekday": "Friday" }
+    {
+      "date": "2026-05-01",
+      "slot": "friday-AM",
+      "week_number": 1,
+      "word_japanese": "いただきます",
+      "character": "い",
+      "weekday": "Friday"
+    },
+    {
+      "date": "2026-05-01",
+      "slot": "friday-PM",
+      "week_number": 1,
+      "word_japanese": "いただきます"
+    }
   ],
   "all_words_learned": [
     {
@@ -482,9 +531,21 @@
       "casual_usage": "Dropped straight into casual questions — 「いつくるの？」(Itsu kuru no?) means 'When are you coming?' It pairs naturally with verbs like いく and くる that you already know.",
       "formal_usage": "いつ itself never changes form; only the verb after it shifts — 「いつきますか？」(Itsu kimasu ka?) is the polite equivalent.",
       "similar_words": [
-        { "japanese": "どこ", "romaji": "doko", "translation": "where" },
-        { "japanese": "だれ", "romaji": "dare", "translation": "who" },
-        { "japanese": "なに", "romaji": "nani", "translation": "what" }
+        {
+          "japanese": "どこ",
+          "romaji": "doko",
+          "translation": "where"
+        },
+        {
+          "japanese": "だれ",
+          "romaji": "dare",
+          "translation": "who"
+        },
+        {
+          "japanese": "なに",
+          "romaji": "nani",
+          "translation": "what"
+        }
       ],
       "weekday": "Thursday",
       "slot": "weekday-AM",
@@ -502,9 +563,21 @@
       "casual_usage": "いま is everywhere in casual speech — 「いまなに？」(ima nani?) means 'What are you up to right now?' and 「いまいい？」(ima ii?) is the quick way to ask 'Is now a good time?' It drops naturally in front of almost any verb.",
       "formal_usage": "The word itself doesn't change in formal settings — 「いまよろしいですか？」(ima yoroshii desu ka?) is the polite way to ask 'Is now okay?' Only the verb that follows shifts into ます/です form.",
       "similar_words": [
-        { "japanese": "もう", "romaji": "mou", "translation": "already / now (signals something has changed)" },
-        { "japanese": "すぐ", "romaji": "sugu", "translation": "right away / immediately" },
-        { "japanese": "あとで", "romaji": "ato de", "translation": "later" }
+        {
+          "japanese": "もう",
+          "romaji": "mou",
+          "translation": "already / now (signals something has changed)"
+        },
+        {
+          "japanese": "すぐ",
+          "romaji": "sugu",
+          "translation": "right away / immediately"
+        },
+        {
+          "japanese": "あとで",
+          "romaji": "ato de",
+          "translation": "later"
+        }
       ],
       "weekday": "Thursday",
       "slot": "weekday-AM",
@@ -521,9 +594,21 @@
       "translation": "I humbly receive (said before eating)",
       "what_it_is": "いただきます is the expression Japanese people say — hands together, often eyes closed — before every single meal. Literally meaning 'I humbly receive,' it's directed at the food itself, the animals and plants that became it, the farmers who grew it, and the person who cooked it. There's no English equivalent because English-speaking cultures simply don't have this ritual baked into daily life.",
       "similar_words": [
-        { "japanese": "ごちそうさま", "romaji": "gochisōsama", "translation": "thanks for the feast (said after eating)" },
-        { "japanese": "おかげさまで", "romaji": "okagesama de", "translation": "thanks to your support (humble gratitude)" },
-        { "japanese": "もったいない", "romaji": "mottainai", "translation": "what a waste (the feeling of guilt over wasting something precious)" }
+        {
+          "japanese": "ごちそうさま",
+          "romaji": "gochisōsama",
+          "translation": "thanks for the feast (said after eating)"
+        },
+        {
+          "japanese": "おかげさまで",
+          "romaji": "okagesama de",
+          "translation": "thanks to your support (humble gratitude)"
+        },
+        {
+          "japanese": "もったいない",
+          "romaji": "mottainai",
+          "translation": "what a waste (the feeling of guilt over wasting something precious)"
+        }
       ],
       "weekday": "Friday",
       "slot": "friday-AM",
