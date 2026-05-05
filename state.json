@@ -14,9 +14,21 @@
       "casual_usage": "In casual speech, のむ stays in its plain form — 「なにのむ？」(Nani nomu?) means 'What are you drinking?' and 「いっしょにのもう！」(Issho ni nomou!) means 'Let's drink together!' You'll hear this constantly at any get-together.",
       "formal_usage": "Shifts to のみます (nomimasu) in polite contexts — 「なにをのみますか？」(Nani wo nomimasu ka?) is how you'd ask 'What would you like to drink?' at a restaurant or with someone you're just meeting.",
       "similar_words": [
-        { "japanese": "たべる", "romaji": "taberu", "translation": "to eat" },
-        { "japanese": "のみもの", "romaji": "nomimono", "translation": "a drink / beverage" },
-        { "japanese": "のど", "romaji": "nodo", "translation": "throat" }
+        {
+          "japanese": "たべる",
+          "romaji": "taberu",
+          "translation": "to eat"
+        },
+        {
+          "japanese": "のみもの",
+          "romaji": "nomimono",
+          "translation": "a drink / beverage"
+        },
+        {
+          "japanese": "のど",
+          "romaji": "nodo",
+          "translation": "throat"
+        }
       ],
       "weekday": "Monday",
       "slot": "weekday-AM",
@@ -25,6 +37,37 @@
       "source": "routine",
       "example_jp": "みずをのみます。",
       "example_en": "I drink water."
+    },
+    {
+      "japanese": "きのう",
+      "reading_romaji": "kinou",
+      "translation": "yesterday",
+      "casual_usage": "Use it to kick off any story about the day before — 「きのう、なにした？」(Kinō, nani shita?) means 'What did you do yesterday?' and rolls off the tongue naturally in any casual catch-up.",
+      "formal_usage": "The word itself stays the same in formal settings; just pair it with polite verb endings. 「きのうはありがとうございました」(Kinō wa arigatō gozaimashita) is a perfectly polished way to thank someone for something that happened the previous day.",
+      "similar_words": [
+        {
+          "japanese": "あした",
+          "romaji": "ashita",
+          "translation": "tomorrow"
+        },
+        {
+          "japanese": "きょう",
+          "romaji": "kyou",
+          "translation": "today"
+        },
+        {
+          "japanese": "おととい",
+          "romaji": "ototoi",
+          "translation": "the day before yesterday"
+        }
+      ],
+      "weekday": "Tuesday",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "character": "の",
+      "source": "routine",
+      "example_jp": "きのうあそんだ。",
+      "example_en": "I played yesterday."
     }
   ],
   "delivery_log": [
@@ -82,9 +125,37 @@
       "weekday": "Thursday",
       "word_japanese": "いま"
     },
-    { "date": "2026-05-01", "slot": "friday-AM", "week_number": 1, "word_japanese": "いただきます", "character": "い", "weekday": "Friday" },
-    { "date": "2026-05-04", "slot": "weekday-AM", "week_number": 2, "weekday": "Monday", "word_japanese": "のむ", "character": "の" },
-    { "date": "2026-05-04", "slot": "weekday-PM", "week_number": 2, "weekday": "Monday", "word_japanese": "のむ" }
+    {
+      "date": "2026-05-01",
+      "slot": "friday-AM",
+      "week_number": 1,
+      "word_japanese": "いただきます",
+      "character": "い",
+      "weekday": "Friday"
+    },
+    {
+      "date": "2026-05-04",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "weekday": "Monday",
+      "word_japanese": "のむ",
+      "character": "の"
+    },
+    {
+      "date": "2026-05-04",
+      "slot": "weekday-PM",
+      "week_number": 2,
+      "weekday": "Monday",
+      "word_japanese": "のむ"
+    },
+    {
+      "date": "2026-05-05",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "weekday": "Tuesday",
+      "word_japanese": "きのう",
+      "character": "の"
+    }
   ],
   "all_words_learned": [
     {
@@ -387,9 +458,21 @@
       "casual_usage": "Dropped straight into casual questions — 「いつくるの？」(Itsu kuru no?) means 'When are you coming?' It pairs naturally with verbs like いく and くる that you already know.",
       "formal_usage": "いつ itself never changes form; only the verb after it shifts — 「いつきますか？」(Itsu kimasu ka?) is the polite equivalent.",
       "similar_words": [
-        { "japanese": "どこ", "romaji": "doko", "translation": "where" },
-        { "japanese": "だれ", "romaji": "dare", "translation": "who" },
-        { "japanese": "なに", "romaji": "nani", "translation": "what" }
+        {
+          "japanese": "どこ",
+          "romaji": "doko",
+          "translation": "where"
+        },
+        {
+          "japanese": "だれ",
+          "romaji": "dare",
+          "translation": "who"
+        },
+        {
+          "japanese": "なに",
+          "romaji": "nani",
+          "translation": "what"
+        }
       ],
       "weekday": "Thursday",
       "slot": "weekday-AM",
@@ -407,9 +490,21 @@
       "casual_usage": "いま is everywhere in casual speech — 「いまなに？」(ima nani?) means 'What are you up to right now?' and 「いまいい？」(ima ii?) is the quick way to ask 'Is now a good time?' It drops naturally in front of almost any verb.",
       "formal_usage": "The word itself doesn't change in formal settings — 「いまよろしいですか？」(ima yoroshii desu ka?) is the polite way to ask 'Is now okay?' Only the verb that follows shifts into ます/です form.",
       "similar_words": [
-        { "japanese": "もう", "romaji": "mou", "translation": "already / now (signals something has changed)" },
-        { "japanese": "すぐ", "romaji": "sugu", "translation": "right away / immediately" },
-        { "japanese": "あとで", "romaji": "ato de", "translation": "later" }
+        {
+          "japanese": "もう",
+          "romaji": "mou",
+          "translation": "already / now (signals something has changed)"
+        },
+        {
+          "japanese": "すぐ",
+          "romaji": "sugu",
+          "translation": "right away / immediately"
+        },
+        {
+          "japanese": "あとで",
+          "romaji": "ato de",
+          "translation": "later"
+        }
       ],
       "weekday": "Thursday",
       "slot": "weekday-AM",
@@ -426,9 +521,21 @@
       "translation": "I humbly receive (said before eating)",
       "what_it_is": "いただきます is the expression Japanese people say — hands together, often eyes closed — before every single meal. Literally meaning 'I humbly receive,' it's directed at the food itself, the animals and plants that became it, the farmers who grew it, and the person who cooked it. There's no English equivalent because English-speaking cultures simply don't have this ritual baked into daily life.",
       "similar_words": [
-        { "japanese": "ごちそうさま", "romaji": "gochisōsama", "translation": "thanks for the feast (said after eating)" },
-        { "japanese": "おかげさまで", "romaji": "okagesama de", "translation": "thanks to your support (humble gratitude)" },
-        { "japanese": "もったいない", "romaji": "mottainai", "translation": "what a waste (the feeling of guilt over wasting something precious)" }
+        {
+          "japanese": "ごちそうさま",
+          "romaji": "gochisōsama",
+          "translation": "thanks for the feast (said after eating)"
+        },
+        {
+          "japanese": "おかげさまで",
+          "romaji": "okagesama de",
+          "translation": "thanks to your support (humble gratitude)"
+        },
+        {
+          "japanese": "もったいない",
+          "romaji": "mottainai",
+          "translation": "what a waste (the feeling of guilt over wasting something precious)"
+        }
       ],
       "weekday": "Friday",
       "slot": "friday-AM",
@@ -447,9 +554,21 @@
       "casual_usage": "In casual speech, のむ stays in its plain form — 「なにのむ？」(Nani nomu?) means 'What are you drinking?' and 「いっしょにのもう！」(Issho ni nomou!) means 'Let's drink together!' You'll hear this constantly at any get-together.",
       "formal_usage": "Shifts to のみます (nomimasu) in polite contexts — 「なにをのみますか？」(Nani wo nomimasu ka?) is how you'd ask 'What would you like to drink?' at a restaurant or with someone you're just meeting.",
       "similar_words": [
-        { "japanese": "たべる", "romaji": "taberu", "translation": "to eat" },
-        { "japanese": "のみもの", "romaji": "nomimono", "translation": "a drink / beverage" },
-        { "japanese": "のど", "romaji": "nodo", "translation": "throat" }
+        {
+          "japanese": "たべる",
+          "romaji": "taberu",
+          "translation": "to eat"
+        },
+        {
+          "japanese": "のみもの",
+          "romaji": "nomimono",
+          "translation": "a drink / beverage"
+        },
+        {
+          "japanese": "のど",
+          "romaji": "nodo",
+          "translation": "throat"
+        }
       ],
       "weekday": "Monday",
       "slot": "weekday-AM",
@@ -459,6 +578,38 @@
       "delivered_at": "2026-05-04",
       "example_jp": "みずをのみます。",
       "example_en": "I drink water."
+    },
+    {
+      "japanese": "きのう",
+      "reading_romaji": "kinou",
+      "translation": "yesterday",
+      "casual_usage": "Use it to kick off any story about the day before — 「きのう、なにした？」(Kinō, nani shita?) means 'What did you do yesterday?' and rolls off the tongue naturally in any casual catch-up.",
+      "formal_usage": "The word itself stays the same in formal settings; just pair it with polite verb endings. 「きのうはありがとうございました」(Kinō wa arigatō gozaimashita) is a perfectly polished way to thank someone for something that happened the previous day.",
+      "similar_words": [
+        {
+          "japanese": "あした",
+          "romaji": "ashita",
+          "translation": "tomorrow"
+        },
+        {
+          "japanese": "きょう",
+          "romaji": "kyou",
+          "translation": "today"
+        },
+        {
+          "japanese": "おととい",
+          "romaji": "ototoi",
+          "translation": "the day before yesterday"
+        }
+      ],
+      "weekday": "Tuesday",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "character": "の",
+      "source": "routine",
+      "example_jp": "きのうあそんだ。",
+      "example_en": "I played yesterday.",
+      "delivered_at": "2026-05-05"
     }
   ],
   "all_characters_learned": [
