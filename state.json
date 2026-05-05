@@ -83,7 +83,8 @@
       "word_japanese": "いま"
     },
     { "date": "2026-05-01", "slot": "friday-AM", "week_number": 1, "word_japanese": "いただきます", "character": "い", "weekday": "Friday" },
-    { "date": "2026-05-04", "slot": "weekday-AM", "week_number": 2, "weekday": "Monday", "word_japanese": "のむ", "character": "の" }
+    { "date": "2026-05-04", "slot": "weekday-AM", "week_number": 2, "weekday": "Monday", "word_japanese": "のむ", "character": "の" },
+    { "date": "2026-05-04", "slot": "weekday-PM", "week_number": 2, "weekday": "Monday", "word_japanese": "のむ" }
   ],
   "all_words_learned": [
     {
