@@ -68,6 +68,37 @@
       "source": "routine",
       "example_jp": "きのうあそんだ。",
       "example_en": "I played yesterday."
+    },
+    {
+      "japanese": "のる",
+      "reading_romaji": "noru",
+      "translation": "to ride / to get on",
+      "casual_usage": "In casual speech, のる stays plain — 「でんしゃのる？」(Densha noru?) is a quick 'You taking the train?' You'll also hear 「のっていい？」(Notte ii?) — the breezy way to ask a friend 'Can I get in your car?'",
+      "formal_usage": "Shifts to のります (norimasu) in polite contexts — 「このバスにのりますか？」(Kono basu ni norimasu ka?) is how you'd ask 'Are you taking this bus?' in a situation that calls for politeness.",
+      "similar_words": [
+        {
+          "japanese": "おりる",
+          "romaji": "oriru",
+          "translation": "to get off (a vehicle)"
+        },
+        {
+          "japanese": "のりかえる",
+          "romaji": "norikaeru",
+          "translation": "to transfer (trains, buses)"
+        },
+        {
+          "japanese": "のりば",
+          "romaji": "noriba",
+          "translation": "boarding area / platform"
+        }
+      ],
+      "weekday": "Wednesday",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "character": "の",
+      "source": "routine",
+      "example_jp": "でんしゃにのります。",
+      "example_en": "I'll ride the train."
     }
   ],
   "delivery_log": [
@@ -162,6 +193,14 @@
       "week_number": 2,
       "weekday": "Tuesday",
       "word_japanese": "きのう"
+    },
+    {
+      "date": "2026-05-06",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "weekday": "Wednesday",
+      "word_japanese": "のる",
+      "character": "の"
     }
   ],
   "all_words_learned": [
@@ -617,6 +656,38 @@
       "example_jp": "きのうあそんだ。",
       "example_en": "I played yesterday.",
       "delivered_at": "2026-05-05"
+    },
+    {
+      "japanese": "のる",
+      "reading_romaji": "noru",
+      "translation": "to ride / to get on",
+      "casual_usage": "In casual speech, のる stays plain — 「でんしゃのる？」(Densha noru?) is a quick 'You taking the train?' You'll also hear 「のっていい？」(Notte ii?) — the breezy way to ask a friend 'Can I get in your car?'",
+      "formal_usage": "Shifts to のります (norimasu) in polite contexts — 「このバスにのりますか？」(Kono basu ni norimasu ka?) is how you'd ask 'Are you taking this bus?' in a situation that calls for politeness.",
+      "similar_words": [
+        {
+          "japanese": "おりる",
+          "romaji": "oriru",
+          "translation": "to get off (a vehicle)"
+        },
+        {
+          "japanese": "のりかえる",
+          "romaji": "norikaeru",
+          "translation": "to transfer (trains, buses)"
+        },
+        {
+          "japanese": "のりば",
+          "romaji": "noriba",
+          "translation": "boarding area / platform"
+        }
+      ],
+      "weekday": "Wednesday",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "character": "の",
+      "source": "routine",
+      "example_jp": "でんしゃにのります。",
+      "example_en": "I'll ride the train.",
+      "delivered_at": "2026-05-06"
     }
   ],
   "all_characters_learned": [
