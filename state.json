@@ -99,6 +99,25 @@
       "source": "routine",
       "example_jp": "でんしゃにのります。",
       "example_en": "I'll ride the train."
+    },
+    {
+      "japanese": "もの",
+      "reading_romaji": "mono",
+      "translation": "thing / stuff / object",
+      "casual_usage": "もの turns up constantly in day-to-day speech — 「これ、だれのもの？」(Kore, dare no mono?) is 'Whose thing is this?' and 「いいものみつけた！」(Ii mono mitsuketa!) is the excited 'Found something great!' It's also the backbone of compounds you've already seen: のみもの (drink) and たべもの (food) are both built from もの.",
+      "formal_usage": "The word itself doesn't shift register — only the surrounding verb does. A shop clerk returning something says 「こちらはお客様のものでございます」(Kochira wa okyakusama no mono de gozaimasu) with full formality, while もの sits unchanged in the middle.",
+      "similar_words": [
+        {"japanese": "こと", "romaji": "koto", "translation": "abstract 'thing' / fact / event"},
+        {"japanese": "ひと", "romaji": "hito", "translation": "person (used similarly in compound patterns)"},
+        {"japanese": "たべもの", "romaji": "tabemono", "translation": "food (lit. 'eating-thing')"}
+      ],
+      "weekday": "Thursday",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "character": "の",
+      "source": "routine",
+      "example_jp": "これはいいものです。",
+      "example_en": "This is a good thing."
     }
   ],
   "delivery_log": [
@@ -208,6 +227,14 @@
       "week_number": 2,
       "weekday": "Wednesday",
       "word_japanese": "のる"
+    },
+    {
+      "date": "2026-05-07",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "weekday": "Thursday",
+      "word_japanese": "もの",
+      "character": "の"
     }
   ],
   "all_words_learned": [
@@ -695,6 +722,26 @@
       "example_jp": "でんしゃにのります。",
       "example_en": "I'll ride the train.",
       "delivered_at": "2026-05-06"
+    },
+    {
+      "japanese": "もの",
+      "reading_romaji": "mono",
+      "translation": "thing / stuff / object",
+      "casual_usage": "もの turns up constantly in day-to-day speech — 「これ、だれのもの？」(Kore, dare no mono?) is 'Whose thing is this?' and 「いいものみつけた！」(Ii mono mitsuketa!) is the excited 'Found something great!' It's also the backbone of compounds you've already seen: のみもの (drink) and たべもの (food) are both built from もの.",
+      "formal_usage": "The word itself doesn't shift register — only the surrounding verb does. A shop clerk returning something says 「こちらはお客様のものでございます」(Kochira wa okyakusama no mono de gozaimasu) with full formality, while もの sits unchanged in the middle.",
+      "similar_words": [
+        {"japanese": "こと", "romaji": "koto", "translation": "abstract 'thing' / fact / event"},
+        {"japanese": "ひと", "romaji": "hito", "translation": "person (used similarly in compound patterns)"},
+        {"japanese": "たべもの", "romaji": "tabemono", "translation": "food (lit. 'eating-thing')"}
+      ],
+      "weekday": "Thursday",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "character": "の",
+      "source": "routine",
+      "example_jp": "これはいいものです。",
+      "example_en": "This is a good thing.",
+      "delivered_at": "2026-05-07"
     }
   ],
   "all_characters_learned": [
