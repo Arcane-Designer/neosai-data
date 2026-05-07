@@ -201,6 +201,13 @@
       "weekday": "Wednesday",
       "word_japanese": "のる",
       "character": "の"
+    },
+    {
+      "date": "2026-05-06",
+      "slot": "weekday-PM",
+      "week_number": 2,
+      "weekday": "Wednesday",
+      "word_japanese": "のる"
     }
   ],
   "all_words_learned": [
