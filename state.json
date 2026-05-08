@@ -235,6 +235,13 @@
       "weekday": "Thursday",
       "word_japanese": "もの",
       "character": "の"
+    },
+    {
+      "date": "2026-05-07",
+      "slot": "weekday-PM",
+      "week_number": 2,
+      "weekday": "Thursday",
+      "word_japanese": "もの"
     }
   ],
   "all_words_learned": [
