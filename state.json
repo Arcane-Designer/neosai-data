@@ -118,6 +118,25 @@
       "source": "routine",
       "example_jp": "これはいいものです。",
       "example_en": "This is a good thing."
+    },
+    {
+      "japanese": "のほほん",
+      "reading_romaji": "nohohon",
+      "translation": "blissfully carefree; in a contented daze; pleasantly spaced-out",
+      "what_it_is": "のほほん is a gitaigo — a Japanese mimetic word that captures a psychological state no single English word can hold. It describes the serene, slightly dazed feeling of someone who is perfectly content and completely unbothered by the world: a cat napping in a warm patch of sun, a person wandering a market with no agenda, your friend who somehow never seems stressed about anything. It's not laziness — it's the art of peaceful obliviousness.",
+      "similar_words": [
+        {"japanese": "ぼんやり", "romaji": "bonyari", "translation": "vaguely zoned-out; hazily absent-minded"},
+        {"japanese": "のんびり", "romaji": "nonbiri", "translation": "leisurely; relaxed; at a slow easy pace"},
+        {"japanese": "ほのぼの", "romaji": "honobono", "translation": "warm and heartwarming; cozy-gentle"}
+      ],
+      "weekday": "Friday",
+      "slot": "friday-AM",
+      "week_number": 2,
+      "character": "の",
+      "source": "routine",
+      "is_funword": true,
+      "example_jp": "のほほんとしてる。",
+      "example_en": "They're blissfully spacing out."
     }
   ],
   "delivery_log": [
@@ -242,6 +261,14 @@
       "week_number": 2,
       "weekday": "Thursday",
       "word_japanese": "もの"
+    },
+    {
+      "date": "2026-05-08",
+      "slot": "friday-AM",
+      "week_number": 2,
+      "word_japanese": "のほほん",
+      "character": "の",
+      "weekday": "Friday"
     }
   ],
   "all_words_learned": [
@@ -508,7 +535,7 @@
       "japanese": "九",
       "reading_romaji": "kyoo",
       "translation": "9",
-      "notes": "(also said “Ku” - but avoided since it can mean suffering)",
+      "notes": "(also said \"Ku\" - but avoided since it can mean suffering)",
       "added_at": "2026-04-29T22:57:58.261Z",
       "source": "user",
       "week_number": 1,
@@ -749,6 +776,26 @@
       "example_jp": "これはいいものです。",
       "example_en": "This is a good thing.",
       "delivered_at": "2026-05-07"
+    },
+    {
+      "japanese": "のほほん",
+      "reading_romaji": "nohohon",
+      "translation": "blissfully carefree; in a contented daze; pleasantly spaced-out",
+      "what_it_is": "のほほん is a gitaigo — a Japanese mimetic word that captures a psychological state no single English word can hold. It describes the serene, slightly dazed feeling of someone who is perfectly content and completely unbothered by the world: a cat napping in a warm patch of sun, a person wandering a market with no agenda, your friend who somehow never seems stressed about anything. It's not laziness — it's the art of peaceful obliviousness.",
+      "similar_words": [
+        {"japanese": "ぼんやり", "romaji": "bonyari", "translation": "vaguely zoned-out; hazily absent-minded"},
+        {"japanese": "のんびり", "romaji": "nonbiri", "translation": "leisurely; relaxed; at a slow easy pace"},
+        {"japanese": "ほのぼの", "romaji": "honobono", "translation": "warm and heartwarming; cozy-gentle"}
+      ],
+      "weekday": "Friday",
+      "slot": "friday-AM",
+      "week_number": 2,
+      "character": "の",
+      "source": "routine",
+      "is_funword": true,
+      "delivered_at": "2026-05-08",
+      "example_jp": "のほほんとしてる。",
+      "example_en": "They're blissfully spacing out."
     }
   ],
   "all_characters_learned": [
@@ -912,7 +959,7 @@
       "japanese": "九",
       "reading_romaji": "kyoo",
       "translation": "9",
-      "notes": "(also said “Ku” - but avoided since it can mean suffering)",
+      "notes": "(also said \"Ku\" - but avoided since it can mean suffering)",
       "added_at": "2026-04-29T22:57:58.261Z",
       "source": "user",
       "updated_at": "2026-04-29T23:06:10.596Z"
