@@ -269,6 +269,12 @@
       "word_japanese": "のほほん",
       "character": "の",
       "weekday": "Friday"
+    },
+    {
+      "date": "2026-05-09",
+      "slot": "saturday-recap",
+      "week_number": 2,
+      "weekday": "Saturday"
     }
   ],
   "all_words_learned": [
