@@ -1,12 +1,32 @@
 {
   "schema_version": 2,
   "system_start_date": "2026-04-29",
-  "current_week_number": 2,
-  "current_week_start": "2026-05-04",
-  "current_character": "の",
-  "current_character_romaji": "no",
+  "current_week_number": 3,
+  "current_week_start": "2026-05-11",
+  "current_character": "た",
+  "current_character_romaji": "ta",
   "current_character_script": "hiragana",
-  "current_week_words": [],
+  "current_week_words": [
+    {
+      "japanese": "たべる",
+      "reading_romaji": "taberu",
+      "translation": "to eat",
+      "casual_usage": "In casual speech たべる stays in plain form — 「なにたべる？」(Nani taberu?) is the natural 'What do you feel like eating?' and 「たべた？」(Tabeta?) is the quick 'Did you eat?' — a greeting almost as common as hello among friends and family.",
+      "formal_usage": "Shifts to たべます (tabemasu) in polite contexts — 「なにをたべますか？」(Nani wo tabemasu ka?) is how you'd ask 'What would you like to eat?' at a restaurant or with someone you've just met.",
+      "similar_words": [
+        {"japanese": "のむ", "romaji": "nomu", "translation": "to drink"},
+        {"japanese": "たべもの", "romaji": "tabemono", "translation": "food / something to eat"},
+        {"japanese": "たべほうだい", "romaji": "tabehodai", "translation": "all-you-can-eat"}
+      ],
+      "weekday": "Monday",
+      "slot": "weekday-AM",
+      "week_number": 3,
+      "character": "た",
+      "source": "routine",
+      "example_jp": "ごはんをたべます。",
+      "example_en": "I eat rice."
+    }
+  ],
   "delivery_log": [
     {
       "date": "2026-04-29",
@@ -143,6 +163,14 @@
       "slot": "sunday-master-recap",
       "week_number": 2,
       "weekday": "Sunday"
+    },
+    {
+      "date": "2026-05-11",
+      "slot": "weekday-AM",
+      "week_number": 3,
+      "weekday": "Monday",
+      "word_japanese": "たべる",
+      "character": "た"
     }
   ],
   "all_words_learned": [
@@ -672,6 +700,26 @@
       "delivered_at": "2026-05-08",
       "example_jp": "のほほんとしてる。",
       "example_en": "They're blissfully spacing out."
+    },
+    {
+      "japanese": "たべる",
+      "reading_romaji": "taberu",
+      "translation": "to eat",
+      "casual_usage": "In casual speech たべる stays in plain form — 「なにたべる？」(Nani taberu?) is the natural 'What do you feel like eating?' and 「たべた？」(Tabeta?) is the quick 'Did you eat?' — a greeting almost as common as hello among friends and family.",
+      "formal_usage": "Shifts to たべます (tabemasu) in polite contexts — 「なにをたべますか？」(Nani wo tabemasu ka?) is how you'd ask 'What would you like to eat?' at a restaurant or with someone you've just met.",
+      "similar_words": [
+        {"japanese": "のむ", "romaji": "nomu", "translation": "to drink"},
+        {"japanese": "たべもの", "romaji": "tabemono", "translation": "food / something to eat"},
+        {"japanese": "たべほうだい", "romaji": "tabehodai", "translation": "all-you-can-eat"}
+      ],
+      "weekday": "Monday",
+      "slot": "weekday-AM",
+      "week_number": 3,
+      "character": "た",
+      "source": "routine",
+      "delivered_at": "2026-05-11",
+      "example_jp": "ごはんをたべます。",
+      "example_en": "I eat rice."
     }
   ],
   "all_characters_learned": [
@@ -683,7 +731,8 @@
     "ぬ",
     "ず",
     "ぷ",
-    "の"
+    "の",
+    "た"
   ],
   "user_words": [
     {
