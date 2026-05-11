@@ -6,139 +6,7 @@
   "current_character": "の",
   "current_character_romaji": "no",
   "current_character_script": "hiragana",
-  "current_week_words": [
-    {
-      "japanese": "のむ",
-      "reading_romaji": "nomu",
-      "translation": "to drink",
-      "casual_usage": "In casual speech, のむ stays in its plain form — 「なにのむ？」(Nani nomu?) means 'What are you drinking?' and 「いっしょにのもう！」(Issho ni nomou!) means 'Let's drink together!' You'll hear this constantly at any get-together.",
-      "formal_usage": "Shifts to のみます (nomimasu) in polite contexts — 「なにをのみますか？」(Nani wo nomimasu ka?) is how you'd ask 'What would you like to drink?' at a restaurant or with someone you're just meeting.",
-      "similar_words": [
-        {
-          "japanese": "たべる",
-          "romaji": "taberu",
-          "translation": "to eat"
-        },
-        {
-          "japanese": "のみもの",
-          "romaji": "nomimono",
-          "translation": "a drink / beverage"
-        },
-        {
-          "japanese": "のど",
-          "romaji": "nodo",
-          "translation": "throat"
-        }
-      ],
-      "weekday": "Monday",
-      "slot": "weekday-AM",
-      "week_number": 2,
-      "character": "の",
-      "source": "routine",
-      "example_jp": "みずをのみます。",
-      "example_en": "I drink water."
-    },
-    {
-      "japanese": "きのう",
-      "reading_romaji": "kinou",
-      "translation": "yesterday",
-      "casual_usage": "Use it to kick off any story about the day before — 「きのう、なにした？」(Kinō, nani shita?) means 'What did you do yesterday?' and rolls off the tongue naturally in any casual catch-up.",
-      "formal_usage": "The word itself stays the same in formal settings; just pair it with polite verb endings. 「きのうはありがとうございました」(Kinō wa arigatō gozaimashita) is a perfectly polished way to thank someone for something that happened the previous day.",
-      "similar_words": [
-        {
-          "japanese": "あした",
-          "romaji": "ashita",
-          "translation": "tomorrow"
-        },
-        {
-          "japanese": "きょう",
-          "romaji": "kyou",
-          "translation": "today"
-        },
-        {
-          "japanese": "おととい",
-          "romaji": "ototoi",
-          "translation": "the day before yesterday"
-        }
-      ],
-      "weekday": "Tuesday",
-      "slot": "weekday-AM",
-      "week_number": 2,
-      "character": "の",
-      "source": "routine",
-      "example_jp": "きのうあそんだ。",
-      "example_en": "I played yesterday."
-    },
-    {
-      "japanese": "のる",
-      "reading_romaji": "noru",
-      "translation": "to ride / to get on",
-      "casual_usage": "In casual speech, のる stays plain — 「でんしゃのる？」(Densha noru?) is a quick 'You taking the train?' You'll also hear 「のっていい？」(Notte ii?) — the breezy way to ask a friend 'Can I get in your car?'",
-      "formal_usage": "Shifts to のります (norimasu) in polite contexts — 「このバスにのりますか？」(Kono basu ni norimasu ka?) is how you'd ask 'Are you taking this bus?' in a situation that calls for politeness.",
-      "similar_words": [
-        {
-          "japanese": "おりる",
-          "romaji": "oriru",
-          "translation": "to get off (a vehicle)"
-        },
-        {
-          "japanese": "のりかえる",
-          "romaji": "norikaeru",
-          "translation": "to transfer (trains, buses)"
-        },
-        {
-          "japanese": "のりば",
-          "romaji": "noriba",
-          "translation": "boarding area / platform"
-        }
-      ],
-      "weekday": "Wednesday",
-      "slot": "weekday-AM",
-      "week_number": 2,
-      "character": "の",
-      "source": "routine",
-      "example_jp": "でんしゃにのります。",
-      "example_en": "I'll ride the train."
-    },
-    {
-      "japanese": "もの",
-      "reading_romaji": "mono",
-      "translation": "thing / stuff / object",
-      "casual_usage": "もの turns up constantly in day-to-day speech — 「これ、だれのもの？」(Kore, dare no mono?) is 'Whose thing is this?' and 「いいものみつけた！」(Ii mono mitsuketa!) is the excited 'Found something great!' It's also the backbone of compounds you've already seen: のみもの (drink) and たべもの (food) are both built from もの.",
-      "formal_usage": "The word itself doesn't shift register — only the surrounding verb does. A shop clerk returning something says 「こちらはお客様のものでございます」(Kochira wa okyakusama no mono de gozaimasu) with full formality, while もの sits unchanged in the middle.",
-      "similar_words": [
-        {"japanese": "こと", "romaji": "koto", "translation": "abstract 'thing' / fact / event"},
-        {"japanese": "ひと", "romaji": "hito", "translation": "person (used similarly in compound patterns)"},
-        {"japanese": "たべもの", "romaji": "tabemono", "translation": "food (lit. 'eating-thing')"}
-      ],
-      "weekday": "Thursday",
-      "slot": "weekday-AM",
-      "week_number": 2,
-      "character": "の",
-      "source": "routine",
-      "example_jp": "これはいいものです。",
-      "example_en": "This is a good thing."
-    },
-    {
-      "japanese": "のほほん",
-      "reading_romaji": "nohohon",
-      "translation": "blissfully carefree; in a contented daze; pleasantly spaced-out",
-      "what_it_is": "のほほん is a gitaigo — a Japanese mimetic word that captures a psychological state no single English word can hold. It describes the serene, slightly dazed feeling of someone who is perfectly content and completely unbothered by the world: a cat napping in a warm patch of sun, a person wandering a market with no agenda, your friend who somehow never seems stressed about anything. It's not laziness — it's the art of peaceful obliviousness.",
-      "similar_words": [
-        {"japanese": "ぼんやり", "romaji": "bonyari", "translation": "vaguely zoned-out; hazily absent-minded"},
-        {"japanese": "のんびり", "romaji": "nonbiri", "translation": "leisurely; relaxed; at a slow easy pace"},
-        {"japanese": "ほのぼの", "romaji": "honobono", "translation": "warm and heartwarming; cozy-gentle"}
-      ],
-      "weekday": "Friday",
-      "slot": "friday-AM",
-      "week_number": 2,
-      "character": "の",
-      "source": "routine",
-      "is_funword": true,
-      "example_jp": "のほほんとしてる。",
-      "example_en": "They're blissfully spacing out."
-    }
-  ],
+  "current_week_words": [],
   "delivery_log": [
     {
       "date": "2026-04-29",
@@ -269,6 +137,12 @@
       "word_japanese": "のほほん",
       "character": "の",
       "weekday": "Friday"
+    },
+    {
+      "date": "2026-05-10",
+      "slot": "sunday-master-recap",
+      "week_number": 2,
+      "weekday": "Sunday"
     }
   ],
   "all_words_learned": [
@@ -276,6 +150,7 @@
       "japanese": "いい",
       "reading_romaji": "ii",
       "english": "good; nice; fine",
+      "translation": "good; nice; fine",
       "date": "2026-04-29",
       "slot": "weekday-AM",
       "week_number": 1,
@@ -290,6 +165,7 @@
       "japanese": "いぬ",
       "reading_romaji": "inu",
       "english": "dog",
+      "translation": "dog",
       "date": "2026-04-29",
       "slot": "weekday-AM",
       "week_number": 1,
@@ -982,6 +858,6 @@
     }
   ],
   "skipped_character_priorities": [],
-  "last_health_check": null,
+  "last_health_check": "2026-05-10",
   "notes": "Neosai state file. Routines read and write this. user_words is the manually-added list (replaces user-lists.json from v1). all_words_learned grows over time and includes both routine-delivered words and user-added words distinguished by the 'source' field."
 }
