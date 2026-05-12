@@ -6,7 +6,27 @@
   "current_character": "の",
   "current_character_romaji": "no",
   "current_character_script": "hiragana",
-  "current_week_words": [],
+  "current_week_words": [
+    {
+      "japanese": "のぼる",
+      "reading_romaji": "noboru",
+      "translation": "to climb / to go up",
+      "casual_usage": "In casual speech, のぼる stays plain — 「やまのぼる？」(Yama noboru?) is a quick 'Wanna climb the mountain?' and 「もうのぼれない！」(Mou noborenai!) is the tired 'I can't climb anymore!' It pairs naturally with stairs (かいだん), mountains (やま), and hills (おか).",
+      "formal_usage": "Shifts to のぼります (noborimasu) in polite contexts — 「かいだんをのぼります」(Kaidan wo noborimasu) means 'Go up the stairs.' You'll also see it on signs near staircases and temple approaches.",
+      "similar_words": [
+        {"japanese": "おりる", "romaji": "oriru", "translation": "to go down / to get off"},
+        {"japanese": "あがる", "romaji": "agaru", "translation": "to rise / to go up (less physical effort implied)"},
+        {"japanese": "のる", "romaji": "noru", "translation": "to ride / to get on"}
+      ],
+      "weekday": "Tuesday",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "character": "の",
+      "source": "routine",
+      "example_jp": "やまにのぼります。",
+      "example_en": "I climb the mountain."
+    }
+  ],
   "delivery_log": [
     {
       "date": "2026-04-29",
@@ -143,6 +163,14 @@
       "slot": "sunday-master-recap",
       "week_number": 2,
       "weekday": "Sunday"
+    },
+    {
+      "date": "2026-05-12",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "weekday": "Tuesday",
+      "word_japanese": "のぼる",
+      "character": "の"
     }
   ],
   "all_words_learned": [
@@ -672,6 +700,26 @@
       "delivered_at": "2026-05-08",
       "example_jp": "のほほんとしてる。",
       "example_en": "They're blissfully spacing out."
+    },
+    {
+      "japanese": "のぼる",
+      "reading_romaji": "noboru",
+      "translation": "to climb / to go up",
+      "casual_usage": "In casual speech, のぼる stays plain — 「やまのぼる？」(Yama noboru?) is a quick 'Wanna climb the mountain?' and 「もうのぼれない！」(Mou noborenai!) is the tired 'I can't climb anymore!' It pairs naturally with stairs (かいだん), mountains (やま), and hills (おか).",
+      "formal_usage": "Shifts to のぼります (noborimasu) in polite contexts — 「かいだんをのぼります」(Kaidan wo noborimasu) means 'Go up the stairs.' You'll also see it on signs near staircases and temple approaches.",
+      "similar_words": [
+        {"japanese": "おりる", "romaji": "oriru", "translation": "to go down / to get off"},
+        {"japanese": "あがる", "romaji": "agaru", "translation": "to rise / to go up (less physical effort implied)"},
+        {"japanese": "のる", "romaji": "noru", "translation": "to ride / to get on"}
+      ],
+      "weekday": "Tuesday",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "character": "の",
+      "source": "routine",
+      "example_jp": "やまにのぼります。",
+      "example_en": "I climb the mountain.",
+      "delivered_at": "2026-05-12"
     }
   ],
   "all_characters_learned": [
