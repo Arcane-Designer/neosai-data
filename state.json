@@ -6,7 +6,27 @@
   "current_character": "の",
   "current_character_romaji": "no",
   "current_character_script": "hiragana",
-  "current_week_words": [],
+  "current_week_words": [
+    {
+      "japanese": "のど",
+      "reading_romaji": "nodo",
+      "translation": "throat",
+      "casual_usage": "のど is everywhere in everyday speech — 「のどかわいた」(Nodo kawaita) is the go-to way to say 'I'm thirsty' (literally 'my throat has dried up') and 「のどいたい」(Nodo itai) means 'my throat hurts.' These two phrases get used constantly, especially during cold season or after a long night out.",
+      "formal_usage": "The word itself doesn't change register — only the surrounding grammar shifts. At a clinic or pharmacy, 「のどがいたいんですが」(Nodo ga itain desu ga) is the polite way to report a sore throat, with のど unchanged at the core.",
+      "similar_words": [
+        {"japanese": "くち", "romaji": "kuchi", "translation": "mouth"},
+        {"japanese": "はな", "romaji": "hana", "translation": "nose"},
+        {"japanese": "みみ", "romaji": "mimi", "translation": "ear"}
+      ],
+      "weekday": "Wednesday",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "character": "の",
+      "source": "routine",
+      "example_jp": "のどがかわいた。",
+      "example_en": "I'm thirsty. (lit. My throat is dry.)"
+    }
+  ],
   "delivery_log": [
     {
       "date": "2026-04-29",
@@ -143,6 +163,14 @@
       "slot": "sunday-master-recap",
       "week_number": 2,
       "weekday": "Sunday"
+    },
+    {
+      "date": "2026-05-13",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "weekday": "Wednesday",
+      "word_japanese": "のど",
+      "character": "の"
     }
   ],
   "all_words_learned": [
@@ -672,6 +700,26 @@
       "delivered_at": "2026-05-08",
       "example_jp": "のほほんとしてる。",
       "example_en": "They're blissfully spacing out."
+    },
+    {
+      "japanese": "のど",
+      "reading_romaji": "nodo",
+      "translation": "throat",
+      "casual_usage": "のど is everywhere in everyday speech — 「のどかわいた」(Nodo kawaita) is the go-to way to say 'I'm thirsty' (literally 'my throat has dried up') and 「のどいたい」(Nodo itai) means 'my throat hurts.' These two phrases get used constantly, especially during cold season or after a long night out.",
+      "formal_usage": "The word itself doesn't change register — only the surrounding grammar shifts. At a clinic or pharmacy, 「のどがいたいんですが」(Nodo ga itain desu ga) is the polite way to report a sore throat, with のど unchanged at the core.",
+      "similar_words": [
+        {"japanese": "くち", "romaji": "kuchi", "translation": "mouth"},
+        {"japanese": "はな", "romaji": "hana", "translation": "nose"},
+        {"japanese": "みみ", "romaji": "mimi", "translation": "ear"}
+      ],
+      "weekday": "Wednesday",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "character": "の",
+      "source": "routine",
+      "example_jp": "のどがかわいた。",
+      "example_en": "I'm thirsty. (lit. My throat is dry.)",
+      "delivered_at": "2026-05-13"
     }
   ],
   "all_characters_learned": [
