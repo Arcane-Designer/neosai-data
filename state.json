@@ -14,9 +14,21 @@
       "casual_usage": "のど is everywhere in everyday speech — 「のどかわいた」(Nodo kawaita) is the go-to way to say 'I'm thirsty' (literally 'my throat has dried up') and 「のどいたい」(Nodo itai) means 'my throat hurts.' These two phrases get used constantly, especially during cold season or after a long night out.",
       "formal_usage": "The word itself doesn't change register — only the surrounding grammar shifts. At a clinic or pharmacy, 「のどがいたいんですが」(Nodo ga itain desu ga) is the polite way to report a sore throat, with のど unchanged at the core.",
       "similar_words": [
-        {"japanese": "くち", "romaji": "kuchi", "translation": "mouth"},
-        {"japanese": "はな", "romaji": "hana", "translation": "nose"},
-        {"japanese": "みみ", "romaji": "mimi", "translation": "ear"}
+        {
+          "japanese": "くち",
+          "romaji": "kuchi",
+          "translation": "mouth"
+        },
+        {
+          "japanese": "はな",
+          "romaji": "hana",
+          "translation": "nose"
+        },
+        {
+          "japanese": "みみ",
+          "romaji": "mimi",
+          "translation": "ear"
+        }
       ],
       "weekday": "Wednesday",
       "slot": "weekday-AM",
@@ -25,6 +37,37 @@
       "source": "routine",
       "example_jp": "のどがかわいた。",
       "example_en": "I'm thirsty. (lit. My throat is dry.)"
+    },
+    {
+      "japanese": "のぼる",
+      "reading_romaji": "noboru",
+      "translation": "to climb; to go up",
+      "casual_usage": "のぼる stays plain in casual speech — 「さか、のぼるの？」(Saka, noboru no?) is a breezy 'Are you going up the hill?' and 「いっしょにのぼろう！」(Issho ni noborou!) means 'Let's climb together!' It's the natural verb for any kind of ascending — stairs, hills, mountains, a ladder.",
+      "formal_usage": "In polite contexts it becomes のぼります (noborimasu). 「ここからやまにのぼりますか？」(Koko kara yama ni noborimasu ka?) is the polite way to ask 'Are you climbing the mountain from here?' The verb shifts, but のぼる is unchanged at the core.",
+      "similar_words": [
+        {
+          "japanese": "あがる",
+          "romaji": "agaru",
+          "translation": "to go up / rise (prices, stepping up onto a floor)"
+        },
+        {
+          "japanese": "くだる",
+          "romaji": "kudaru",
+          "translation": "to go down / descend"
+        },
+        {
+          "japanese": "おりる",
+          "romaji": "oriru",
+          "translation": "to go down / get off (stairs or a vehicle)"
+        }
+      ],
+      "weekday": "Thursday",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "character": "の",
+      "source": "routine",
+      "example_jp": "やまにのぼる。",
+      "example_en": "I climb the mountain."
     }
   ],
   "delivery_log": [
@@ -170,6 +213,14 @@
       "week_number": 2,
       "weekday": "Wednesday",
       "word_japanese": "のど",
+      "character": "の"
+    },
+    {
+      "date": "2026-05-14",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "weekday": "Thursday",
+      "word_japanese": "のぼる",
       "character": "の"
     }
   ],
@@ -668,9 +719,21 @@
       "casual_usage": "もの turns up constantly in day-to-day speech — 「これ、だれのもの？」(Kore, dare no mono?) is 'Whose thing is this?' and 「いいものみつけた！」(Ii mono mitsuketa!) is the excited 'Found something great!' It's also the backbone of compounds you've already seen: のみもの (drink) and たべもの (food) are both built from もの.",
       "formal_usage": "The word itself doesn't shift register — only the surrounding verb does. A shop clerk returning something says 「こちらはお客様のものでございます」(Kochira wa okyakusama no mono de gozaimasu) with full formality, while もの sits unchanged in the middle.",
       "similar_words": [
-        {"japanese": "こと", "romaji": "koto", "translation": "abstract 'thing' / fact / event"},
-        {"japanese": "ひと", "romaji": "hito", "translation": "person (used similarly in compound patterns)"},
-        {"japanese": "たべもの", "romaji": "tabemono", "translation": "food (lit. 'eating-thing')"}
+        {
+          "japanese": "こと",
+          "romaji": "koto",
+          "translation": "abstract 'thing' / fact / event"
+        },
+        {
+          "japanese": "ひと",
+          "romaji": "hito",
+          "translation": "person (used similarly in compound patterns)"
+        },
+        {
+          "japanese": "たべもの",
+          "romaji": "tabemono",
+          "translation": "food (lit. 'eating-thing')"
+        }
       ],
       "weekday": "Thursday",
       "slot": "weekday-AM",
@@ -687,9 +750,21 @@
       "translation": "blissfully carefree; in a contented daze; pleasantly spaced-out",
       "what_it_is": "のほほん is a gitaigo — a Japanese mimetic word that captures a psychological state no single English word can hold. It describes the serene, slightly dazed feeling of someone who is perfectly content and completely unbothered by the world: a cat napping in a warm patch of sun, a person wandering a market with no agenda, your friend who somehow never seems stressed about anything. It's not laziness — it's the art of peaceful obliviousness.",
       "similar_words": [
-        {"japanese": "ぼんやり", "romaji": "bonyari", "translation": "vaguely zoned-out; hazily absent-minded"},
-        {"japanese": "のんびり", "romaji": "nonbiri", "translation": "leisurely; relaxed; at a slow easy pace"},
-        {"japanese": "ほのぼの", "romaji": "honobono", "translation": "warm and heartwarming; cozy-gentle"}
+        {
+          "japanese": "ぼんやり",
+          "romaji": "bonyari",
+          "translation": "vaguely zoned-out; hazily absent-minded"
+        },
+        {
+          "japanese": "のんびり",
+          "romaji": "nonbiri",
+          "translation": "leisurely; relaxed; at a slow easy pace"
+        },
+        {
+          "japanese": "ほのぼの",
+          "romaji": "honobono",
+          "translation": "warm and heartwarming; cozy-gentle"
+        }
       ],
       "weekday": "Friday",
       "slot": "friday-AM",
@@ -708,9 +783,21 @@
       "casual_usage": "のど is everywhere in everyday speech — 「のどかわいた」(Nodo kawaita) is the go-to way to say 'I'm thirsty' (literally 'my throat has dried up') and 「のどいたい」(Nodo itai) means 'my throat hurts.' These two phrases get used constantly, especially during cold season or after a long night out.",
       "formal_usage": "The word itself doesn't change register — only the surrounding grammar shifts. At a clinic or pharmacy, 「のどがいたいんですが」(Nodo ga itain desu ga) is the polite way to report a sore throat, with のど unchanged at the core.",
       "similar_words": [
-        {"japanese": "くち", "romaji": "kuchi", "translation": "mouth"},
-        {"japanese": "はな", "romaji": "hana", "translation": "nose"},
-        {"japanese": "みみ", "romaji": "mimi", "translation": "ear"}
+        {
+          "japanese": "くち",
+          "romaji": "kuchi",
+          "translation": "mouth"
+        },
+        {
+          "japanese": "はな",
+          "romaji": "hana",
+          "translation": "nose"
+        },
+        {
+          "japanese": "みみ",
+          "romaji": "mimi",
+          "translation": "ear"
+        }
       ],
       "weekday": "Wednesday",
       "slot": "weekday-AM",
@@ -720,6 +807,38 @@
       "example_jp": "のどがかわいた。",
       "example_en": "I'm thirsty. (lit. My throat is dry.)",
       "delivered_at": "2026-05-13"
+    },
+    {
+      "japanese": "のぼる",
+      "reading_romaji": "noboru",
+      "translation": "to climb; to go up",
+      "casual_usage": "のぼる stays plain in casual speech — 「さか、のぼるの？」(Saka, noboru no?) is a breezy 'Are you going up the hill?' and 「いっしょにのぼろう！」(Issho ni noborou!) means 'Let's climb together!' It's the natural verb for any kind of ascending — stairs, hills, mountains, a ladder.",
+      "formal_usage": "In polite contexts it becomes のぼります (noborimasu). 「ここからやまにのぼりますか？」(Koko kara yama ni noborimasu ka?) is the polite way to ask 'Are you climbing the mountain from here?' The verb shifts, but のぼる is unchanged at the core.",
+      "similar_words": [
+        {
+          "japanese": "あがる",
+          "romaji": "agaru",
+          "translation": "to go up / rise (prices, stepping up onto a floor)"
+        },
+        {
+          "japanese": "くだる",
+          "romaji": "kudaru",
+          "translation": "to go down / descend"
+        },
+        {
+          "japanese": "おりる",
+          "romaji": "oriru",
+          "translation": "to go down / get off (stairs or a vehicle)"
+        }
+      ],
+      "weekday": "Thursday",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "character": "の",
+      "source": "routine",
+      "example_jp": "やまにのぼる。",
+      "example_en": "I climb the mountain.",
+      "delivered_at": "2026-05-14"
     }
   ],
   "all_characters_learned": [
