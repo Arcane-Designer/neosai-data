@@ -1,30 +1,31 @@
 {
   "schema_version": 2,
   "system_start_date": "2026-04-29",
-  "current_week_number": 2,
+  "current_week_number": 3,
   "current_week_start": "2026-05-04",
   "current_character": "の",
   "current_character_romaji": "no",
   "current_character_script": "hiragana",
   "current_week_words": [
     {
-      "japanese": "のど",
-      "reading_romaji": "nodo",
-      "translation": "throat",
-      "casual_usage": "のど is everywhere in everyday speech — 「のどかわいた」(Nodo kawaita) is the go-to way to say 'I'm thirsty' (literally 'my throat has dried up') and 「のどいたい」(Nodo itai) means 'my throat hurts.' These two phrases get used constantly, especially during cold season or after a long night out.",
-      "formal_usage": "The word itself doesn't change register — only the surrounding grammar shifts. At a clinic or pharmacy, 「のどがいたいんですが」(Nodo ga itain desu ga) is the polite way to report a sore throat, with のど unchanged at the core.",
+      "japanese": "のろのろ",
+      "reading_romaji": "noronoro",
+      "translation": "moving at an agonizing crawl; painfully, sluggishly slow",
+      "what_it_is": "のろのろ is a gitaigo — a Japanese mimetic word that sounds like exactly what it means. The doubled syllable gives the word itself a dragging, laboring quality. It describes the agonizing pace of slow-moving traffic, a child who refuses to hurry, or anyone poking along when you desperately want them to speed up. Unlike のほほん (blissful oblivion), のろのろ carries a faint undertone of frustration — usually from the observer, not the slowpoke.",
       "similar_words": [
-        {"japanese": "くち", "romaji": "kuchi", "translation": "mouth"},
-        {"japanese": "はな", "romaji": "hana", "translation": "nose"},
-        {"japanese": "みみ", "romaji": "mimi", "translation": "ear"}
+        {"japanese": "ゆっくり", "romaji": "yukkuri", "translation": "slowly; at a leisurely pace (neutral to positive)"},
+        {"japanese": "もたもた", "romaji": "motamota", "translation": "fumbling and dithering; taking forever on a simple task"},
+        {"japanese": "だらだら", "romaji": "daradara", "translation": "dragging on tediously; loose and aimless without end"}
       ],
-      "weekday": "Wednesday",
-      "slot": "weekday-AM",
-      "week_number": 2,
+      "weekday": "Friday",
+      "slot": "friday-AM",
+      "week_number": 3,
       "character": "の",
       "source": "routine",
-      "example_jp": "のどがかわいた。",
-      "example_en": "I'm thirsty. (lit. My throat is dry.)"
+      "is_funword": true,
+      "example_jp": "くるまがのろのろすすんだ。",
+      "example_en": "The car crept along at a crawl.",
+      "delivered_at": "2026-05-15"
     }
   ],
   "delivery_log": [
@@ -171,6 +172,14 @@
       "weekday": "Wednesday",
       "word_japanese": "のど",
       "character": "の"
+    },
+    {
+      "date": "2026-05-15",
+      "slot": "friday-AM",
+      "week_number": 3,
+      "word_japanese": "のろのろ",
+      "character": "の",
+      "weekday": "Friday"
     }
   ],
   "all_words_learned": [
@@ -720,6 +729,26 @@
       "example_jp": "のどがかわいた。",
       "example_en": "I'm thirsty. (lit. My throat is dry.)",
       "delivered_at": "2026-05-13"
+    },
+    {
+      "japanese": "のろのろ",
+      "reading_romaji": "noronoro",
+      "translation": "moving at an agonizing crawl; painfully, sluggishly slow",
+      "what_it_is": "のろのろ is a gitaigo — a Japanese mimetic word that sounds like exactly what it means. The doubled syllable gives the word itself a dragging, laboring quality. It describes the agonizing pace of slow-moving traffic, a child who refuses to hurry, or anyone poking along when you desperately want them to speed up. Unlike のほほん (blissful oblivion), のろのろ carries a faint undertone of frustration — usually from the observer, not the slowpoke.",
+      "similar_words": [
+        {"japanese": "ゆっくり", "romaji": "yukkuri", "translation": "slowly; at a leisurely pace (neutral to positive)"},
+        {"japanese": "もたもた", "romaji": "motamota", "translation": "fumbling and dithering; taking forever on a simple task"},
+        {"japanese": "だらだら", "romaji": "daradara", "translation": "dragging on tediously; loose and aimless without end"}
+      ],
+      "weekday": "Friday",
+      "slot": "friday-AM",
+      "week_number": 3,
+      "character": "の",
+      "source": "routine",
+      "is_funword": true,
+      "example_jp": "くるまがのろのろすすんだ。",
+      "example_en": "The car crept along at a crawl.",
+      "delivered_at": "2026-05-15"
     }
   ],
   "all_characters_learned": [
