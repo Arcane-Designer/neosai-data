@@ -180,6 +180,12 @@
       "word_japanese": "のろのろ",
       "character": "の",
       "weekday": "Friday"
+    },
+    {
+      "date": "2026-05-15",
+      "slot": "friday-PM",
+      "week_number": 3,
+      "word_japanese": "のろのろ"
     }
   ],
   "all_words_learned": [
