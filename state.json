@@ -26,6 +26,26 @@
       "example_jp": "くるまがのろのろすすんだ。",
       "example_en": "The car crept along at a crawl.",
       "delivered_at": "2026-05-15"
+    },
+    {
+      "japanese": "のぼる",
+      "reading_romaji": "noboru",
+      "translation": "to climb; to go up",
+      "casual_usage": "のぼる stays plain in casual speech — 「やまのぼろう！」(Yama noborō!) is the casual 'Let's climb a mountain!' You'll also hear it stretched to prices and temperatures: 「ねだんがのぼってる」(Nedan ga nobotteru) means 'Prices are going up.'",
+      "formal_usage": "Shifts to のぼります (noborimasu) in polite form — 「かいだんをのぼります」(Kaidan wo noborimasu) means 'I'll take the stairs up.' At a trailhead, 「このルートでのぼりますか？」(Kono rūto de noborimasu ka?) is the polite 'Are you taking this route up?'",
+      "similar_words": [
+        {"japanese": "くだる", "romaji": "kudaru", "translation": "to go down, to descend"},
+        {"japanese": "あがる", "romaji": "agaru", "translation": "to rise; to go up (broader: sun rises, mood lifts)"},
+        {"japanese": "のりこえる", "romaji": "norikoeru", "translation": "to climb over; to get past something"}
+      ],
+      "weekday": "Monday",
+      "slot": "weekday-AM",
+      "week_number": 3,
+      "character": "の",
+      "source": "routine",
+      "example_jp": "やまをのぼった。",
+      "example_en": "I climbed the mountain.",
+      "delivered_at": "2026-05-18"
     }
   ],
   "delivery_log": [
@@ -186,6 +206,14 @@
       "slot": "sunday-master-recap",
       "week_number": 3,
       "weekday": "Sunday"
+    },
+    {
+      "date": "2026-05-18",
+      "slot": "weekday-AM",
+      "week_number": 3,
+      "weekday": "Monday",
+      "word_japanese": "のぼる",
+      "character": "の"
     }
   ],
   "all_words_learned": [
@@ -755,6 +783,26 @@
       "example_jp": "くるまがのろのろすすんだ。",
       "example_en": "The car crept along at a crawl.",
       "delivered_at": "2026-05-15"
+    },
+    {
+      "japanese": "のぼる",
+      "reading_romaji": "noboru",
+      "translation": "to climb; to go up",
+      "casual_usage": "のぼる stays plain in casual speech — 「やまのぼろう！」(Yama noborō!) is the casual 'Let's climb a mountain!' You'll also hear it stretched to prices and temperatures: 「ねだんがのぼってる」(Nedan ga nobotteru) means 'Prices are going up.'",
+      "formal_usage": "Shifts to のぼります (noborimasu) in polite form — 「かいだんをのぼります」(Kaidan wo noborimasu) means 'I'll take the stairs up.' At a trailhead, 「このルートでのぼりますか？」(Kono rūto de noborimasu ka?) is the polite 'Are you taking this route up?'",
+      "similar_words": [
+        {"japanese": "くだる", "romaji": "kudaru", "translation": "to go down, to descend"},
+        {"japanese": "あがる", "romaji": "agaru", "translation": "to rise; to go up (broader: sun rises, mood lifts)"},
+        {"japanese": "のりこえる", "romaji": "norikoeru", "translation": "to climb over; to get past something"}
+      ],
+      "weekday": "Monday",
+      "slot": "weekday-AM",
+      "week_number": 3,
+      "character": "の",
+      "source": "routine",
+      "example_jp": "やまをのぼった。",
+      "example_en": "I climbed the mountain.",
+      "delivered_at": "2026-05-18"
     }
   ],
   "all_characters_learned": [
