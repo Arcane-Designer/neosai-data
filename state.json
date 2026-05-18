@@ -180,6 +180,12 @@
       "word_japanese": "のろのろ",
       "character": "の",
       "weekday": "Friday"
+    },
+    {
+      "date": "2026-05-17",
+      "slot": "sunday-master-recap",
+      "week_number": 3,
+      "weekday": "Sunday"
     }
   ],
   "all_words_learned": [
@@ -935,6 +941,6 @@
     }
   ],
   "skipped_character_priorities": [],
-  "last_health_check": "2026-05-10",
-  "notes": "Neosai state file. Routines read and write this. user_words is the manually-added list (replaces user-lists.json from v1). all_words_learned grows over time and includes both routine-delivered words and user-added words distinguished by the 'source' field."
+  "last_health_check": "2026-05-17",
+  "notes": "Neosai state file. Routines read and write this. user_words is the manually-added list (replaces user-lists.json from v1). all_words_learned grows over time and includes both routine-delivered words and user-added words distinguished by the 'source' field. Week 3 had only 1 entries when Sunday recap fired."
 }
