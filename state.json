@@ -6,27 +6,7 @@
   "current_character": "た",
   "current_character_romaji": "ta",
   "current_character_script": "hiragana",
-  "current_week_words": [
-    {
-      "japanese": "たべる",
-      "reading_romaji": "taberu",
-      "translation": "to eat",
-      "casual_usage": "たべる is one of the first verbs you'll reach for every day. 「なにたべる？」(Nani taberu?) — 'What are you gonna eat?' — is a constant among friends. Pair it with もう and the past tense: 「もうたべた」(mou tabeta) = 'I already ate.'",
-      "formal_usage": "Shifts to 「たべます」(tabemasu) in polite contexts. At a restaurant or with someone you've just met: 「なにをたべますか？」(Nani o tabemasu ka?) — 'What would you like to eat?'",
-      "similar_words": [
-        {"japanese": "のむ", "romaji": "nomu", "translation": "to drink"},
-        {"japanese": "つくる", "romaji": "tsukuru", "translation": "to make / cook"},
-        {"japanese": "たのむ", "romaji": "tanomu", "translation": "to order (food or a favor)"}
-      ],
-      "weekday": "Monday",
-      "slot": "weekday-AM",
-      "week_number": 2,
-      "character": "た",
-      "source": "routine",
-      "example_jp": "すしをたべます。",
-      "example_en": "I eat sushi."
-    }
-  ],
+  "current_week_words": [],
   "delivery_log": [
     {
       "date": "2026-04-29",
@@ -89,14 +69,6 @@
       "word_japanese": "いただきます",
       "character": "い",
       "weekday": "Friday"
-    },
-    {
-      "date": "2026-05-18",
-      "slot": "weekday-AM",
-      "week_number": 2,
-      "weekday": "Monday",
-      "word_japanese": "たべる",
-      "character": "た"
     }
   ],
   "all_words_learned": [
@@ -490,26 +462,6 @@
       "delivered_at": "2026-05-01",
       "example_jp": "いただきます。",
       "example_en": "I'll gratefully receive this."
-    },
-    {
-      "japanese": "たべる",
-      "reading_romaji": "taberu",
-      "translation": "to eat",
-      "casual_usage": "たべる is one of the first verbs you'll reach for every day. 「なにたべる？」(Nani taberu?) — 'What are you gonna eat?' — is a constant among friends. Pair it with もう and the past tense: 「もうたべた」(mou tabeta) = 'I already ate.'",
-      "formal_usage": "Shifts to 「たべます」(tabemasu) in polite contexts. At a restaurant or with someone you've just met: 「なにをたべますか？」(Nani o tabemasu ka?) — 'What would you like to eat?'",
-      "similar_words": [
-        {"japanese": "のむ", "romaji": "nomu", "translation": "to drink"},
-        {"japanese": "つくる", "romaji": "tsukuru", "translation": "to make / cook"},
-        {"japanese": "たのむ", "romaji": "tanomu", "translation": "to order (food or a favor)"}
-      ],
-      "weekday": "Monday",
-      "slot": "weekday-AM",
-      "week_number": 2,
-      "character": "た",
-      "source": "routine",
-      "delivered_at": "2026-05-18",
-      "example_jp": "すしをたべます。",
-      "example_en": "I eat sushi."
     }
   ],
   "all_characters_learned": [
@@ -520,9 +472,7 @@
     "ん",
     "ぬ",
     "ず",
-    "ぷ",
-    "の",
-    "た"
+    "ぷ"
   ],
   "user_words": [
     {
