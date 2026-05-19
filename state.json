@@ -37,6 +37,25 @@
       "source": "routine",
       "example_jp": "すしをたべます。",
       "example_en": "I eat sushi."
+    },
+    {
+      "japanese": "たのしい",
+      "reading_romaji": "tanoshii",
+      "translation": "fun; enjoyable",
+      "casual_usage": "たのしい pops up constantly as a standalone reaction — 「たのしい！」(Tanoshii!) just means 'This is fun!' You'll also hear it in past-tense questions: 「たのしかった？」(Tanoshikatta?) — 'Was it fun?'",
+      "formal_usage": "In polite contexts, the noun form 「たのしみ」(tanoshimi) often appears — 「たのしみにしています」(tanoshimi ni shite imasu) means 'I'm looking forward to it.' The adjective itself works fine in polite speech: 「たのしいですね」.",
+      "similar_words": [
+        {"japanese": "うれしい", "romaji": "ureshii", "translation": "happy (about something specific)"},
+        {"japanese": "おもしろい", "romaji": "omoshiroi", "translation": "interesting; funny"},
+        {"japanese": "すき", "romaji": "suki", "translation": "liked; favorite"}
+      ],
+      "weekday": "Tuesday",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "character": "た",
+      "source": "routine",
+      "example_jp": "まいにちたのしいです。",
+      "example_en": "Every day is fun."
     }
   ],
   "delivery_log": [
@@ -116,6 +135,14 @@
       "week_number": 2,
       "weekday": "Monday",
       "word_japanese": "たべる"
+    },
+    {
+      "date": "2026-05-19",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "weekday": "Tuesday",
+      "word_japanese": "たのしい",
+      "character": "た"
     }
   ],
   "all_words_learned": [
@@ -541,6 +568,26 @@
       "delivered_at": "2026-05-18",
       "example_jp": "すしをたべます。",
       "example_en": "I eat sushi."
+    },
+    {
+      "japanese": "たのしい",
+      "reading_romaji": "tanoshii",
+      "translation": "fun; enjoyable",
+      "casual_usage": "たのしい pops up constantly as a standalone reaction — 「たのしい！」(Tanoshii!) just means 'This is fun!' You'll also hear it in past-tense questions: 「たのしかった？」(Tanoshikatta?) — 'Was it fun?'",
+      "formal_usage": "In polite contexts, the noun form 「たのしみ」(tanoshimi) often appears — 「たのしみにしています」(tanoshimi ni shite imasu) means 'I'm looking forward to it.' The adjective itself works fine in polite speech: 「たのしいですね」.",
+      "similar_words": [
+        {"japanese": "うれしい", "romaji": "ureshii", "translation": "happy (about something specific)"},
+        {"japanese": "おもしろい", "romaji": "omoshiroi", "translation": "interesting; funny"},
+        {"japanese": "すき", "romaji": "suki", "translation": "liked; favorite"}
+      ],
+      "weekday": "Tuesday",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "character": "た",
+      "source": "routine",
+      "delivered_at": "2026-05-19",
+      "example_jp": "まいにちたのしいです。",
+      "example_en": "Every day is fun."
     }
   ],
   "all_characters_learned": [
