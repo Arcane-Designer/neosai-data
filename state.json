@@ -109,6 +109,13 @@
       "weekday": "Monday",
       "word_japanese": "たべる",
       "character": "た"
+    },
+    {
+      "date": "2026-05-18",
+      "slot": "weekday-PM",
+      "week_number": 2,
+      "weekday": "Monday",
+      "word_japanese": "たべる"
     }
   ],
   "all_words_learned": [
