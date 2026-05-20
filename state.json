@@ -143,6 +143,13 @@
       "weekday": "Tuesday",
       "word_japanese": "たのしい",
       "character": "た"
+    },
+    {
+      "date": "2026-05-19",
+      "slot": "weekday-PM",
+      "week_number": 2,
+      "weekday": "Tuesday",
+      "word_japanese": "たのしい"
     }
   ],
   "all_words_learned": [
