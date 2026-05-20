@@ -56,9 +56,36 @@
       "source": "routine",
       "example_jp": "まいにちたのしいです。",
       "example_en": "Every day is fun."
+    },
+    {
+      "japanese": "たかい",
+      "reading_romaji": "takai",
+      "translation": "expensive; tall",
+      "casual_usage": "たかい is the adjective you'll fire off reflexively in Japan — 「たかい！」(Takai!) alone means 'That's expensive!' among friends. It doubles for height too: 「あのやまたかいね」(Ano yama takai ne) = 'That mountain's tall, huh?'",
+      "formal_usage": "The word itself doesn't change form — simply add です: 「これはたかいですね」(Kore wa takai desu ne) = 'This is expensive, isn't it.' You'll use this version in shops or with people you've just met.",
+      "similar_words": [
+        {"japanese": "やすい", "romaji": "yasui", "translation": "cheap; inexpensive"},
+        {"japanese": "ひくい", "romaji": "hikui", "translation": "low; short (height)"},
+        {"japanese": "おおきい", "romaji": "ookii", "translation": "big; large"}
+      ],
+      "weekday": "Wednesday",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "character": "た",
+      "source": "routine",
+      "example_jp": "このかばんはたかい。",
+      "example_en": "This bag is expensive."
     }
   ],
   "delivery_log": [
+    {
+      "date": "2026-05-20",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "weekday": "Wednesday",
+      "word_japanese": "たかい",
+      "character": "た"
+    },
     {
       "date": "2026-04-29",
       "slot": "weekday-AM",
@@ -595,6 +622,26 @@
       "delivered_at": "2026-05-19",
       "example_jp": "まいにちたのしいです。",
       "example_en": "Every day is fun."
+    },
+    {
+      "japanese": "たかい",
+      "reading_romaji": "takai",
+      "translation": "expensive; tall",
+      "casual_usage": "たかい is the adjective you'll fire off reflexively in Japan — 「たかい！」(Takai!) alone means 'That's expensive!' among friends. It doubles for height too: 「あのやまたかいね」(Ano yama takai ne) = 'That mountain's tall, huh?'",
+      "formal_usage": "The word itself doesn't change form — simply add です: 「これはたかいですね」(Kore wa takai desu ne) = 'This is expensive, isn't it.' You'll use this version in shops or with people you've just met.",
+      "similar_words": [
+        {"japanese": "やすい", "romaji": "yasui", "translation": "cheap; inexpensive"},
+        {"japanese": "ひくい", "romaji": "hikui", "translation": "low; short (height)"},
+        {"japanese": "おおきい", "romaji": "ookii", "translation": "big; large"}
+      ],
+      "weekday": "Wednesday",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "character": "た",
+      "source": "routine",
+      "delivered_at": "2026-05-20",
+      "example_jp": "このかばんはたかい。",
+      "example_en": "This bag is expensive."
     }
   ],
   "all_characters_learned": [
