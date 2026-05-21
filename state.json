@@ -45,9 +45,21 @@
       "casual_usage": "たのしい pops up constantly as a standalone reaction — 「たのしい！」(Tanoshii!) just means 'This is fun!' You'll also hear it in past-tense questions: 「たのしかった？」(Tanoshikatta?) — 'Was it fun?'",
       "formal_usage": "In polite contexts, the noun form 「たのしみ」(tanoshimi) often appears — 「たのしみにしています」(tanoshimi ni shite imasu) means 'I'm looking forward to it.' The adjective itself works fine in polite speech: 「たのしいですね」.",
       "similar_words": [
-        {"japanese": "うれしい", "romaji": "ureshii", "translation": "happy (about something specific)"},
-        {"japanese": "おもしろい", "romaji": "omoshiroi", "translation": "interesting; funny"},
-        {"japanese": "すき", "romaji": "suki", "translation": "liked; favorite"}
+        {
+          "japanese": "うれしい",
+          "romaji": "ureshii",
+          "translation": "happy (about something specific)"
+        },
+        {
+          "japanese": "おもしろい",
+          "romaji": "omoshiroi",
+          "translation": "interesting; funny"
+        },
+        {
+          "japanese": "すき",
+          "romaji": "suki",
+          "translation": "liked; favorite"
+        }
       ],
       "weekday": "Tuesday",
       "slot": "weekday-AM",
@@ -64,9 +76,21 @@
       "casual_usage": "たかい is the adjective you'll fire off reflexively in Japan — 「たかい！」(Takai!) alone means 'That's expensive!' among friends. It doubles for height too: 「あのやまたかいね」(Ano yama takai ne) = 'That mountain's tall, huh?'",
       "formal_usage": "The word itself doesn't change form — simply add です: 「これはたかいですね」(Kore wa takai desu ne) = 'This is expensive, isn't it.' You'll use this version in shops or with people you've just met.",
       "similar_words": [
-        {"japanese": "やすい", "romaji": "yasui", "translation": "cheap; inexpensive"},
-        {"japanese": "ひくい", "romaji": "hikui", "translation": "low; short (height)"},
-        {"japanese": "おおきい", "romaji": "ookii", "translation": "big; large"}
+        {
+          "japanese": "やすい",
+          "romaji": "yasui",
+          "translation": "cheap; inexpensive"
+        },
+        {
+          "japanese": "ひくい",
+          "romaji": "hikui",
+          "translation": "low; short (height)"
+        },
+        {
+          "japanese": "おおきい",
+          "romaji": "ookii",
+          "translation": "big; large"
+        }
       ],
       "weekday": "Wednesday",
       "slot": "weekday-AM",
@@ -177,6 +201,13 @@
       "week_number": 2,
       "weekday": "Tuesday",
       "word_japanese": "たのしい"
+    },
+    {
+      "date": "2026-05-20",
+      "slot": "weekday-PM",
+      "week_number": 2,
+      "weekday": "Wednesday",
+      "word_japanese": "たかい"
     }
   ],
   "all_words_learned": [
@@ -610,9 +641,21 @@
       "casual_usage": "たのしい pops up constantly as a standalone reaction — 「たのしい！」(Tanoshii!) just means 'This is fun!' You'll also hear it in past-tense questions: 「たのしかった？」(Tanoshikatta?) — 'Was it fun?'",
       "formal_usage": "In polite contexts, the noun form 「たのしみ」(tanoshimi) often appears — 「たのしみにしています」(tanoshimi ni shite imasu) means 'I'm looking forward to it.' The adjective itself works fine in polite speech: 「たのしいですね」.",
       "similar_words": [
-        {"japanese": "うれしい", "romaji": "ureshii", "translation": "happy (about something specific)"},
-        {"japanese": "おもしろい", "romaji": "omoshiroi", "translation": "interesting; funny"},
-        {"japanese": "すき", "romaji": "suki", "translation": "liked; favorite"}
+        {
+          "japanese": "うれしい",
+          "romaji": "ureshii",
+          "translation": "happy (about something specific)"
+        },
+        {
+          "japanese": "おもしろい",
+          "romaji": "omoshiroi",
+          "translation": "interesting; funny"
+        },
+        {
+          "japanese": "すき",
+          "romaji": "suki",
+          "translation": "liked; favorite"
+        }
       ],
       "weekday": "Tuesday",
       "slot": "weekday-AM",
@@ -630,9 +673,21 @@
       "casual_usage": "たかい is the adjective you'll fire off reflexively in Japan — 「たかい！」(Takai!) alone means 'That's expensive!' among friends. It doubles for height too: 「あのやまたかいね」(Ano yama takai ne) = 'That mountain's tall, huh?'",
       "formal_usage": "The word itself doesn't change form — simply add です: 「これはたかいですね」(Kore wa takai desu ne) = 'This is expensive, isn't it.' You'll use this version in shops or with people you've just met.",
       "similar_words": [
-        {"japanese": "やすい", "romaji": "yasui", "translation": "cheap; inexpensive"},
-        {"japanese": "ひくい", "romaji": "hikui", "translation": "low; short (height)"},
-        {"japanese": "おおきい", "romaji": "ookii", "translation": "big; large"}
+        {
+          "japanese": "やすい",
+          "romaji": "yasui",
+          "translation": "cheap; inexpensive"
+        },
+        {
+          "japanese": "ひくい",
+          "romaji": "hikui",
+          "translation": "low; short (height)"
+        },
+        {
+          "japanese": "おおきい",
+          "romaji": "ookii",
+          "translation": "big; large"
+        }
       ],
       "weekday": "Wednesday",
       "slot": "weekday-AM",
