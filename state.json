@@ -99,9 +99,48 @@
       "source": "routine",
       "example_jp": "このかばんはたかい。",
       "example_en": "This bag is expensive."
+    },
+    {
+      "japanese": "たくさん",
+      "reading_romaji": "takusan",
+      "translation": "a lot; many; much",
+      "casual_usage": "たくさん slots in right before verbs or after nouns with が — 「たくさんたべた！」(Takusan tabeta!) = 'I ate so much!' It's one of the first quantity words you'll naturally reach for; you can drop it almost anywhere abundance is the point.",
+      "formal_usage": "The word doesn't change form — only the verb that follows it shifts. 「たくさんいただきました」(Takusan itadakimashita) = 'I received a great deal' is perfectly polite. You'll also see 「たくさんのかた」(takusan no kata) in announcements to mean 'a great many people.'",
+      "similar_words": [
+        {
+          "japanese": "いっぱい",
+          "romaji": "ippai",
+          "translation": "full; a lot (more casual)"
+        },
+        {
+          "japanese": "すこし",
+          "romaji": "sukoshi",
+          "translation": "a little; a few"
+        },
+        {
+          "japanese": "おおい",
+          "romaji": "ooi",
+          "translation": "many; numerous"
+        }
+      ],
+      "weekday": "Thursday",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "character": "た",
+      "source": "routine",
+      "example_jp": "たくさんたべた。",
+      "example_en": "I ate a lot."
     }
   ],
   "delivery_log": [
+    {
+      "date": "2026-05-21",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "weekday": "Thursday",
+      "word_japanese": "たくさん",
+      "character": "た"
+    },
     {
       "date": "2026-05-20",
       "slot": "weekday-AM",
@@ -697,6 +736,38 @@
       "delivered_at": "2026-05-20",
       "example_jp": "このかばんはたかい。",
       "example_en": "This bag is expensive."
+    },
+    {
+      "japanese": "たくさん",
+      "reading_romaji": "takusan",
+      "translation": "a lot; many; much",
+      "casual_usage": "たくさん slots in right before verbs or after nouns with が — 「たくさんたべた！」(Takusan tabeta!) = 'I ate so much!' It's one of the first quantity words you'll naturally reach for; you can drop it almost anywhere abundance is the point.",
+      "formal_usage": "The word doesn't change form — only the verb that follows it shifts. 「たくさんいただきました」(Takusan itadakimashita) = 'I received a great deal' is perfectly polite. You'll also see 「たくさんのかた」(takusan no kata) in announcements to mean 'a great many people.'",
+      "similar_words": [
+        {
+          "japanese": "いっぱい",
+          "romaji": "ippai",
+          "translation": "full; a lot (more casual)"
+        },
+        {
+          "japanese": "すこし",
+          "romaji": "sukoshi",
+          "translation": "a little; a few"
+        },
+        {
+          "japanese": "おおい",
+          "romaji": "ooi",
+          "translation": "many; numerous"
+        }
+      ],
+      "weekday": "Thursday",
+      "slot": "weekday-AM",
+      "week_number": 2,
+      "character": "た",
+      "source": "routine",
+      "delivered_at": "2026-05-21",
+      "example_jp": "たくさんたべた。",
+      "example_en": "I ate a lot."
     }
   ],
   "all_characters_learned": [
