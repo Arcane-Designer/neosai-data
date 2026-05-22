@@ -247,6 +247,13 @@
       "week_number": 2,
       "weekday": "Wednesday",
       "word_japanese": "たかい"
+    },
+    {
+      "date": "2026-05-21",
+      "slot": "weekday-PM",
+      "week_number": 2,
+      "weekday": "Thursday",
+      "word_japanese": "たくさん"
     }
   ],
   "all_words_learned": [
