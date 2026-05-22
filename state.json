@@ -130,6 +130,37 @@
       "source": "routine",
       "example_jp": "たくさんたべた。",
       "example_en": "I ate a lot."
+    },
+    {
+      "japanese": "たぬき",
+      "reading_romaji": "tanuki",
+      "translation": "raccoon dog; Japan's beloved folkloric shapeshifter",
+      "what_it_is": "Tanuki are real animals — raccoon dogs native to Japan — but in folklore they're cheerful shapeshifters who love to trick people, usually harmlessly. You'll see stone tanuki statues at the entrance of almost every izakaya and many shops: big belly, wide-brimmed hat, sake bottle in hand. They symbolize good luck, prosperity, and mischief in the friendliest possible way.",
+      "similar_words": [
+        {
+          "japanese": "きつね",
+          "romaji": "kitsune",
+          "translation": "fox; the cunning, elegant shapeshifter of Japanese mythology"
+        },
+        {
+          "japanese": "ようかい",
+          "romaji": "youkai",
+          "translation": "supernatural creature; the broader category tanuki belongs to"
+        },
+        {
+          "japanese": "おばけ",
+          "romaji": "obake",
+          "translation": "ghost or monster; a supernatural being that transforms or disguises itself"
+        }
+      ],
+      "weekday": "Friday",
+      "slot": "friday-AM",
+      "week_number": 2,
+      "character": "た",
+      "source": "routine",
+      "is_funword": true,
+      "example_jp": "たぬきはかわいい。",
+      "example_en": "Tanuki are cute."
     }
   ],
   "delivery_log": [
@@ -254,6 +285,14 @@
       "week_number": 2,
       "weekday": "Thursday",
       "word_japanese": "たくさん"
+    },
+    {
+      "date": "2026-05-22",
+      "slot": "friday-AM",
+      "week_number": 2,
+      "word_japanese": "たぬき",
+      "character": "た",
+      "weekday": "Friday"
     }
   ],
   "all_words_learned": [
@@ -775,6 +814,38 @@
       "delivered_at": "2026-05-21",
       "example_jp": "たくさんたべた。",
       "example_en": "I ate a lot."
+    },
+    {
+      "japanese": "たぬき",
+      "reading_romaji": "tanuki",
+      "translation": "raccoon dog; Japan's beloved folkloric shapeshifter",
+      "what_it_is": "Tanuki are real animals — raccoon dogs native to Japan — but in folklore they're cheerful shapeshifters who love to trick people, usually harmlessly. You'll see stone tanuki statues at the entrance of almost every izakaya and many shops: big belly, wide-brimmed hat, sake bottle in hand. They symbolize good luck, prosperity, and mischief in the friendliest possible way.",
+      "similar_words": [
+        {
+          "japanese": "きつね",
+          "romaji": "kitsune",
+          "translation": "fox; the cunning, elegant shapeshifter of Japanese mythology"
+        },
+        {
+          "japanese": "ようかい",
+          "romaji": "youkai",
+          "translation": "supernatural creature; the broader category tanuki belongs to"
+        },
+        {
+          "japanese": "おばけ",
+          "romaji": "obake",
+          "translation": "ghost or monster; a supernatural being that transforms or disguises itself"
+        }
+      ],
+      "weekday": "Friday",
+      "slot": "friday-AM",
+      "week_number": 2,
+      "character": "た",
+      "source": "routine",
+      "is_funword": true,
+      "delivered_at": "2026-05-22",
+      "example_jp": "たぬきはかわいい。",
+      "example_en": "Tanuki are cute."
     }
   ],
   "all_characters_learned": [
