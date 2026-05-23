@@ -293,6 +293,12 @@
       "word_japanese": "たぬき",
       "character": "た",
       "weekday": "Friday"
+    },
+    {
+      "date": "2026-05-23",
+      "slot": "saturday-recap",
+      "week_number": 2,
+      "weekday": "Saturday"
     }
   ],
   "all_words_learned": [
