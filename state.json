@@ -1,168 +1,12 @@
 {
   "schema_version": 2,
   "system_start_date": "2026-04-29",
-  "current_week_number": 2,
-  "current_week_start": "2026-05-18",
-  "current_character": "た",
-  "current_character_romaji": "ta",
+  "current_week_number": 3,
+  "current_week_start": "2026-05-26",
+  "current_character": "お",
+  "current_character_romaji": "o",
   "current_character_script": "hiragana",
-  "current_week_words": [
-    {
-      "japanese": "たべる",
-      "reading_romaji": "taberu",
-      "translation": "to eat",
-      "casual_usage": "たべる is one of the first verbs you'll reach for every day. 「なにたべる？」(Nani taberu?) — 'What are you gonna eat?' — is a constant among friends. Pair it with もう and the past tense: 「もうたべた」(mou tabeta) = 'I already ate.'",
-      "formal_usage": "Shifts to 「たべます」(tabemasu) in polite contexts. At a restaurant or with someone you've just met: 「なにをたべますか？」(Nani o tabemasu ka?) — 'What would you like to eat?'",
-      "similar_words": [
-        {
-          "japanese": "のむ",
-          "romaji": "nomu",
-          "translation": "to drink"
-        },
-        {
-          "japanese": "つくる",
-          "romaji": "tsukuru",
-          "translation": "to make / cook"
-        },
-        {
-          "japanese": "たのむ",
-          "romaji": "tanomu",
-          "translation": "to order (food or a favor)"
-        }
-      ],
-      "weekday": "Monday",
-      "slot": "weekday-AM",
-      "week_number": 2,
-      "character": "た",
-      "source": "routine",
-      "example_jp": "すしをたべます。",
-      "example_en": "I eat sushi."
-    },
-    {
-      "japanese": "たのしい",
-      "reading_romaji": "tanoshii",
-      "translation": "fun; enjoyable",
-      "casual_usage": "たのしい pops up constantly as a standalone reaction — 「たのしい！」(Tanoshii!) just means 'This is fun!' You'll also hear it in past-tense questions: 「たのしかった？」(Tanoshikatta?) — 'Was it fun?'",
-      "formal_usage": "In polite contexts, the noun form 「たのしみ」(tanoshimi) often appears — 「たのしみにしています」(tanoshimi ni shite imasu) means 'I'm looking forward to it.' The adjective itself works fine in polite speech: 「たのしいですね」.",
-      "similar_words": [
-        {
-          "japanese": "うれしい",
-          "romaji": "ureshii",
-          "translation": "happy (about something specific)"
-        },
-        {
-          "japanese": "おもしろい",
-          "romaji": "omoshiroi",
-          "translation": "interesting; funny"
-        },
-        {
-          "japanese": "すき",
-          "romaji": "suki",
-          "translation": "liked; favorite"
-        }
-      ],
-      "weekday": "Tuesday",
-      "slot": "weekday-AM",
-      "week_number": 2,
-      "character": "た",
-      "source": "routine",
-      "example_jp": "まいにちたのしいです。",
-      "example_en": "Every day is fun."
-    },
-    {
-      "japanese": "たかい",
-      "reading_romaji": "takai",
-      "translation": "expensive; tall",
-      "casual_usage": "たかい is the adjective you'll fire off reflexively in Japan — 「たかい！」(Takai!) alone means 'That's expensive!' among friends. It doubles for height too: 「あのやまたかいね」(Ano yama takai ne) = 'That mountain's tall, huh?'",
-      "formal_usage": "The word itself doesn't change form — simply add です: 「これはたかいですね」(Kore wa takai desu ne) = 'This is expensive, isn't it.' You'll use this version in shops or with people you've just met.",
-      "similar_words": [
-        {
-          "japanese": "やすい",
-          "romaji": "yasui",
-          "translation": "cheap; inexpensive"
-        },
-        {
-          "japanese": "ひくい",
-          "romaji": "hikui",
-          "translation": "low; short (height)"
-        },
-        {
-          "japanese": "おおきい",
-          "romaji": "ookii",
-          "translation": "big; large"
-        }
-      ],
-      "weekday": "Wednesday",
-      "slot": "weekday-AM",
-      "week_number": 2,
-      "character": "た",
-      "source": "routine",
-      "example_jp": "このかばんはたかい。",
-      "example_en": "This bag is expensive."
-    },
-    {
-      "japanese": "たくさん",
-      "reading_romaji": "takusan",
-      "translation": "a lot; many; much",
-      "casual_usage": "たくさん slots in right before verbs or after nouns with が — 「たくさんたべた！」(Takusan tabeta!) = 'I ate so much!' It's one of the first quantity words you'll naturally reach for; you can drop it almost anywhere abundance is the point.",
-      "formal_usage": "The word doesn't change form — only the verb that follows it shifts. 「たくさんいただきました」(Takusan itadakimashita) = 'I received a great deal' is perfectly polite. You'll also see 「たくさんのかた」(takusan no kata) in announcements to mean 'a great many people.'",
-      "similar_words": [
-        {
-          "japanese": "いっぱい",
-          "romaji": "ippai",
-          "translation": "full; a lot (more casual)"
-        },
-        {
-          "japanese": "すこし",
-          "romaji": "sukoshi",
-          "translation": "a little; a few"
-        },
-        {
-          "japanese": "おおい",
-          "romaji": "ooi",
-          "translation": "many; numerous"
-        }
-      ],
-      "weekday": "Thursday",
-      "slot": "weekday-AM",
-      "week_number": 2,
-      "character": "た",
-      "source": "routine",
-      "example_jp": "たくさんたべた。",
-      "example_en": "I ate a lot."
-    },
-    {
-      "japanese": "たぬき",
-      "reading_romaji": "tanuki",
-      "translation": "raccoon dog; Japan's beloved folkloric shapeshifter",
-      "what_it_is": "Tanuki are real animals — raccoon dogs native to Japan — but in folklore they're cheerful shapeshifters who love to trick people, usually harmlessly. You'll see stone tanuki statues at the entrance of almost every izakaya and many shops: big belly, wide-brimmed hat, sake bottle in hand. They symbolize good luck, prosperity, and mischief in the friendliest possible way.",
-      "similar_words": [
-        {
-          "japanese": "きつね",
-          "romaji": "kitsune",
-          "translation": "fox; the cunning, elegant shapeshifter of Japanese mythology"
-        },
-        {
-          "japanese": "ようかい",
-          "romaji": "youkai",
-          "translation": "supernatural creature; the broader category tanuki belongs to"
-        },
-        {
-          "japanese": "おばけ",
-          "romaji": "obake",
-          "translation": "ghost or monster; a supernatural being that transforms or disguises itself"
-        }
-      ],
-      "weekday": "Friday",
-      "slot": "friday-AM",
-      "week_number": 2,
-      "character": "た",
-      "source": "routine",
-      "is_funword": true,
-      "example_jp": "たぬきはかわいい。",
-      "example_en": "Tanuki are cute."
-    }
-  ],
+  "current_week_words": [],
   "delivery_log": [
     {
       "date": "2026-05-21",
@@ -299,6 +143,12 @@
       "slot": "saturday-recap",
       "week_number": 2,
       "weekday": "Saturday"
+    },
+    {
+      "date": "2026-05-25",
+      "slot": "sunday-master-recap",
+      "week_number": 2,
+      "weekday": "Sunday"
     }
   ],
   "all_words_learned": [
@@ -865,7 +715,8 @@
     "ぷ",
     "の",
     "か",
-    "つ"
+    "つ",
+    "た"
   ],
   "user_words": [
     {
@@ -1040,6 +891,6 @@
     }
   ],
   "skipped_character_priorities": [],
-  "last_health_check": "2026-05-17",
+  "last_health_check": "2026-05-25",
   "notes": "Neosai state file. Routines read and write this. user_words is the manually-added list (replaces user-lists.json from v1). all_words_learned grows over time and includes both routine-delivered words and user-added words distinguished by the 'source' field. Week 3 had only 1 entries when Sunday recap fired."
 }
