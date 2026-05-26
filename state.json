@@ -26,6 +26,26 @@
       "delivered_at": "2026-05-25",
       "example_jp": "これはおいしい。",
       "example_en": "This is delicious."
+    },
+    {
+      "japanese": "おなか",
+      "reading_romaji": "onaka",
+      "translation": "stomach; belly",
+      "casual_usage": "おなかがすいた！(Onaka ga suita!) is the everyday way to say 'I'm hungry' — literally 'my stomach got empty.' You'll use this one daily. After a meal: おなかがいっぱい (onaka ga ippai) = 'I'm stuffed.'",
+      "formal_usage": "おなか works just fine in most situations without adjustment — it's not rude even in restaurants or with new acquaintances. If you want to be extra polite: おなかがすきました (onaka ga sukimashita) for 'I'm hungry.'",
+      "similar_words": [
+        {"japanese": "はら", "romaji": "hara", "translation": "belly (blunter/masculine; for close friends only)"},
+        {"japanese": "のど", "romaji": "nodo", "translation": "throat (のどがかわいた = I'm thirsty)"},
+        {"japanese": "むね", "romaji": "mune", "translation": "chest"}
+      ],
+      "weekday": "Tuesday",
+      "slot": "weekday-AM",
+      "week_number": 3,
+      "character": "お",
+      "source": "routine",
+      "delivered_at": "2026-05-26",
+      "example_jp": "おなかがすいた。",
+      "example_en": "I'm hungry."
     }
   ],
   "delivery_log": [
@@ -177,6 +197,14 @@
       "week_number": 3,
       "weekday": "Monday",
       "word_japanese": "おいしい",
+      "character": "お"
+    },
+    {
+      "date": "2026-05-26",
+      "slot": "weekday-AM",
+      "week_number": 3,
+      "weekday": "Tuesday",
+      "word_japanese": "おなか",
       "character": "お"
     }
   ],
@@ -643,6 +671,26 @@
       "delivered_at": "2026-05-25",
       "example_jp": "これはおいしい。",
       "example_en": "This is delicious."
+    },
+    {
+      "japanese": "おなか",
+      "reading_romaji": "onaka",
+      "translation": "stomach; belly",
+      "casual_usage": "おなかがすいた！(Onaka ga suita!) is the everyday way to say 'I'm hungry' — literally 'my stomach got empty.' You'll use this one daily. After a meal: おなかがいっぱい (onaka ga ippai) = 'I'm stuffed.'",
+      "formal_usage": "おなか works just fine in most situations without adjustment — it's not rude even in restaurants or with new acquaintances. If you want to be extra polite: おなかがすきました (onaka ga sukimashita) for 'I'm hungry.'",
+      "similar_words": [
+        {"japanese": "はら", "romaji": "hara", "translation": "belly (blunter/masculine; for close friends only)"},
+        {"japanese": "のど", "romaji": "nodo", "translation": "throat (のどがかわいた = I'm thirsty)"},
+        {"japanese": "むね", "romaji": "mune", "translation": "chest"}
+      ],
+      "weekday": "Tuesday",
+      "slot": "weekday-AM",
+      "week_number": 3,
+      "character": "お",
+      "source": "routine",
+      "delivered_at": "2026-05-26",
+      "example_jp": "おなかがすいた。",
+      "example_en": "I'm hungry."
     }
   ],
   "all_characters_learned": [
