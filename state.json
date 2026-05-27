@@ -46,6 +46,26 @@
       "delivered_at": "2026-05-26",
       "example_jp": "おなかがすいた。",
       "example_en": "I'm hungry."
+    },
+    {
+      "japanese": "おはよう",
+      "reading_romaji": "ohayou",
+      "translation": "good morning",
+      "casual_usage": "おはよう is the morning greeting for anyone you're close with — friends, family, teammates. Drop it the moment you see someone before noon. Stretch it warmly — おはよーう — for a lazy, friendly feel. Among tight friend groups you'll sometimes hear the ultra-casual おす (osu).",
+      "formal_usage": "Add ございます to get おはようございます (ohayou gozaimasu) — the default morning greeting in every Japanese workplace, school, and formal setting. You walk through the door, you say it. Everyone says it back. It's as automatic as breathing.",
+      "similar_words": [
+        {"japanese": "こんにちは", "romaji": "kon'nichiwa", "translation": "hello / good afternoon"},
+        {"japanese": "こんばんは", "romaji": "konbanwa", "translation": "good evening"},
+        {"japanese": "おやすみ", "romaji": "oyasumi", "translation": "good night"}
+      ],
+      "weekday": "Wednesday",
+      "slot": "weekday-AM",
+      "week_number": 3,
+      "character": "お",
+      "source": "routine",
+      "delivered_at": "2026-05-27",
+      "example_jp": "おはよう。",
+      "example_en": "Good morning."
     }
   ],
   "delivery_log": [
@@ -213,6 +233,14 @@
       "week_number": 3,
       "weekday": "Tuesday",
       "word_japanese": "おなか"
+    },
+    {
+      "date": "2026-05-27",
+      "slot": "weekday-AM",
+      "week_number": 3,
+      "weekday": "Wednesday",
+      "word_japanese": "おはよう",
+      "character": "お"
     }
   ],
   "all_words_learned": [
@@ -698,6 +726,26 @@
       "delivered_at": "2026-05-26",
       "example_jp": "おなかがすいた。",
       "example_en": "I'm hungry."
+    },
+    {
+      "japanese": "おはよう",
+      "reading_romaji": "ohayou",
+      "translation": "good morning",
+      "casual_usage": "おはよう is the morning greeting for anyone you're close with — friends, family, teammates. Drop it the moment you see someone before noon. Stretch it warmly — おはよーう — for a lazy, friendly feel. Among tight friend groups you'll sometimes hear the ultra-casual おす (osu).",
+      "formal_usage": "Add ございます to get おはようございます (ohayou gozaimasu) — the default morning greeting in every Japanese workplace, school, and formal setting. You walk through the door, you say it. Everyone says it back. It's as automatic as breathing.",
+      "similar_words": [
+        {"japanese": "こんにちは", "romaji": "kon'nichiwa", "translation": "hello / good afternoon"},
+        {"japanese": "こんばんは", "romaji": "konbanwa", "translation": "good evening"},
+        {"japanese": "おやすみ", "romaji": "oyasumi", "translation": "good night"}
+      ],
+      "weekday": "Wednesday",
+      "slot": "weekday-AM",
+      "week_number": 3,
+      "character": "お",
+      "source": "routine",
+      "delivered_at": "2026-05-27",
+      "example_jp": "おはよう。",
+      "example_en": "Good morning."
     }
   ],
   "all_characters_learned": [
