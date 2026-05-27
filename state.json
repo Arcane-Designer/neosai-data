@@ -206,6 +206,13 @@
       "weekday": "Tuesday",
       "word_japanese": "おなか",
       "character": "お"
+    },
+    {
+      "date": "2026-05-26",
+      "slot": "weekday-PM",
+      "week_number": 3,
+      "weekday": "Tuesday",
+      "word_japanese": "おなか"
     }
   ],
   "all_words_learned": [
