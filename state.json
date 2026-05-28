@@ -14,9 +14,21 @@
       "casual_usage": "おいしい！ (Oishii!) is what you'll exclaim after the first bite of something great — the single most useful thing you can say at any restaurant or dinner table in Japan. Flip it to past tense: おいしかった (oishikatta) = 'that was delicious' after finishing a meal.",
       "formal_usage": "Simply add です: おいしいですね (oishii desu ne) = 'This is delicious, isn't it?' is perfectly polite and will earn you smiles everywhere. Restaurant staff may say おいしゅうございます (oishuu gozaimasu), but you won't need that for a long time.",
       "similar_words": [
-        {"japanese": "うまい", "romaji": "umai", "translation": "tasty (casual/masculine; also means 'skillful')"},
-        {"japanese": "まずい", "romaji": "mazui", "translation": "bad-tasting; awful"},
-        {"japanese": "あまい", "romaji": "amai", "translation": "sweet"}
+        {
+          "japanese": "うまい",
+          "romaji": "umai",
+          "translation": "tasty (casual/masculine; also means 'skillful')"
+        },
+        {
+          "japanese": "まずい",
+          "romaji": "mazui",
+          "translation": "bad-tasting; awful"
+        },
+        {
+          "japanese": "あまい",
+          "romaji": "amai",
+          "translation": "sweet"
+        }
       ],
       "weekday": "Monday",
       "slot": "weekday-AM",
@@ -34,9 +46,21 @@
       "casual_usage": "おなかがすいた！(Onaka ga suita!) is the everyday way to say 'I'm hungry' — literally 'my stomach got empty.' You'll use this one daily. After a meal: おなかがいっぱい (onaka ga ippai) = 'I'm stuffed.'",
       "formal_usage": "おなか works just fine in most situations without adjustment — it's not rude even in restaurants or with new acquaintances. If you want to be extra polite: おなかがすきました (onaka ga sukimashita) for 'I'm hungry.'",
       "similar_words": [
-        {"japanese": "はら", "romaji": "hara", "translation": "belly (blunter/masculine; for close friends only)"},
-        {"japanese": "のど", "romaji": "nodo", "translation": "throat (のどがかわいた = I'm thirsty)"},
-        {"japanese": "むね", "romaji": "mune", "translation": "chest"}
+        {
+          "japanese": "はら",
+          "romaji": "hara",
+          "translation": "belly (blunter/masculine; for close friends only)"
+        },
+        {
+          "japanese": "のど",
+          "romaji": "nodo",
+          "translation": "throat (のどがかわいた = I'm thirsty)"
+        },
+        {
+          "japanese": "むね",
+          "romaji": "mune",
+          "translation": "chest"
+        }
       ],
       "weekday": "Tuesday",
       "slot": "weekday-AM",
@@ -54,9 +78,21 @@
       "casual_usage": "おはよう is the morning greeting for anyone you're close with — friends, family, teammates. Drop it the moment you see someone before noon. Stretch it warmly — おはよーう — for a lazy, friendly feel. Among tight friend groups you'll sometimes hear the ultra-casual おす (osu).",
       "formal_usage": "Add ございます to get おはようございます (ohayou gozaimasu) — the default morning greeting in every Japanese workplace, school, and formal setting. You walk through the door, you say it. Everyone says it back. It's as automatic as breathing.",
       "similar_words": [
-        {"japanese": "こんにちは", "romaji": "kon'nichiwa", "translation": "hello / good afternoon"},
-        {"japanese": "こんばんは", "romaji": "konbanwa", "translation": "good evening"},
-        {"japanese": "おやすみ", "romaji": "oyasumi", "translation": "good night"}
+        {
+          "japanese": "こんにちは",
+          "romaji": "kon'nichiwa",
+          "translation": "hello / good afternoon"
+        },
+        {
+          "japanese": "こんばんは",
+          "romaji": "konbanwa",
+          "translation": "good evening"
+        },
+        {
+          "japanese": "おやすみ",
+          "romaji": "oyasumi",
+          "translation": "good night"
+        }
       ],
       "weekday": "Wednesday",
       "slot": "weekday-AM",
@@ -66,6 +102,38 @@
       "delivered_at": "2026-05-27",
       "example_jp": "おはよう。",
       "example_en": "Good morning."
+    },
+    {
+      "japanese": "おもしろい",
+      "reading_romaji": "omoshiroi",
+      "translation": "interesting; funny; entertaining",
+      "casual_usage": "おもしろい！(Omoshiroi!) is the instant reaction when something is entertaining, surprising, or just genuinely fun — it covers 'funny,' 'interesting,' and 'cool' all at once. You'll also hear 「おもしろそう！」(omoshirosou!) = 'That looks interesting/fun!' before you've even tried something.",
+      "formal_usage": "The word works fine in polite speech without changing — 「これはおもしろいですね」(Kore wa omoshiroi desu ne) = 'This is interesting, isn't it.' For academic or professional writing, 「きょうみぶかい」(kyoumibukiai) means 'intellectually interesting,' but おもしろい handles everyday formal conversation perfectly.",
+      "similar_words": [
+        {
+          "japanese": "すごい",
+          "romaji": "sugoi",
+          "translation": "amazing; impressive; wow"
+        },
+        {
+          "japanese": "おかしい",
+          "romaji": "okashii",
+          "translation": "funny; strange; weird"
+        },
+        {
+          "japanese": "つまらない",
+          "romaji": "tsumaranai",
+          "translation": "boring; dull; uninteresting"
+        }
+      ],
+      "weekday": "Thursday",
+      "slot": "weekday-AM",
+      "week_number": 3,
+      "character": "お",
+      "source": "routine",
+      "delivered_at": "2026-05-28",
+      "example_jp": "このえいがはおもしろい。",
+      "example_en": "This movie is interesting."
     }
   ],
   "delivery_log": [
@@ -248,6 +316,14 @@
       "week_number": 3,
       "weekday": "Wednesday",
       "word_japanese": "おはよう"
+    },
+    {
+      "date": "2026-05-28",
+      "slot": "weekday-AM",
+      "week_number": 3,
+      "weekday": "Thursday",
+      "word_japanese": "おもしろい",
+      "character": "お"
     }
   ],
   "all_words_learned": [
@@ -288,9 +364,21 @@
       "casual_usage": "Used in plain form in casual speech — 「どこいくの？」(Doko iku no?) means 'Where are you going?' You'll hear this constantly among friends.",
       "formal_usage": "Becomes 「いきます」(ikimasu) in polite form. 「どこへいきますか？」(Doko e ikimasu ka?) is the formal equivalent for acquaintances or work.",
       "similar_words": [
-        {"japanese": "くる", "romaji": "kuru", "translation": "to come"},
-        {"japanese": "かえる", "romaji": "kaeru", "translation": "to return / go home"},
-        {"japanese": "でかける", "romaji": "dekakeru", "translation": "to head out / go out"}
+        {
+          "japanese": "くる",
+          "romaji": "kuru",
+          "translation": "to come"
+        },
+        {
+          "japanese": "かえる",
+          "romaji": "kaeru",
+          "translation": "to return / go home"
+        },
+        {
+          "japanese": "でかける",
+          "romaji": "dekakeru",
+          "translation": "to head out / go out"
+        }
       ],
       "weekday": "Wednesday",
       "slot": "weekday-AM",
@@ -541,9 +629,21 @@
       "casual_usage": "Dropped straight into casual questions — 「いつくるの？」(Itsu kuru no?) means 'When are you coming?' It pairs naturally with verbs like いく and くる that you already know.",
       "formal_usage": "いつ itself never changes form; only the verb after it shifts — 「いつきますか？」(Itsu kimasu ka?) is the polite equivalent.",
       "similar_words": [
-        {"japanese": "どこ", "romaji": "doko", "translation": "where"},
-        {"japanese": "だれ", "romaji": "dare", "translation": "who"},
-        {"japanese": "なに", "romaji": "nani", "translation": "what"}
+        {
+          "japanese": "どこ",
+          "romaji": "doko",
+          "translation": "where"
+        },
+        {
+          "japanese": "だれ",
+          "romaji": "dare",
+          "translation": "who"
+        },
+        {
+          "japanese": "なに",
+          "romaji": "nani",
+          "translation": "what"
+        }
       ],
       "weekday": "Thursday",
       "slot": "weekday-AM",
@@ -561,9 +661,21 @@
       "casual_usage": "いま is everywhere in casual speech — 「いまなに？」(ima nani?) means 'What are you up to right now?' and 「いまいい？」(ima ii?) is the quick way to ask 'Is now a good time?' It drops naturally in front of almost any verb.",
       "formal_usage": "The word itself doesn't change in formal settings — 「いまよろしいですか？」(ima yoroshii desu ka?) is the polite way to ask 'Is now okay?' Only the verb that follows shifts into ます/です form.",
       "similar_words": [
-        {"japanese": "もう", "romaji": "mou", "translation": "already / now (signals something has changed)"},
-        {"japanese": "すぐ", "romaji": "sugu", "translation": "right away / immediately"},
-        {"japanese": "あとで", "romaji": "ato de", "translation": "later"}
+        {
+          "japanese": "もう",
+          "romaji": "mou",
+          "translation": "already / now (signals something has changed)"
+        },
+        {
+          "japanese": "すぐ",
+          "romaji": "sugu",
+          "translation": "right away / immediately"
+        },
+        {
+          "japanese": "あとで",
+          "romaji": "ato de",
+          "translation": "later"
+        }
       ],
       "weekday": "Thursday",
       "slot": "weekday-AM",
@@ -580,9 +692,21 @@
       "translation": "I humbly receive (said before eating)",
       "what_it_is": "いただきます is the expression Japanese people say — hands together, often eyes closed — before every single meal. Literally meaning 'I humbly receive,' it's directed at the food itself, the animals and plants that became it, the farmers who grew it, and the person who cooked it. There's no English equivalent because English-speaking cultures simply don't have this ritual baked into daily life.",
       "similar_words": [
-        {"japanese": "ごちそうさま", "romaji": "gochisōsama", "translation": "thanks for the feast (said after eating)"},
-        {"japanese": "おかげさまで", "romaji": "okagesama de", "translation": "thanks to your support (humble gratitude)"},
-        {"japanese": "もったいない", "romaji": "mottainai", "translation": "what a waste (the feeling of guilt over wasting something precious)"}
+        {
+          "japanese": "ごちそうさま",
+          "romaji": "gochisōsama",
+          "translation": "thanks for the feast (said after eating)"
+        },
+        {
+          "japanese": "おかげさまで",
+          "romaji": "okagesama de",
+          "translation": "thanks to your support (humble gratitude)"
+        },
+        {
+          "japanese": "もったいない",
+          "romaji": "mottainai",
+          "translation": "what a waste (the feeling of guilt over wasting something precious)"
+        }
       ],
       "weekday": "Friday",
       "slot": "friday-AM",
@@ -601,9 +725,21 @@
       "casual_usage": "たべる is one of the first verbs you'll reach for every day. 「なにたべる？」(Nani taberu?) — 'What are you gonna eat?' — is a constant among friends. Pair it with もう and the past tense: 「もうたべた」(mou tabeta) = 'I already ate.'",
       "formal_usage": "Shifts to 「たべます」(tabemasu) in polite contexts. At a restaurant or with someone you've just met: 「なにをたべますか？」(Nani o tabemasu ka?) — 'What would you like to eat?'",
       "similar_words": [
-        {"japanese": "のむ", "romaji": "nomu", "translation": "to drink"},
-        {"japanese": "つくる", "romaji": "tsukuru", "translation": "to make / cook"},
-        {"japanese": "たのむ", "romaji": "tanomu", "translation": "to order (food or a favor)"}
+        {
+          "japanese": "のむ",
+          "romaji": "nomu",
+          "translation": "to drink"
+        },
+        {
+          "japanese": "つくる",
+          "romaji": "tsukuru",
+          "translation": "to make / cook"
+        },
+        {
+          "japanese": "たのむ",
+          "romaji": "tanomu",
+          "translation": "to order (food or a favor)"
+        }
       ],
       "weekday": "Monday",
       "slot": "weekday-AM",
@@ -621,9 +757,21 @@
       "casual_usage": "たのしい pops up constantly as a standalone reaction — 「たのしい！」(Tanoshii!) just means 'This is fun!' You'll also hear it in past-tense questions: 「たのしかった？」(Tanoshikatta?) — 'Was it fun?'",
       "formal_usage": "In polite contexts, the noun form 「たのしみ」(tanoshimi) often appears — 「たのしみにしています」(tanoshimi ni shite imasu) means 'I'm looking forward to it.' The adjective itself works fine in polite speech: 「たのしいですね」.",
       "similar_words": [
-        {"japanese": "うれしい", "romaji": "ureshii", "translation": "happy (about something specific)"},
-        {"japanese": "おもしろい", "romaji": "omoshiroi", "translation": "interesting; funny"},
-        {"japanese": "すき", "romaji": "suki", "translation": "liked; favorite"}
+        {
+          "japanese": "うれしい",
+          "romaji": "ureshii",
+          "translation": "happy (about something specific)"
+        },
+        {
+          "japanese": "おもしろい",
+          "romaji": "omoshiroi",
+          "translation": "interesting; funny"
+        },
+        {
+          "japanese": "すき",
+          "romaji": "suki",
+          "translation": "liked; favorite"
+        }
       ],
       "weekday": "Tuesday",
       "slot": "weekday-AM",
@@ -641,9 +789,21 @@
       "casual_usage": "たかい is the adjective you'll fire off reflexively in Japan — 「たかい！」(Takai!) alone means 'That's expensive!' among friends. It doubles for height too: 「あのやまたかいね」(Ano yama takai ne) = 'That mountain's tall, huh?'",
       "formal_usage": "The word itself doesn't change form — simply add です: 「これはたかいですね」(Kore wa takai desu ne) = 'This is expensive, isn't it.' You'll use this version in shops or with people you've just met.",
       "similar_words": [
-        {"japanese": "やすい", "romaji": "yasui", "translation": "cheap; inexpensive"},
-        {"japanese": "ひくい", "romaji": "hikui", "translation": "low; short (height)"},
-        {"japanese": "おおきい", "romaji": "ookii", "translation": "big; large"}
+        {
+          "japanese": "やすい",
+          "romaji": "yasui",
+          "translation": "cheap; inexpensive"
+        },
+        {
+          "japanese": "ひくい",
+          "romaji": "hikui",
+          "translation": "low; short (height)"
+        },
+        {
+          "japanese": "おおきい",
+          "romaji": "ookii",
+          "translation": "big; large"
+        }
       ],
       "weekday": "Wednesday",
       "slot": "weekday-AM",
@@ -661,9 +821,21 @@
       "casual_usage": "たくさん slots in right before verbs or after nouns with が — 「たくさんたべた！」(Takusan tabeta!) = 'I ate so much!' It's one of the first quantity words you'll naturally reach for; you can drop it almost anywhere abundance is the point.",
       "formal_usage": "The word doesn't change form — only the verb that follows it shifts. 「たくさんいただきました」(Takusan itadakimashita) = 'I received a great deal' is perfectly polite. You'll also see 「たくさんのかた」(takusan no kata) in announcements to mean 'a great many people.'",
       "similar_words": [
-        {"japanese": "いっぱい", "romaji": "ippai", "translation": "full; a lot (more casual)"},
-        {"japanese": "すこし", "romaji": "sukoshi", "translation": "a little; a few"},
-        {"japanese": "おおい", "romaji": "ooi", "translation": "many; numerous"}
+        {
+          "japanese": "いっぱい",
+          "romaji": "ippai",
+          "translation": "full; a lot (more casual)"
+        },
+        {
+          "japanese": "すこし",
+          "romaji": "sukoshi",
+          "translation": "a little; a few"
+        },
+        {
+          "japanese": "おおい",
+          "romaji": "ooi",
+          "translation": "many; numerous"
+        }
       ],
       "weekday": "Thursday",
       "slot": "weekday-AM",
@@ -680,9 +852,21 @@
       "translation": "raccoon dog; Japan's beloved folkloric shapeshifter",
       "what_it_is": "Tanuki are real animals — raccoon dogs native to Japan — but in folklore they're cheerful shapeshifters who love to trick people, usually harmlessly. You'll see stone tanuki statues at the entrance of almost every izakaya and many shops: big belly, wide-brimmed hat, sake bottle in hand. They symbolize good luck, prosperity, and mischief in the friendliest possible way.",
       "similar_words": [
-        {"japanese": "きつね", "romaji": "kitsune", "translation": "fox; the cunning, elegant shapeshifter of Japanese mythology"},
-        {"japanese": "ようかい", "romaji": "youkai", "translation": "supernatural creature; the broader category tanuki belongs to"},
-        {"japanese": "おばけ", "romaji": "obake", "translation": "ghost or monster; a supernatural being that transforms or disguises itself"}
+        {
+          "japanese": "きつね",
+          "romaji": "kitsune",
+          "translation": "fox; the cunning, elegant shapeshifter of Japanese mythology"
+        },
+        {
+          "japanese": "ようかい",
+          "romaji": "youkai",
+          "translation": "supernatural creature; the broader category tanuki belongs to"
+        },
+        {
+          "japanese": "おばけ",
+          "romaji": "obake",
+          "translation": "ghost or monster; a supernatural being that transforms or disguises itself"
+        }
       ],
       "weekday": "Friday",
       "slot": "friday-AM",
@@ -701,9 +885,21 @@
       "casual_usage": "おいしい！ (Oishii!) is what you'll exclaim after the first bite of something great — the single most useful thing you can say at any restaurant or dinner table in Japan. Flip it to past tense: おいしかった (oishikatta) = 'that was delicious' after finishing a meal.",
       "formal_usage": "Simply add です: おいしいですね (oishii desu ne) = 'This is delicious, isn't it?' is perfectly polite and will earn you smiles everywhere. Restaurant staff may say おいしゅうございます (oishuu gozaimasu), but you won't need that for a long time.",
       "similar_words": [
-        {"japanese": "うまい", "romaji": "umai", "translation": "tasty (casual/masculine; also means 'skillful')"},
-        {"japanese": "まずい", "romaji": "mazui", "translation": "bad-tasting; awful"},
-        {"japanese": "あまい", "romaji": "amai", "translation": "sweet"}
+        {
+          "japanese": "うまい",
+          "romaji": "umai",
+          "translation": "tasty (casual/masculine; also means 'skillful')"
+        },
+        {
+          "japanese": "まずい",
+          "romaji": "mazui",
+          "translation": "bad-tasting; awful"
+        },
+        {
+          "japanese": "あまい",
+          "romaji": "amai",
+          "translation": "sweet"
+        }
       ],
       "weekday": "Monday",
       "slot": "weekday-AM",
@@ -721,9 +917,21 @@
       "casual_usage": "おなかがすいた！(Onaka ga suita!) is the everyday way to say 'I'm hungry' — literally 'my stomach got empty.' You'll use this one daily. After a meal: おなかがいっぱい (onaka ga ippai) = 'I'm stuffed.'",
       "formal_usage": "おなか works just fine in most situations without adjustment — it's not rude even in restaurants or with new acquaintances. If you want to be extra polite: おなかがすきました (onaka ga sukimashita) for 'I'm hungry.'",
       "similar_words": [
-        {"japanese": "はら", "romaji": "hara", "translation": "belly (blunter/masculine; for close friends only)"},
-        {"japanese": "のど", "romaji": "nodo", "translation": "throat (のどがかわいた = I'm thirsty)"},
-        {"japanese": "むね", "romaji": "mune", "translation": "chest"}
+        {
+          "japanese": "はら",
+          "romaji": "hara",
+          "translation": "belly (blunter/masculine; for close friends only)"
+        },
+        {
+          "japanese": "のど",
+          "romaji": "nodo",
+          "translation": "throat (のどがかわいた = I'm thirsty)"
+        },
+        {
+          "japanese": "むね",
+          "romaji": "mune",
+          "translation": "chest"
+        }
       ],
       "weekday": "Tuesday",
       "slot": "weekday-AM",
@@ -741,9 +949,21 @@
       "casual_usage": "おはよう is the morning greeting for anyone you're close with — friends, family, teammates. Drop it the moment you see someone before noon. Stretch it warmly — おはよーう — for a lazy, friendly feel. Among tight friend groups you'll sometimes hear the ultra-casual おす (osu).",
       "formal_usage": "Add ございます to get おはようございます (ohayou gozaimasu) — the default morning greeting in every Japanese workplace, school, and formal setting. You walk through the door, you say it. Everyone says it back. It's as automatic as breathing.",
       "similar_words": [
-        {"japanese": "こんにちは", "romaji": "kon'nichiwa", "translation": "hello / good afternoon"},
-        {"japanese": "こんばんは", "romaji": "konbanwa", "translation": "good evening"},
-        {"japanese": "おやすみ", "romaji": "oyasumi", "translation": "good night"}
+        {
+          "japanese": "こんにちは",
+          "romaji": "kon'nichiwa",
+          "translation": "hello / good afternoon"
+        },
+        {
+          "japanese": "こんばんは",
+          "romaji": "konbanwa",
+          "translation": "good evening"
+        },
+        {
+          "japanese": "おやすみ",
+          "romaji": "oyasumi",
+          "translation": "good night"
+        }
       ],
       "weekday": "Wednesday",
       "slot": "weekday-AM",
@@ -753,10 +973,54 @@
       "delivered_at": "2026-05-27",
       "example_jp": "おはよう。",
       "example_en": "Good morning."
+    },
+    {
+      "japanese": "おもしろい",
+      "reading_romaji": "omoshiroi",
+      "translation": "interesting; funny; entertaining",
+      "casual_usage": "おもしろい！(Omoshiroi!) is the instant reaction when something is entertaining, surprising, or just genuinely fun — it covers 'funny,' 'interesting,' and 'cool' all at once. You'll also hear 「おもしろそう！」(omoshirosou!) = 'That looks interesting/fun!' before you've even tried something.",
+      "formal_usage": "The word works fine in polite speech without changing — 「これはおもしろいですね」(Kore wa omoshiroi desu ne) = 'This is interesting, isn't it.' For academic or professional writing, 「きょうみぶかい」(kyoumibukiai) means 'intellectually interesting,' but おもしろい handles everyday formal conversation perfectly.",
+      "similar_words": [
+        {
+          "japanese": "すごい",
+          "romaji": "sugoi",
+          "translation": "amazing; impressive; wow"
+        },
+        {
+          "japanese": "おかしい",
+          "romaji": "okashii",
+          "translation": "funny; strange; weird"
+        },
+        {
+          "japanese": "つまらない",
+          "romaji": "tsumaranai",
+          "translation": "boring; dull; uninteresting"
+        }
+      ],
+      "weekday": "Thursday",
+      "slot": "weekday-AM",
+      "week_number": 3,
+      "character": "お",
+      "source": "routine",
+      "delivered_at": "2026-05-28",
+      "example_jp": "このえいがはおもしろい。",
+      "example_en": "This movie is interesting."
     }
   ],
   "all_characters_learned": [
-    "い", "く", "し", "す", "ん", "ぬ", "ず", "ぷ", "の", "か", "つ", "た", "お"
+    "い",
+    "く",
+    "し",
+    "す",
+    "ん",
+    "ぬ",
+    "ず",
+    "ぷ",
+    "の",
+    "か",
+    "つ",
+    "た",
+    "お"
   ],
   "user_words": [
     {
