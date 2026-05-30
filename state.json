@@ -364,6 +364,12 @@
       "word_japanese": "おつかれさま",
       "character": "お",
       "weekday": "Friday"
+    },
+    {
+      "date": "2026-05-30",
+      "slot": "saturday-recap",
+      "week_number": 3,
+      "weekday": "Saturday"
     }
   ],
   "all_words_learned": [
@@ -424,8 +430,8 @@
       "slot": "weekday-AM",
       "week_number": 1,
       "character": "い",
-      "delivered_at": "2026-04-29",
       "source": "routine",
+      "delivered_at": "2026-04-29",
       "example_jp": "がっこうへいきます。",
       "example_en": "I go to school."
     },
