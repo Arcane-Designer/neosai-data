@@ -1,173 +1,12 @@
 {
   "schema_version": 2,
   "system_start_date": "2026-04-29",
-  "current_week_number": 3,
-  "current_week_start": "2026-05-25",
-  "current_character": "お",
-  "current_character_romaji": "o",
+  "current_week_number": 4,
+  "current_week_start": "2026-06-01",
+  "current_character": "あ",
+  "current_character_romaji": "a",
   "current_character_script": "hiragana",
-  "current_week_words": [
-    {
-      "japanese": "おいしい",
-      "reading_romaji": "oishii",
-      "translation": "delicious; tasty; yummy",
-      "casual_usage": "おいしい！ (Oishii!) is what you'll exclaim after the first bite of something great — the single most useful thing you can say at any restaurant or dinner table in Japan. Flip it to past tense: おいしかった (oishikatta) = 'that was delicious' after finishing a meal.",
-      "formal_usage": "Simply add です: おいしいですね (oishii desu ne) = 'This is delicious, isn't it?' is perfectly polite and will earn you smiles everywhere. Restaurant staff may say おいしゅうございます (oishuu gozaimasu), but you won't need that for a long time.",
-      "similar_words": [
-        {
-          "japanese": "うまい",
-          "romaji": "umai",
-          "translation": "tasty (casual/masculine; also means 'skillful')"
-        },
-        {
-          "japanese": "まずい",
-          "romaji": "mazui",
-          "translation": "bad-tasting; awful"
-        },
-        {
-          "japanese": "あまい",
-          "romaji": "amai",
-          "translation": "sweet"
-        }
-      ],
-      "weekday": "Monday",
-      "slot": "weekday-AM",
-      "week_number": 3,
-      "character": "お",
-      "source": "routine",
-      "delivered_at": "2026-05-25",
-      "example_jp": "これはおいしい。",
-      "example_en": "This is delicious."
-    },
-    {
-      "japanese": "おなか",
-      "reading_romaji": "onaka",
-      "translation": "stomach; belly",
-      "casual_usage": "おなかがすいた！(Onaka ga suita!) is the everyday way to say 'I'm hungry' — literally 'my stomach got empty.' You'll use this one daily. After a meal: おなかがいっぱい (onaka ga ippai) = 'I'm stuffed.'",
-      "formal_usage": "おなか works just fine in most situations without adjustment — it's not rude even in restaurants or with new acquaintances. If you want to be extra polite: おなかがすきました (onaka ga sukimashita) for 'I'm hungry.'",
-      "similar_words": [
-        {
-          "japanese": "はら",
-          "romaji": "hara",
-          "translation": "belly (blunter/masculine; for close friends only)"
-        },
-        {
-          "japanese": "のど",
-          "romaji": "nodo",
-          "translation": "throat (のどがかわいた = I'm thirsty)"
-        },
-        {
-          "japanese": "むね",
-          "romaji": "mune",
-          "translation": "chest"
-        }
-      ],
-      "weekday": "Tuesday",
-      "slot": "weekday-AM",
-      "week_number": 3,
-      "character": "お",
-      "source": "routine",
-      "delivered_at": "2026-05-26",
-      "example_jp": "おなかがすいた。",
-      "example_en": "I'm hungry."
-    },
-    {
-      "japanese": "おはよう",
-      "reading_romaji": "ohayou",
-      "translation": "good morning",
-      "casual_usage": "おはよう is the morning greeting for anyone you're close with — friends, family, teammates. Drop it the moment you see someone before noon. Stretch it warmly — おはよーう — for a lazy, friendly feel. Among tight friend groups you'll sometimes hear the ultra-casual おす (osu).",
-      "formal_usage": "Add ございます to get おはようございます (ohayou gozaimasu) — the default morning greeting in every Japanese workplace, school, and formal setting. You walk through the door, you say it. Everyone says it back. It's as automatic as breathing.",
-      "similar_words": [
-        {
-          "japanese": "こんにちは",
-          "romaji": "kon'nichiwa",
-          "translation": "hello / good afternoon"
-        },
-        {
-          "japanese": "こんばんは",
-          "romaji": "konbanwa",
-          "translation": "good evening"
-        },
-        {
-          "japanese": "おやすみ",
-          "romaji": "oyasumi",
-          "translation": "good night"
-        }
-      ],
-      "weekday": "Wednesday",
-      "slot": "weekday-AM",
-      "week_number": 3,
-      "character": "お",
-      "source": "routine",
-      "delivered_at": "2026-05-27",
-      "example_jp": "おはよう。",
-      "example_en": "Good morning."
-    },
-    {
-      "japanese": "おもしろい",
-      "reading_romaji": "omoshiroi",
-      "translation": "interesting; funny; entertaining",
-      "casual_usage": "おもしろい！(Omoshiroi!) is the instant reaction when something is entertaining, surprising, or just genuinely fun — it covers 'funny,' 'interesting,' and 'cool' all at once. You'll also hear 「おもしろそう！」(omoshirosou!) = 'That looks interesting/fun!' before you've even tried something.",
-      "formal_usage": "The word works fine in polite speech without changing — 「これはおもしろいですね」(Kore wa omoshiroi desu ne) = 'This is interesting, isn't it.' For academic or professional writing, 「きょうみぶかい」(kyoumibukiai) means 'intellectually interesting,' but おもしろい handles everyday formal conversation perfectly.",
-      "similar_words": [
-        {
-          "japanese": "すごい",
-          "romaji": "sugoi",
-          "translation": "amazing; impressive; wow"
-        },
-        {
-          "japanese": "おかしい",
-          "romaji": "okashii",
-          "translation": "funny; strange; weird"
-        },
-        {
-          "japanese": "つまらない",
-          "romaji": "tsumaranai",
-          "translation": "boring; dull; uninteresting"
-        }
-      ],
-      "weekday": "Thursday",
-      "slot": "weekday-AM",
-      "week_number": 3,
-      "character": "お",
-      "source": "routine",
-      "delivered_at": "2026-05-28",
-      "example_jp": "このえいがはおもしろい。",
-      "example_en": "This movie is interesting."
-    },
-    {
-      "japanese": "おつかれさま",
-      "reading_romaji": "otsukare-sama",
-      "translation": "you must be tired; thanks for your hard work — Japan's universal end-of-effort greeting",
-      "what_it_is": "おつかれさま (or more formally おつかれさまでした) is said to anyone who has finished working, exerting effort, or gone through something hard. In Japanese offices it doubles as a daily greeting — you say it both arriving and leaving. There's no English equivalent because English simply doesn't have a social ritual built specifically to acknowledge someone's effort. The word literally means 'honorable tiredness.'",
-      "similar_words": [
-        {
-          "japanese": "ごくろうさま",
-          "romaji": "gokurousama",
-          "translation": "thanks for your trouble (said downward — boss to employee; using it to peers feels condescending)"
-        },
-        {
-          "japanese": "おつかれ",
-          "romaji": "otsukare",
-          "translation": "casual short form — used among friends, in texts, and as a Gen Z internet greeting"
-        },
-        {
-          "japanese": "がんばって",
-          "romaji": "ganbatte",
-          "translation": "good luck / hang in there (said BEFORE the effort — the opposite bookend)"
-        }
-      ],
-      "weekday": "Friday",
-      "slot": "friday-AM",
-      "week_number": 3,
-      "character": "お",
-      "source": "routine",
-      "is_funword": true,
-      "delivered_at": "2026-05-29",
-      "example_jp": "おつかれさま。",
-      "example_en": "Thanks for your hard work."
-    }
-  ],
+  "current_week_words": [],
   "delivery_log": [
     {
       "date": "2026-05-21",
@@ -370,6 +209,12 @@
       "slot": "saturday-recap",
       "week_number": 3,
       "weekday": "Saturday"
+    },
+    {
+      "date": "2026-06-01",
+      "slot": "sunday-master-recap",
+      "week_number": 3,
+      "weekday": "Sunday"
     }
   ],
   "all_words_learned": [
@@ -1273,6 +1118,6 @@
     }
   ],
   "skipped_character_priorities": [],
-  "last_health_check": "2026-05-25",
+  "last_health_check": "2026-06-01",
   "notes": "Neosai state file. Routines read and write this. user_words is the manually-added list (replaces user-lists.json from v1). all_words_learned grows over time and includes both routine-delivered words and user-added words distinguished by the 'source' field."
 }
