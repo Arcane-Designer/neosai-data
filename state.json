@@ -26,6 +26,26 @@
       "delivered_at": "2026-06-01",
       "example_jp": "あしたいきます。",
       "example_en": "I'll go tomorrow."
+    },
+    {
+      "japanese": "あつい",
+      "reading_romaji": "atsui",
+      "translation": "hot; warm (temperature)",
+      "casual_usage": "あつい！(Atsui!) is a reflex — you'll say it before you've finished stepping outside on a Japanese summer afternoon. 「きょうはあついね」(Kyou wa atsui ne) — 'It's hot today, huh?' — is Japan's single most universal small-talk opener, guaranteed to get nods from anyone within earshot.",
+      "formal_usage": "The word itself doesn't change form — just add です: 「きょうはあついですね」(Kyou wa atsui desu ne) = 'It's hot today, isn't it.' You'll say this version in offices and with new acquaintances, especially May through September when Japan's heat is inescapable.",
+      "similar_words": [
+        {"japanese": "さむい", "romaji": "samui", "translation": "cold (weather or air temperature)"},
+        {"japanese": "あたたかい", "romaji": "atatakai", "translation": "warm (the pleasant kind)"},
+        {"japanese": "つめたい", "romaji": "tsumetai", "translation": "cold to the touch (cold drinks, cold floors)"}
+      ],
+      "weekday": "Tuesday",
+      "slot": "weekday-AM",
+      "week_number": 4,
+      "character": "あ",
+      "source": "routine",
+      "delivered_at": "2026-06-02",
+      "example_jp": "きょうはあついね。",
+      "example_en": "It's hot today, isn't it?"
     }
   ],
   "delivery_log": [
@@ -243,6 +263,14 @@
       "week_number": 4,
       "weekday": "Monday",
       "word_japanese": "あした",
+      "character": "あ"
+    },
+    {
+      "date": "2026-06-02",
+      "slot": "weekday-AM",
+      "week_number": 4,
+      "weekday": "Tuesday",
+      "word_japanese": "あつい",
       "character": "あ"
     }
   ],
@@ -809,6 +837,26 @@
       "delivered_at": "2026-06-01",
       "example_jp": "あしたいきます。",
       "example_en": "I'll go tomorrow."
+    },
+    {
+      "japanese": "あつい",
+      "reading_romaji": "atsui",
+      "translation": "hot; warm (temperature)",
+      "casual_usage": "あつい！(Atsui!) is a reflex — you'll say it before you've finished stepping outside on a Japanese summer afternoon. 「きょうはあついね」(Kyou wa atsui ne) — 'It's hot today, huh?' — is Japan's single most universal small-talk opener, guaranteed to get nods from anyone within earshot.",
+      "formal_usage": "The word itself doesn't change form — just add です: 「きょうはあついですね」(Kyou wa atsui desu ne) = 'It's hot today, isn't it.' You'll say this version in offices and with new acquaintances, especially May through September when Japan's heat is inescapable.",
+      "similar_words": [
+        {"japanese": "さむい", "romaji": "samui", "translation": "cold (weather or air temperature)"},
+        {"japanese": "あたたかい", "romaji": "atatakai", "translation": "warm (the pleasant kind)"},
+        {"japanese": "つめたい", "romaji": "tsumetai", "translation": "cold to the touch (cold drinks, cold floors)"}
+      ],
+      "weekday": "Tuesday",
+      "slot": "weekday-AM",
+      "week_number": 4,
+      "character": "あ",
+      "source": "routine",
+      "delivered_at": "2026-06-02",
+      "example_jp": "きょうはあついね。",
+      "example_en": "It's hot today, isn't it?"
     }
   ],
   "all_characters_learned": [
