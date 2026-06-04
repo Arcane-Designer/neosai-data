@@ -102,6 +102,38 @@
       "delivered_at": "2026-06-03",
       "example_jp": "あさごはんをたべた。",
       "example_en": "I ate breakfast."
+    },
+    {
+      "japanese": "あう",
+      "reading_romaji": "au",
+      "translation": "to meet",
+      "casual_usage": "あう is your default verb whenever you're getting together with someone. 「ともだちにあう」(Tomodachi ni au) — 'I'm meeting a friend' — or 「あとであおう！」(Ato de aou!) — 'Let's meet up later!' It slots in naturally with あした (tomorrow): あしたあおう = 'Let's meet tomorrow.'",
+      "formal_usage": "It shifts to 「あいます」(aimasu) in polite speech. 「なんじにあいますか？」(Nanji ni aimasu ka?) — 'What time shall we meet?' — is the polite version for work or with new acquaintances. You'll also see お目にかかる (o-me ni kakaru) in highly formal situations, but あいます carries you everywhere you need to go.",
+      "similar_words": [
+        {
+          "japanese": "あいさつ",
+          "romaji": "aisatsu",
+          "translation": "a greeting; what you do the moment you meet someone"
+        },
+        {
+          "japanese": "あつまる",
+          "romaji": "atsumaru",
+          "translation": "to gather together (a group meeting up)"
+        },
+        {
+          "japanese": "はなす",
+          "romaji": "hanasu",
+          "translation": "to talk/speak (what naturally follows meeting someone)"
+        }
+      ],
+      "weekday": "Thursday",
+      "slot": "weekday-AM",
+      "week_number": 4,
+      "character": "あ",
+      "source": "routine",
+      "delivered_at": "2026-06-04",
+      "example_jp": "ともだちにあう。",
+      "example_en": "I meet a friend."
     }
   ],
   "delivery_log": [
@@ -335,6 +367,14 @@
       "week_number": 4,
       "weekday": "Wednesday",
       "word_japanese": "あさ",
+      "character": "あ"
+    },
+    {
+      "date": "2026-06-04",
+      "slot": "weekday-AM",
+      "week_number": 4,
+      "weekday": "Thursday",
+      "word_japanese": "あう",
       "character": "あ"
     }
   ],
@@ -1145,6 +1185,38 @@
       "delivered_at": "2026-06-03",
       "example_jp": "あさごはんをたべた。",
       "example_en": "I ate breakfast."
+    },
+    {
+      "japanese": "あう",
+      "reading_romaji": "au",
+      "translation": "to meet",
+      "casual_usage": "あう is your default verb whenever you're getting together with someone. 「ともだちにあう」(Tomodachi ni au) — 'I'm meeting a friend' — or 「あとであおう！」(Ato de aou!) — 'Let's meet up later!' It slots in naturally with あした (tomorrow): あしたあおう = 'Let's meet tomorrow.'",
+      "formal_usage": "It shifts to 「あいます」(aimasu) in polite speech. 「なんじにあいますか？」(Nanji ni aimasu ka?) — 'What time shall we meet?' — is the polite version for work or with new acquaintances. You'll also see お目にかかる (o-me ni kakaru) in highly formal situations, but あいます carries you everywhere you need to go.",
+      "similar_words": [
+        {
+          "japanese": "あいさつ",
+          "romaji": "aisatsu",
+          "translation": "a greeting; what you do the moment you meet someone"
+        },
+        {
+          "japanese": "あつまる",
+          "romaji": "atsumaru",
+          "translation": "to gather together (a group meeting up)"
+        },
+        {
+          "japanese": "はなす",
+          "romaji": "hanasu",
+          "translation": "to talk/speak (what naturally follows meeting someone)"
+        }
+      ],
+      "weekday": "Thursday",
+      "slot": "weekday-AM",
+      "week_number": 4,
+      "character": "あ",
+      "source": "routine",
+      "delivered_at": "2026-06-04",
+      "example_jp": "ともだちにあう。",
+      "example_en": "I meet a friend."
     }
   ],
   "all_characters_learned": [
