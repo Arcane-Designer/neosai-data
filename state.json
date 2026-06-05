@@ -134,6 +134,38 @@
       "delivered_at": "2026-06-04",
       "example_jp": "ともだちにあう。",
       "example_en": "I meet a friend."
+    },
+    {
+      "japanese": "あまえる",
+      "reading_romaji": "amaeru",
+      "translation": "to act sweetly dependent; to lean on someone's love and expect to be indulged",
+      "what_it_is": "あまえる describes the act of leaning into someone's affection — being a little babyish, clingy, or adorably needy with someone who loves you, fully expecting them to indulge you. It's not manipulation; it's the warm intimacy of letting your guard down with someone safe. A child whining softly to a parent, a partner being gently clingy, a cat pushing their head into your hand — all of that is あまえる.",
+      "similar_words": [
+        {
+          "japanese": "あまい",
+          "romaji": "amai",
+          "translation": "sweet (the root adjective; 甘 meaning sweetness is where あまえる comes from)"
+        },
+        {
+          "japanese": "えんりょ",
+          "romaji": "enryo",
+          "translation": "restraint / holding back (the social opposite of あまえる)"
+        },
+        {
+          "japanese": "あまやかす",
+          "romaji": "amayakasu",
+          "translation": "to spoil / indulge someone (what you do when someone あまえる toward you)"
+        }
+      ],
+      "weekday": "Friday",
+      "slot": "friday-AM",
+      "week_number": 4,
+      "character": "あ",
+      "source": "routine",
+      "is_funword": true,
+      "delivered_at": "2026-06-05",
+      "example_jp": "あかちゃんがあまえる。",
+      "example_en": "The baby acts sweetly dependent."
     }
   ],
   "delivery_log": [
@@ -376,6 +408,14 @@
       "weekday": "Thursday",
       "word_japanese": "あう",
       "character": "あ"
+    },
+    {
+      "date": "2026-06-05",
+      "slot": "friday-AM",
+      "week_number": 4,
+      "word_japanese": "あまえる",
+      "character": "あ",
+      "weekday": "Friday"
     }
   ],
   "all_words_learned": [
@@ -1217,6 +1257,38 @@
       "delivered_at": "2026-06-04",
       "example_jp": "ともだちにあう。",
       "example_en": "I meet a friend."
+    },
+    {
+      "japanese": "あまえる",
+      "reading_romaji": "amaeru",
+      "translation": "to act sweetly dependent; to lean on someone's love and expect to be indulged",
+      "what_it_is": "あまえる describes the act of leaning into someone's affection — being a little babyish, clingy, or adorably needy with someone who loves you, fully expecting them to indulge you. It's not manipulation; it's the warm intimacy of letting your guard down with someone safe. A child whining softly to a parent, a partner being gently clingy, a cat pushing their head into your hand — all of that is あまえる.",
+      "similar_words": [
+        {
+          "japanese": "あまい",
+          "romaji": "amai",
+          "translation": "sweet (the root adjective; 甘 meaning sweetness is where あまえる comes from)"
+        },
+        {
+          "japanese": "えんりょ",
+          "romaji": "enryo",
+          "translation": "restraint / holding back (the social opposite of あまえる)"
+        },
+        {
+          "japanese": "あまやかす",
+          "romaji": "amayakasu",
+          "translation": "to spoil / indulge someone (what you do when someone あまえる toward you)"
+        }
+      ],
+      "weekday": "Friday",
+      "slot": "friday-AM",
+      "week_number": 4,
+      "character": "あ",
+      "source": "routine",
+      "is_funword": true,
+      "delivered_at": "2026-06-05",
+      "example_jp": "あかちゃんがあまえる。",
+      "example_en": "The baby acts sweetly dependent."
     }
   ],
   "all_characters_learned": [
