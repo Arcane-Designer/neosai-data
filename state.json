@@ -416,6 +416,12 @@
       "word_japanese": "あまえる",
       "character": "あ",
       "weekday": "Friday"
+    },
+    {
+      "date": "2026-06-05",
+      "slot": "friday-PM",
+      "week_number": 4,
+      "word_japanese": "あまえる"
     }
   ],
   "all_words_learned": [
