@@ -6,7 +6,28 @@
   "current_character": "き",
   "current_character_romaji": "ki",
   "current_character_script": "hiragana",
-  "current_week_words": [],
+  "current_week_words": [
+    {
+      "japanese": "きょう",
+      "reading_romaji": "kyou",
+      "translation": "today",
+      "casual_usage": "きょう is one of those words you reach for every single day without thinking. 「きょうなにするの？」(Kyou nani suru no?) — 'What are you doing today?' — flows out naturally among friends. You can also drop it in front of words you already know: きょうもたのしい！= 'Today is fun too!'",
+      "formal_usage": "きょう works in any register — only the verb after it shifts polite. 「きょうはよろしくおねがいします」(Kyou wa yoroshiku onegai shimasu) = 'I'm in your care today.' In formal written Japanese, you'll see ほんじつ (honjitsu) as the elevated equivalent — in announcements or official documents — but きょう covers everything in spoken life.",
+      "similar_words": [
+        { "japanese": "きのう", "romaji": "kinou", "translation": "yesterday" },
+        { "japanese": "あした", "romaji": "ashita", "translation": "tomorrow (already learned!)" },
+        { "japanese": "まいにち", "romaji": "mainichi", "translation": "every day" }
+      ],
+      "weekday": "Monday",
+      "slot": "weekday-AM",
+      "week_number": 5,
+      "character": "き",
+      "source": "routine",
+      "delivered_at": "2026-06-08",
+      "example_jp": "きょうはいい。",
+      "example_en": "Today is nice."
+    }
+  ],
   "delivery_log": [
     {
       "date": "2026-05-21",
@@ -273,6 +294,14 @@
       "slot": "sunday-master-recap",
       "week_number": 4,
       "weekday": "Sunday"
+    },
+    {
+      "date": "2026-06-08",
+      "slot": "weekday-AM",
+      "week_number": 5,
+      "weekday": "Monday",
+      "word_japanese": "きょう",
+      "character": "き"
     }
   ],
   "all_words_learned": [
@@ -1146,6 +1175,26 @@
       "delivered_at": "2026-06-05",
       "example_jp": "あかちゃんがあまえる。",
       "example_en": "The baby acts sweetly dependent."
+    },
+    {
+      "japanese": "きょう",
+      "reading_romaji": "kyou",
+      "translation": "today",
+      "casual_usage": "きょう is one of those words you reach for every single day without thinking. 「きょうなにするの？」(Kyou nani suru no?) — 'What are you doing today?' — flows out naturally among friends. You can also drop it in front of words you already know: きょうもたのしい！= 'Today is fun too!'",
+      "formal_usage": "きょう works in any register — only the verb after it shifts polite. 「きょうはよろしくおねがいします」(Kyou wa yoroshiku onegai shimasu) = 'I'm in your care today.' In formal written Japanese, you'll see ほんじつ (honjitsu) as the elevated equivalent — in announcements or official documents — but きょう covers everything in spoken life.",
+      "similar_words": [
+        { "japanese": "きのう", "romaji": "kinou", "translation": "yesterday" },
+        { "japanese": "あした", "romaji": "ashita", "translation": "tomorrow (already learned!)" },
+        { "japanese": "まいにち", "romaji": "mainichi", "translation": "every day" }
+      ],
+      "weekday": "Monday",
+      "slot": "weekday-AM",
+      "week_number": 5,
+      "character": "き",
+      "source": "routine",
+      "delivered_at": "2026-06-08",
+      "example_jp": "きょうはいい。",
+      "example_en": "Today is nice."
     }
   ],
   "all_characters_learned": [
@@ -1172,7 +1221,8 @@
     "ぞ",
     "じ",
     "ぢ",
-    "づ"
+    "づ",
+    "き"
   ],
   "user_words": [
     {
