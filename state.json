@@ -1,173 +1,12 @@
 {
   "schema_version": 2,
   "system_start_date": "2026-04-29",
-  "current_week_number": 4,
-  "current_week_start": "2026-06-01",
-  "current_character": "あ",
-  "current_character_romaji": "a",
+  "current_week_number": 5,
+  "current_week_start": "2026-06-08",
+  "current_character": "き",
+  "current_character_romaji": "ki",
   "current_character_script": "hiragana",
-  "current_week_words": [
-    {
-      "japanese": "あした",
-      "reading_romaji": "ashita",
-      "translation": "tomorrow",
-      "casual_usage": "あしたなにするの？(Ashita nani suru no?) — 'What are you doing tomorrow?' — is one of the most natural casual questions you'll reach for every day. You'll also drop あしたまた (ashita mata) as a breezy sign-off meaning 'See you tomorrow.'",
-      "formal_usage": "あした works fine in polite speech without changing form. あしたよろしくおねがいします (ashita yoroshiku onegai shimasu) = 'I'll be in your care tomorrow.' In written Japanese, the same word is often written as the kanji 明日 (still read ashita, or sometimes asu in more formal contexts).",
-      "similar_words": [
-        {
-          "japanese": "きょう",
-          "romaji": "kyou",
-          "translation": "today"
-        },
-        {
-          "japanese": "きのう",
-          "romaji": "kinou",
-          "translation": "yesterday"
-        },
-        {
-          "japanese": "あさって",
-          "romaji": "asatte",
-          "translation": "the day after tomorrow"
-        }
-      ],
-      "weekday": "Monday",
-      "slot": "weekday-AM",
-      "week_number": 4,
-      "character": "あ",
-      "source": "routine",
-      "delivered_at": "2026-06-01",
-      "example_jp": "あしたいきます。",
-      "example_en": "I'll go tomorrow."
-    },
-    {
-      "japanese": "あつい",
-      "reading_romaji": "atsui",
-      "translation": "hot; warm (temperature)",
-      "casual_usage": "あつい！(Atsui!) is a reflex — you'll say it before you've finished stepping outside on a Japanese summer afternoon. 「きょうはあついね」(Kyou wa atsui ne) — 'It's hot today, huh?' — is Japan's single most universal small-talk opener, guaranteed to get nods from anyone within earshot.",
-      "formal_usage": "The word itself doesn't change form — just add です: 「きょうはあついですね」(Kyou wa atsui desu ne) = 'It's hot today, isn't it.' You'll say this version in offices and with new acquaintances, especially May through September when Japan's heat is inescapable.",
-      "similar_words": [
-        {
-          "japanese": "さむい",
-          "romaji": "samui",
-          "translation": "cold (weather or air temperature)"
-        },
-        {
-          "japanese": "あたたかい",
-          "romaji": "atatakai",
-          "translation": "warm (the pleasant kind)"
-        },
-        {
-          "japanese": "つめたい",
-          "romaji": "tsumetai",
-          "translation": "cold to the touch (cold drinks, cold floors)"
-        }
-      ],
-      "weekday": "Tuesday",
-      "slot": "weekday-AM",
-      "week_number": 4,
-      "character": "あ",
-      "source": "routine",
-      "delivered_at": "2026-06-02",
-      "example_jp": "きょうはあついね。",
-      "example_en": "It's hot today, isn't it?"
-    },
-    {
-      "japanese": "あさ",
-      "reading_romaji": "asa",
-      "translation": "morning",
-      "casual_usage": "あさ is the first word you reach for at the start of the day. 「あさごはんたべた？」(Asa gohan tabeta?) — 'Did you eat breakfast?' — flows out before you're even fully awake. It fuses naturally with あした (tomorrow, which you already know): あしたのあさ = 'tomorrow morning.'",
-      "formal_usage": "あさ itself doesn't change form — only the verb and particles around it shift up. In formal settings you'll more often hear けさ (kesa) for 'this morning' specifically: 「けさはどうでしたか？」(Kesa wa dou deshita ka?) — 'How was this morning?' But あさ works fine for morning in general.",
-      "similar_words": [
-        {
-          "japanese": "ひる",
-          "romaji": "hiru",
-          "translation": "daytime; noon"
-        },
-        {
-          "japanese": "よる",
-          "romaji": "yoru",
-          "translation": "night; evening"
-        },
-        {
-          "japanese": "けさ",
-          "romaji": "kesa",
-          "translation": "this morning"
-        }
-      ],
-      "weekday": "Wednesday",
-      "slot": "weekday-AM",
-      "week_number": 4,
-      "character": "あ",
-      "source": "routine",
-      "delivered_at": "2026-06-03",
-      "example_jp": "あさごはんをたべた。",
-      "example_en": "I ate breakfast."
-    },
-    {
-      "japanese": "あう",
-      "reading_romaji": "au",
-      "translation": "to meet",
-      "casual_usage": "あう is your default verb whenever you're getting together with someone. 「ともだちにあう」(Tomodachi ni au) — 'I'm meeting a friend' — or 「あとであおう！」(Ato de aou!) — 'Let's meet up later!' It slots in naturally with あした (tomorrow): あしたあおう = 'Let's meet tomorrow.'",
-      "formal_usage": "It shifts to 「あいます」(aimasu) in polite speech. 「なんじにあいますか？」(Nanji ni aimasu ka?) — 'What time shall we meet?' — is the polite version for work or with new acquaintances. You'll also see お目にかかる (o-me ni kakaru) in highly formal situations, but あいます carries you everywhere you need to go.",
-      "similar_words": [
-        {
-          "japanese": "あいさつ",
-          "romaji": "aisatsu",
-          "translation": "a greeting; what you do the moment you meet someone"
-        },
-        {
-          "japanese": "あつまる",
-          "romaji": "atsumaru",
-          "translation": "to gather together (a group meeting up)"
-        },
-        {
-          "japanese": "はなす",
-          "romaji": "hanasu",
-          "translation": "to talk/speak (what naturally follows meeting someone)"
-        }
-      ],
-      "weekday": "Thursday",
-      "slot": "weekday-AM",
-      "week_number": 4,
-      "character": "あ",
-      "source": "routine",
-      "delivered_at": "2026-06-04",
-      "example_jp": "ともだちにあう。",
-      "example_en": "I meet a friend."
-    },
-    {
-      "japanese": "あまえる",
-      "reading_romaji": "amaeru",
-      "translation": "to act sweetly dependent; to lean on someone's love and expect to be indulged",
-      "what_it_is": "あまえる describes the act of leaning into someone's affection — being a little babyish, clingy, or adorably needy with someone who loves you, fully expecting them to indulge you. It's not manipulation; it's the warm intimacy of letting your guard down with someone safe. A child whining softly to a parent, a partner being gently clingy, a cat pushing their head into your hand — all of that is あまえる.",
-      "similar_words": [
-        {
-          "japanese": "あまい",
-          "romaji": "amai",
-          "translation": "sweet (the root adjective; 甘 meaning sweetness is where あまえる comes from)"
-        },
-        {
-          "japanese": "えんりょ",
-          "romaji": "enryo",
-          "translation": "restraint / holding back (the social opposite of あまえる)"
-        },
-        {
-          "japanese": "あまやかす",
-          "romaji": "amayakasu",
-          "translation": "to spoil / indulge someone (what you do when someone あまえる toward you)"
-        }
-      ],
-      "weekday": "Friday",
-      "slot": "friday-AM",
-      "week_number": 4,
-      "character": "あ",
-      "source": "routine",
-      "is_funword": true,
-      "delivered_at": "2026-06-05",
-      "example_jp": "あかちゃんがあまえる。",
-      "example_en": "The baby acts sweetly dependent."
-    }
-  ],
+  "current_week_words": [],
   "delivery_log": [
     {
       "date": "2026-05-21",
@@ -428,6 +267,12 @@
       "slot": "saturday-recap",
       "week_number": 4,
       "weekday": "Saturday"
+    },
+    {
+      "date": "2026-06-08",
+      "slot": "sunday-master-recap",
+      "week_number": 4,
+      "weekday": "Sunday"
     }
   ],
   "all_words_learned": [
@@ -1502,6 +1347,6 @@
     }
   ],
   "skipped_character_priorities": [],
-  "last_health_check": "2026-06-01",
+  "last_health_check": "2026-06-08",
   "notes": "Neosai state file. Routines read and write this. user_words is the manually-added list (replaces user-lists.json from v1). all_words_learned grows over time and includes both routine-delivered words and user-added words distinguished by the 'source' field."
 }
