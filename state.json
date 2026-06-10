@@ -14,9 +14,21 @@
       "casual_usage": "きょう is one of those words you reach for every single day without thinking. 「きょうなにするの？」(Kyou nani suru no?) — 'What are you doing today?' — flows out naturally among friends. You can also drop it in front of words you already know: きょうもたのしい！= 'Today is fun too!'",
       "formal_usage": "きょう works in any register — only the verb after it shifts polite. 「きょうはよろしくおねがいします」(Kyou wa yoroshiku onegai shimasu) = 'I'm in your care today.' In formal written Japanese, you'll see ほんじつ (honjitsu) as the elevated equivalent — in announcements or official documents — but きょう covers everything in spoken life.",
       "similar_words": [
-        { "japanese": "きのう", "romaji": "kinou", "translation": "yesterday" },
-        { "japanese": "あした", "romaji": "ashita", "translation": "tomorrow (already learned!)" },
-        { "japanese": "まいにち", "romaji": "mainichi", "translation": "every day" }
+        {
+          "japanese": "きのう",
+          "romaji": "kinou",
+          "translation": "yesterday"
+        },
+        {
+          "japanese": "あした",
+          "romaji": "ashita",
+          "translation": "tomorrow (already learned!)"
+        },
+        {
+          "japanese": "まいにち",
+          "romaji": "mainichi",
+          "translation": "every day"
+        }
       ],
       "weekday": "Monday",
       "slot": "weekday-AM",
@@ -34,9 +46,21 @@
       "casual_usage": "きのう is the natural backward-looking complement to きょう — it's in virtually every recap conversation. 「きのうなにしてたの？」(Kinou nani shiteta no?) = 'What were you doing yesterday?' You'll also drop it before verbs you already know: きのうたべた (kinou tabeta) = 'I ate it yesterday.'",
       "formal_usage": "The word itself never changes form — only the verbs that follow shift up. 「きのうはどうでしたか？」(Kinou wa dou deshita ka?) = 'How was yesterday?' is perfectly polite. In written Japanese, 昨日 is the kanji form (still read kinou, or sakujitsu in very formal contexts).",
       "similar_words": [
-        { "japanese": "きょう", "romaji": "kyou", "translation": "today (just learned!)" },
-        { "japanese": "あした", "romaji": "ashita", "translation": "tomorrow (learned in week 4!)" },
-        { "japanese": "まえ", "romaji": "mae", "translation": "before; ago; in front of" }
+        {
+          "japanese": "きょう",
+          "romaji": "kyou",
+          "translation": "today (just learned!)"
+        },
+        {
+          "japanese": "あした",
+          "romaji": "ashita",
+          "translation": "tomorrow (learned in week 4!)"
+        },
+        {
+          "japanese": "まえ",
+          "romaji": "mae",
+          "translation": "before; ago; in front of"
+        }
       ],
       "weekday": "Tuesday",
       "slot": "weekday-AM",
@@ -46,6 +70,38 @@
       "delivered_at": "2026-06-09",
       "example_jp": "きのうたべました。",
       "example_en": "I ate yesterday."
+    },
+    {
+      "japanese": "きれい",
+      "reading_romaji": "kirei",
+      "translation": "pretty; beautiful; clean",
+      "casual_usage": "きれい！(Kirei!) stands alone as an instant reaction — drop it on a view, a tidy room, or someone's handwriting. It covers both beauty and cleanliness in one word, so 「へやがきれいだね」(Heya ga kirei da ne) = 'The room is clean, huh?' works just as naturally as a compliment.",
+      "formal_usage": "きれい is a な-adjective, so polite speech just adds です: 「きれいですね」(kirei desu ne) = 'It's beautiful/clean, isn't it?' You'll use this phrase constantly — in restaurants, outside, meeting someone's home for the first time.",
+      "similar_words": [
+        {
+          "japanese": "うつくしい",
+          "romaji": "utsukushii",
+          "translation": "beautiful (more literary/poetic; for grand scenes or formal compliments)"
+        },
+        {
+          "japanese": "かわいい",
+          "romaji": "kawaii",
+          "translation": "cute (already in your vocab!)"
+        },
+        {
+          "japanese": "すてき",
+          "romaji": "suteki",
+          "translation": "lovely; stylish; wonderful"
+        }
+      ],
+      "weekday": "Wednesday",
+      "slot": "weekday-AM",
+      "week_number": 5,
+      "character": "き",
+      "source": "routine",
+      "delivered_at": "2026-06-10",
+      "example_jp": "そらがきれい。",
+      "example_en": "The sky is beautiful."
     }
   ],
   "delivery_log": [
@@ -329,6 +385,14 @@
       "week_number": 5,
       "weekday": "Tuesday",
       "word_japanese": "きのう",
+      "character": "き"
+    },
+    {
+      "date": "2026-06-10",
+      "slot": "weekday-AM",
+      "week_number": 5,
+      "weekday": "Wednesday",
+      "word_japanese": "きれい",
       "character": "き"
     }
   ],
@@ -1211,9 +1275,21 @@
       "casual_usage": "きょう is one of those words you reach for every single day without thinking. 「きょうなにするの？」(Kyou nani suru no?) — 'What are you doing today?' — flows out naturally among friends. You can also drop it in front of words you already know: きょうもたのしい！= 'Today is fun too!'",
       "formal_usage": "きょう works in any register — only the verb after it shifts polite. 「きょうはよろしくおねがいします」(Kyou wa yoroshiku onegai shimasu) = 'I'm in your care today.' In formal written Japanese, you'll see ほんじつ (honjitsu) as the elevated equivalent — in announcements or official documents — but きょう covers everything in spoken life.",
       "similar_words": [
-        { "japanese": "きのう", "romaji": "kinou", "translation": "yesterday" },
-        { "japanese": "あした", "romaji": "ashita", "translation": "tomorrow (already learned!)" },
-        { "japanese": "まいにち", "romaji": "mainichi", "translation": "every day" }
+        {
+          "japanese": "きのう",
+          "romaji": "kinou",
+          "translation": "yesterday"
+        },
+        {
+          "japanese": "あした",
+          "romaji": "ashita",
+          "translation": "tomorrow (already learned!)"
+        },
+        {
+          "japanese": "まいにち",
+          "romaji": "mainichi",
+          "translation": "every day"
+        }
       ],
       "weekday": "Monday",
       "slot": "weekday-AM",
@@ -1231,9 +1307,21 @@
       "casual_usage": "きのう is the natural backward-looking complement to きょう — it's in virtually every recap conversation. 「きのうなにしてたの？」(Kinou nani shiteta no?) = 'What were you doing yesterday?' You'll also drop it before verbs you already know: きのうたべた (kinou tabeta) = 'I ate it yesterday.'",
       "formal_usage": "The word itself never changes form — only the verbs that follow shift up. 「きのうはどうでしたか？」(Kinou wa dou deshita ka?) = 'How was yesterday?' is perfectly polite. In written Japanese, 昨日 is the kanji form (still read kinou, or sakujitsu in very formal contexts).",
       "similar_words": [
-        { "japanese": "きょう", "romaji": "kyou", "translation": "today (just learned!)" },
-        { "japanese": "あした", "romaji": "ashita", "translation": "tomorrow (learned in week 4!)" },
-        { "japanese": "まえ", "romaji": "mae", "translation": "before; ago; in front of" }
+        {
+          "japanese": "きょう",
+          "romaji": "kyou",
+          "translation": "today (just learned!)"
+        },
+        {
+          "japanese": "あした",
+          "romaji": "ashita",
+          "translation": "tomorrow (learned in week 4!)"
+        },
+        {
+          "japanese": "まえ",
+          "romaji": "mae",
+          "translation": "before; ago; in front of"
+        }
       ],
       "weekday": "Tuesday",
       "slot": "weekday-AM",
@@ -1243,6 +1331,38 @@
       "delivered_at": "2026-06-09",
       "example_jp": "きのうたべました。",
       "example_en": "I ate yesterday."
+    },
+    {
+      "japanese": "きれい",
+      "reading_romaji": "kirei",
+      "translation": "pretty; beautiful; clean",
+      "casual_usage": "きれい！(Kirei!) stands alone as an instant reaction — drop it on a view, a tidy room, or someone's handwriting. It covers both beauty and cleanliness in one word, so 「へやがきれいだね」(Heya ga kirei da ne) = 'The room is clean, huh?' works just as naturally as a compliment.",
+      "formal_usage": "きれい is a な-adjective, so polite speech just adds です: 「きれいですね」(kirei desu ne) = 'It's beautiful/clean, isn't it?' You'll use this phrase constantly — in restaurants, outside, meeting someone's home for the first time.",
+      "similar_words": [
+        {
+          "japanese": "うつくしい",
+          "romaji": "utsukushii",
+          "translation": "beautiful (more literary/poetic; for grand scenes or formal compliments)"
+        },
+        {
+          "japanese": "かわいい",
+          "romaji": "kawaii",
+          "translation": "cute (already in your vocab!)"
+        },
+        {
+          "japanese": "すてき",
+          "romaji": "suteki",
+          "translation": "lovely; stylish; wonderful"
+        }
+      ],
+      "weekday": "Wednesday",
+      "slot": "weekday-AM",
+      "week_number": 5,
+      "character": "き",
+      "source": "routine",
+      "delivered_at": "2026-06-10",
+      "example_jp": "そらがきれい。",
+      "example_en": "The sky is beautiful."
     }
   ],
   "all_characters_learned": [
