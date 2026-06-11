@@ -102,6 +102,38 @@
       "delivered_at": "2026-06-10",
       "example_jp": "そらがきれい。",
       "example_en": "The sky is beautiful."
+    },
+    {
+      "japanese": "きもち",
+      "reading_romaji": "kimochi",
+      "translation": "feeling; mood",
+      "casual_usage": "きもち pops up constantly in everyday speech, especially to describe how you feel in the moment. 「いいきもち！」(Ii kimochi!) = \"What a great feeling!\" — you might say it after a good stretch, a cool breeze, or finishing something satisfying. 「きもちわかるよ」(Kimochi wakaru yo) = \"I get how you feel\" — it's the go-to phrase for showing empathy between friends.",
+      "formal_usage": "In polite contexts the word itself stays the same, but you add です or soften the expression. 「おきもちはいかがですか」(Okimochi wa ikaga desu ka) = \"How are you feeling?\" — with the honorific お prefix, it becomes respectful and gentle, used toward someone who is unwell or has been through something difficult.",
+      "similar_words": [
+        {
+          "japanese": "きぶん",
+          "romaji": "kibun",
+          "translation": "mood; atmosphere; how one feels"
+        },
+        {
+          "japanese": "かんじょう",
+          "romaji": "kanjou",
+          "translation": "emotion; sentiment"
+        },
+        {
+          "japanese": "こころ",
+          "romaji": "kokoro",
+          "translation": "heart; mind; spirit"
+        }
+      ],
+      "example_jp": "いいきもち。",
+      "example_en": "What a good feeling.",
+      "weekday": "Thursday",
+      "slot": "weekday-AM",
+      "week_number": 5,
+      "character": "き",
+      "source": "routine",
+      "delivered_at": "2026-06-11"
     }
   ],
   "delivery_log": [
@@ -393,6 +425,14 @@
       "week_number": 5,
       "weekday": "Wednesday",
       "word_japanese": "きれい",
+      "character": "き"
+    },
+    {
+      "date": "2026-06-11",
+      "slot": "weekday-AM",
+      "week_number": 5,
+      "weekday": "Thursday",
+      "word_japanese": "きもち",
       "character": "き"
     }
   ],
@@ -1363,6 +1403,38 @@
       "delivered_at": "2026-06-10",
       "example_jp": "そらがきれい。",
       "example_en": "The sky is beautiful."
+    },
+    {
+      "japanese": "きもち",
+      "reading_romaji": "kimochi",
+      "translation": "feeling; mood",
+      "casual_usage": "きもち pops up constantly in everyday speech, especially to describe how you feel in the moment. 「いいきもち！」(Ii kimochi!) = \"What a great feeling!\" — you might say it after a good stretch, a cool breeze, or finishing something satisfying. 「きもちわかるよ」(Kimochi wakaru yo) = \"I get how you feel\" — it's the go-to phrase for showing empathy between friends.",
+      "formal_usage": "In polite contexts the word itself stays the same, but you add です or soften the expression. 「おきもちはいかがですか」(Okimochi wa ikaga desu ka) = \"How are you feeling?\" — with the honorific お prefix, it becomes respectful and gentle, used toward someone who is unwell or has been through something difficult.",
+      "similar_words": [
+        {
+          "japanese": "きぶん",
+          "romaji": "kibun",
+          "translation": "mood; atmosphere; how one feels"
+        },
+        {
+          "japanese": "かんじょう",
+          "romaji": "kanjou",
+          "translation": "emotion; sentiment"
+        },
+        {
+          "japanese": "こころ",
+          "romaji": "kokoro",
+          "translation": "heart; mind; spirit"
+        }
+      ],
+      "example_jp": "いいきもち。",
+      "example_en": "What a good feeling.",
+      "weekday": "Thursday",
+      "slot": "weekday-AM",
+      "week_number": 5,
+      "character": "き",
+      "source": "routine",
+      "delivered_at": "2026-06-11"
     }
   ],
   "all_characters_learned": [
