@@ -134,6 +134,38 @@
       "character": "き",
       "source": "routine",
       "delivered_at": "2026-06-11"
+    },
+    {
+      "japanese": "きゅんきゅん",
+      "reading_romaji": "kyun-kyun",
+      "translation": "the heart-squeezing feeling from something unbearably cute or touching",
+      "what_it_is": "きゅんきゅん is a gitaigo — a word that mimics a sensation rather than a sound. It describes that tight, fluttery squeeze in your chest when something is so cute, sweet, or emotionally moving that it almost hurts. A puppy falling asleep in your hands, the moment two characters finally confess in a drama — your heart goes きゅん. In anime, manga, and Japanese social media, saying きゅんきゅんする (kyun-kyun suru) means your heart is being squeezed over and over again, helplessly.",
+      "similar_words": [
+        {
+          "japanese": "どきどき",
+          "romaji": "doki-doki",
+          "translation": "heart pounding with excitement or nervousness"
+        },
+        {
+          "japanese": "ときめく",
+          "romaji": "tokimeku",
+          "translation": "for the heart to flutter with excitement (the root of Marie Kondo's 'spark joy')"
+        },
+        {
+          "japanese": "むねきゅん",
+          "romaji": "mune-kyun",
+          "translation": "a chest-squeezing moment; heart going きゅん inside your chest (むね)"
+        }
+      ],
+      "weekday": "Friday",
+      "slot": "friday-AM",
+      "week_number": 5,
+      "character": "き",
+      "source": "routine",
+      "is_funword": true,
+      "delivered_at": "2026-06-12",
+      "example_jp": "きゅんきゅんした。",
+      "example_en": "My heart did a little squeeze."
     }
   ],
   "delivery_log": [
@@ -434,6 +466,14 @@
       "weekday": "Thursday",
       "word_japanese": "きもち",
       "character": "き"
+    },
+    {
+      "date": "2026-06-12",
+      "slot": "friday-AM",
+      "week_number": 5,
+      "word_japanese": "きゅんきゅん",
+      "character": "き",
+      "weekday": "Friday"
     }
   ],
   "all_words_learned": [
@@ -1435,6 +1475,38 @@
       "character": "き",
       "source": "routine",
       "delivered_at": "2026-06-11"
+    },
+    {
+      "japanese": "きゅんきゅん",
+      "reading_romaji": "kyun-kyun",
+      "translation": "the heart-squeezing feeling from something unbearably cute or touching",
+      "what_it_is": "きゅんきゅん is a gitaigo — a word that mimics a sensation rather than a sound. It describes that tight, fluttery squeeze in your chest when something is so cute, sweet, or emotionally moving that it almost hurts. A puppy falling asleep in your hands, the moment two characters finally confess in a drama — your heart goes きゅん. In anime, manga, and Japanese social media, saying きゅんきゅんする (kyun-kyun suru) means your heart is being squeezed over and over again, helplessly.",
+      "similar_words": [
+        {
+          "japanese": "どきどき",
+          "romaji": "doki-doki",
+          "translation": "heart pounding with excitement or nervousness"
+        },
+        {
+          "japanese": "ときめく",
+          "romaji": "tokimeku",
+          "translation": "for the heart to flutter with excitement (the root of Marie Kondo's 'spark joy')"
+        },
+        {
+          "japanese": "むねきゅん",
+          "romaji": "mune-kyun",
+          "translation": "a chest-squeezing moment; heart going きゅん inside your chest (むね)"
+        }
+      ],
+      "weekday": "Friday",
+      "slot": "friday-AM",
+      "week_number": 5,
+      "character": "き",
+      "source": "routine",
+      "is_funword": true,
+      "delivered_at": "2026-06-12",
+      "example_jp": "きゅんきゅんした。",
+      "example_en": "My heart did a little squeeze."
     }
   ],
   "all_characters_learned": [
