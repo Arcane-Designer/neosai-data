@@ -474,6 +474,12 @@
       "word_japanese": "きゅんきゅん",
       "character": "き",
       "weekday": "Friday"
+    },
+    {
+      "date": "2026-06-12",
+      "slot": "friday-PM",
+      "week_number": 5,
+      "word_japanese": "きゅんきゅん"
     }
   ],
   "all_words_learned": [
