@@ -1,173 +1,12 @@
 {
   "schema_version": 2,
   "system_start_date": "2026-04-29",
-  "current_week_number": 5,
-  "current_week_start": "2026-06-08",
-  "current_character": "き",
-  "current_character_romaji": "ki",
+  "current_week_number": 6,
+  "current_week_start": "2026-06-15",
+  "current_character": "な",
+  "current_character_romaji": "na",
   "current_character_script": "hiragana",
-  "current_week_words": [
-    {
-      "japanese": "きょう",
-      "reading_romaji": "kyou",
-      "translation": "today",
-      "casual_usage": "きょう is one of those words you reach for every single day without thinking. 「きょうなにするの？」(Kyou nani suru no?) — 'What are you doing today?' — flows out naturally among friends. You can also drop it in front of words you already know: きょうもたのしい！= 'Today is fun too!'",
-      "formal_usage": "きょう works in any register — only the verb after it shifts polite. 「きょうはよろしくおねがいします」(Kyou wa yoroshiku onegai shimasu) = 'I'm in your care today.' In formal written Japanese, you'll see ほんじつ (honjitsu) as the elevated equivalent — in announcements or official documents — but きょう covers everything in spoken life.",
-      "similar_words": [
-        {
-          "japanese": "きのう",
-          "romaji": "kinou",
-          "translation": "yesterday"
-        },
-        {
-          "japanese": "あした",
-          "romaji": "ashita",
-          "translation": "tomorrow (already learned!)"
-        },
-        {
-          "japanese": "まいにち",
-          "romaji": "mainichi",
-          "translation": "every day"
-        }
-      ],
-      "weekday": "Monday",
-      "slot": "weekday-AM",
-      "week_number": 5,
-      "character": "き",
-      "source": "routine",
-      "delivered_at": "2026-06-08",
-      "example_jp": "きょうはいい。",
-      "example_en": "Today is nice."
-    },
-    {
-      "japanese": "きのう",
-      "reading_romaji": "kinou",
-      "translation": "yesterday",
-      "casual_usage": "きのう is the natural backward-looking complement to きょう — it's in virtually every recap conversation. 「きのうなにしてたの？」(Kinou nani shiteta no?) = 'What were you doing yesterday?' You'll also drop it before verbs you already know: きのうたべた (kinou tabeta) = 'I ate it yesterday.'",
-      "formal_usage": "The word itself never changes form — only the verbs that follow shift up. 「きのうはどうでしたか？」(Kinou wa dou deshita ka?) = 'How was yesterday?' is perfectly polite. In written Japanese, 昨日 is the kanji form (still read kinou, or sakujitsu in very formal contexts).",
-      "similar_words": [
-        {
-          "japanese": "きょう",
-          "romaji": "kyou",
-          "translation": "today (just learned!)"
-        },
-        {
-          "japanese": "あした",
-          "romaji": "ashita",
-          "translation": "tomorrow (learned in week 4!)"
-        },
-        {
-          "japanese": "まえ",
-          "romaji": "mae",
-          "translation": "before; ago; in front of"
-        }
-      ],
-      "weekday": "Tuesday",
-      "slot": "weekday-AM",
-      "week_number": 5,
-      "character": "き",
-      "source": "routine",
-      "delivered_at": "2026-06-09",
-      "example_jp": "きのうたべました。",
-      "example_en": "I ate yesterday."
-    },
-    {
-      "japanese": "きれい",
-      "reading_romaji": "kirei",
-      "translation": "pretty; beautiful; clean",
-      "casual_usage": "きれい！(Kirei!) stands alone as an instant reaction — drop it on a view, a tidy room, or someone's handwriting. It covers both beauty and cleanliness in one word, so 「へやがきれいだね」(Heya ga kirei da ne) = 'The room is clean, huh?' works just as naturally as a compliment.",
-      "formal_usage": "きれい is a な-adjective, so polite speech just adds です: 「きれいですね」(kirei desu ne) = 'It's beautiful/clean, isn't it?' You'll use this phrase constantly — in restaurants, outside, meeting someone's home for the first time.",
-      "similar_words": [
-        {
-          "japanese": "うつくしい",
-          "romaji": "utsukushii",
-          "translation": "beautiful (more literary/poetic; for grand scenes or formal compliments)"
-        },
-        {
-          "japanese": "かわいい",
-          "romaji": "kawaii",
-          "translation": "cute (already in your vocab!)"
-        },
-        {
-          "japanese": "すてき",
-          "romaji": "suteki",
-          "translation": "lovely; stylish; wonderful"
-        }
-      ],
-      "weekday": "Wednesday",
-      "slot": "weekday-AM",
-      "week_number": 5,
-      "character": "き",
-      "source": "routine",
-      "delivered_at": "2026-06-10",
-      "example_jp": "そらがきれい。",
-      "example_en": "The sky is beautiful."
-    },
-    {
-      "japanese": "きもち",
-      "reading_romaji": "kimochi",
-      "translation": "feeling; mood",
-      "casual_usage": "きもち pops up constantly in everyday speech, especially to describe how you feel in the moment. 「いいきもち！」(Ii kimochi!) = \"What a great feeling!\" — you might say it after a good stretch, a cool breeze, or finishing something satisfying. 「きもちわかるよ」(Kimochi wakaru yo) = \"I get how you feel\" — it's the go-to phrase for showing empathy between friends.",
-      "formal_usage": "In polite contexts the word itself stays the same, but you add です or soften the expression. 「おきもちはいかがですか」(Okimochi wa ikaga desu ka) = \"How are you feeling?\" — with the honorific お prefix, it becomes respectful and gentle, used toward someone who is unwell or has been through something difficult.",
-      "similar_words": [
-        {
-          "japanese": "きぶん",
-          "romaji": "kibun",
-          "translation": "mood; atmosphere; how one feels"
-        },
-        {
-          "japanese": "かんじょう",
-          "romaji": "kanjou",
-          "translation": "emotion; sentiment"
-        },
-        {
-          "japanese": "こころ",
-          "romaji": "kokoro",
-          "translation": "heart; mind; spirit"
-        }
-      ],
-      "example_jp": "いいきもち。",
-      "example_en": "What a good feeling.",
-      "weekday": "Thursday",
-      "slot": "weekday-AM",
-      "week_number": 5,
-      "character": "き",
-      "source": "routine",
-      "delivered_at": "2026-06-11"
-    },
-    {
-      "japanese": "きゅんきゅん",
-      "reading_romaji": "kyun-kyun",
-      "translation": "the heart-squeezing feeling from something unbearably cute or touching",
-      "what_it_is": "きゅんきゅん is a gitaigo — a word that mimics a sensation rather than a sound. It describes that tight, fluttery squeeze in your chest when something is so cute, sweet, or emotionally moving that it almost hurts. A puppy falling asleep in your hands, the moment two characters finally confess in a drama — your heart goes きゅん. In anime, manga, and Japanese social media, saying きゅんきゅんする (kyun-kyun suru) means your heart is being squeezed over and over again, helplessly.",
-      "similar_words": [
-        {
-          "japanese": "どきどき",
-          "romaji": "doki-doki",
-          "translation": "heart pounding with excitement or nervousness"
-        },
-        {
-          "japanese": "ときめく",
-          "romaji": "tokimeku",
-          "translation": "for the heart to flutter with excitement (the root of Marie Kondo's 'spark joy')"
-        },
-        {
-          "japanese": "むねきゅん",
-          "romaji": "mune-kyun",
-          "translation": "a chest-squeezing moment; heart going きゅん inside your chest (むね)"
-        }
-      ],
-      "weekday": "Friday",
-      "slot": "friday-AM",
-      "week_number": 5,
-      "character": "き",
-      "source": "routine",
-      "is_funword": true,
-      "delivered_at": "2026-06-12",
-      "example_jp": "きゅんきゅんした。",
-      "example_en": "My heart did a little squeeze."
-    }
-  ],
+  "current_week_words": [],
   "delivery_log": [
     {
       "date": "2026-05-21",
@@ -480,6 +319,12 @@
       "slot": "saturday-recap",
       "week_number": 5,
       "weekday": "Saturday"
+    },
+    {
+      "date": "2026-06-14",
+      "slot": "sunday-master-recap",
+      "week_number": 5,
+      "weekday": "Sunday"
     }
   ],
   "all_words_learned": [
@@ -1715,6 +1560,6 @@
     }
   ],
   "skipped_character_priorities": [],
-  "last_health_check": "2026-06-09",
+  "last_health_check": "2026-06-14",
   "notes": "Neosai state file. Routines read and write this. user_words is the manually-added list (replaces user-lists.json from v1). all_words_learned grows over time and includes both routine-delivered words and user-added words distinguished by the 'source' field."
 }
