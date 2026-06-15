@@ -6,7 +6,39 @@
   "current_character": "な",
   "current_character_romaji": "na",
   "current_character_script": "hiragana",
-  "current_week_words": [],
+  "current_week_words": [
+    {
+      "japanese": "なまえ",
+      "reading_romaji": "namae",
+      "translation": "name",
+      "casual_usage": "なまえは？ (namae wa?) is the ultra-casual way to ask someone's name — short and direct between friends. You'll also catch なまえおしえて (namae oshiete) = \"Tell me your name\" said without any particles at all.",
+      "formal_usage": "Add the honorific お: おなまえは？ (onamae wa?) is what hotel staff, café clerks, and doctors reach for automatically. Full formal: おなまえをおしえていただけますか (onamae wo oshiete itadakemasu ka) = \"Could you please tell me your name?\"",
+      "similar_words": [
+        {
+          "japanese": "なに",
+          "romaji": "nani",
+          "translation": "what"
+        },
+        {
+          "japanese": "なか",
+          "romaji": "naka",
+          "translation": "inside; middle"
+        },
+        {
+          "japanese": "なつ",
+          "romaji": "natsu",
+          "translation": "summer"
+        }
+      ],
+      "example_jp": "なまえをおしえて。",
+      "example_en": "Tell me your name.",
+      "weekday": "Monday",
+      "slot": "weekday-AM",
+      "week_number": 6,
+      "character": "な",
+      "source": "routine"
+    }
+  ],
   "delivery_log": [
     {
       "date": "2026-05-21",
@@ -325,6 +357,14 @@
       "slot": "sunday-master-recap",
       "week_number": 5,
       "weekday": "Sunday"
+    },
+    {
+      "date": "2026-06-15",
+      "slot": "weekday-AM",
+      "week_number": 6,
+      "weekday": "Monday",
+      "word_japanese": "なまえ",
+      "character": "な"
     }
   ],
   "all_words_learned": [
@@ -1358,6 +1398,38 @@
       "delivered_at": "2026-06-12",
       "example_jp": "きゅんきゅんした。",
       "example_en": "My heart did a little squeeze."
+    },
+    {
+      "japanese": "なまえ",
+      "reading_romaji": "namae",
+      "translation": "name",
+      "casual_usage": "なまえは？ (namae wa?) is the ultra-casual way to ask someone's name — short and direct between friends. You'll also catch なまえおしえて (namae oshiete) = \"Tell me your name\" said without any particles at all.",
+      "formal_usage": "Add the honorific お: おなまえは？ (onamae wa?) is what hotel staff, café clerks, and doctors reach for automatically. Full formal: おなまえをおしえていただけますか (onamae wo oshiete itadakemasu ka) = \"Could you please tell me your name?\"",
+      "similar_words": [
+        {
+          "japanese": "なに",
+          "romaji": "nani",
+          "translation": "what"
+        },
+        {
+          "japanese": "なか",
+          "romaji": "naka",
+          "translation": "inside; middle"
+        },
+        {
+          "japanese": "なつ",
+          "romaji": "natsu",
+          "translation": "summer"
+        }
+      ],
+      "example_jp": "なまえをおしえて。",
+      "example_en": "Tell me your name.",
+      "weekday": "Monday",
+      "slot": "weekday-AM",
+      "week_number": 6,
+      "character": "な",
+      "source": "routine",
+      "delivered_at": "2026-06-15"
     }
   ],
   "all_characters_learned": [
@@ -1385,7 +1457,8 @@
     "じ",
     "ぢ",
     "づ",
-    "き"
+    "き",
+    "な"
   ],
   "user_words": [
     {
