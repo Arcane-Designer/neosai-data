@@ -37,6 +37,37 @@
       "week_number": 6,
       "character": "な",
       "source": "routine"
+    },
+    {
+      "japanese": "なんで",
+      "reading_romaji": "nande",
+      "translation": "why (casual)",
+      "casual_usage": "なんで is the gut-reaction question word you reach for any time something doesn't make sense. 「なんでいくの？」(Nande iku no?) = \"Why are you going?\" You'll also hear it trail off: 「なんでだろう…」(Nande darou...) = \"I wonder why…\"",
+      "formal_usage": "なんで is too casual for professional settings — swap it for なぜ (naze) or どうして (doushite). 「なぜそうしましたか？」(Naze sou shimashita ka?) = \"Why did you do that?\" is clean and appropriate anywhere.",
+      "similar_words": [
+        {
+          "japanese": "なぜ",
+          "romaji": "naze",
+          "translation": "why (formal/written Japanese)"
+        },
+        {
+          "japanese": "どうして",
+          "romaji": "doushite",
+          "translation": "why (softer; used when genuinely curious)"
+        },
+        {
+          "japanese": "どんな",
+          "romaji": "donna",
+          "translation": "what kind of"
+        }
+      ],
+      "example_jp": "なんでいくの。",
+      "example_en": "Why are you going?",
+      "weekday": "Tuesday",
+      "slot": "weekday-AM",
+      "week_number": 6,
+      "character": "な",
+      "source": "routine"
     }
   ],
   "delivery_log": [
@@ -364,6 +395,14 @@
       "week_number": 6,
       "weekday": "Monday",
       "word_japanese": "なまえ",
+      "character": "な"
+    },
+    {
+      "date": "2026-06-16",
+      "slot": "weekday-AM",
+      "week_number": 6,
+      "weekday": "Tuesday",
+      "word_japanese": "なんで",
       "character": "な"
     }
   ],
@@ -1430,6 +1469,38 @@
       "character": "な",
       "source": "routine",
       "delivered_at": "2026-06-15"
+    },
+    {
+      "japanese": "なんで",
+      "reading_romaji": "nande",
+      "translation": "why (casual)",
+      "casual_usage": "なんで is the gut-reaction question word you reach for any time something doesn't make sense. 「なんでいくの？」(Nande iku no?) = \"Why are you going?\" You'll also hear it trail off: 「なんでだろう…」(Nande darou...) = \"I wonder why…\"",
+      "formal_usage": "なんで is too casual for professional settings — swap it for なぜ (naze) or どうして (doushite). 「なぜそうしましたか？」(Naze sou shimashita ka?) = \"Why did you do that?\" is clean and appropriate anywhere.",
+      "similar_words": [
+        {
+          "japanese": "なぜ",
+          "romaji": "naze",
+          "translation": "why (formal/written Japanese)"
+        },
+        {
+          "japanese": "どうして",
+          "romaji": "doushite",
+          "translation": "why (softer; used when genuinely curious)"
+        },
+        {
+          "japanese": "どんな",
+          "romaji": "donna",
+          "translation": "what kind of"
+        }
+      ],
+      "example_jp": "なんでいくの。",
+      "example_en": "Why are you going?",
+      "weekday": "Tuesday",
+      "slot": "weekday-AM",
+      "week_number": 6,
+      "character": "な",
+      "source": "routine",
+      "delivered_at": "2026-06-16"
     }
   ],
   "all_characters_learned": [
