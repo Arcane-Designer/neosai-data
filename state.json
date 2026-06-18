@@ -99,6 +99,37 @@
       "week_number": 6,
       "character": "な",
       "source": "routine"
+    },
+    {
+      "japanese": "なか",
+      "reading_romaji": "naka",
+      "translation": "inside; middle",
+      "casual_usage": "なかに入って！(Naka ni haitte!) = \"Come inside!\" flows naturally between friends. When someone asks where your keys are, かばんのなか (kaban no naka) = \"inside the bag\" is the instant answer.",
+      "formal_usage": "なか itself is register-neutral and does not change in polite speech. The formality is carried by surrounding verbs and endings: …のなかにあります (no naka ni arimasu) is perfectly polite.",
+      "similar_words": [
+        {
+          "japanese": "そと",
+          "romaji": "soto",
+          "translation": "outside"
+        },
+        {
+          "japanese": "まえ",
+          "romaji": "mae",
+          "translation": "in front of; before"
+        },
+        {
+          "japanese": "うしろ",
+          "romaji": "ushiro",
+          "translation": "behind; back"
+        }
+      ],
+      "example_jp": "かばんのなかにある。",
+      "example_en": "It is inside the bag.",
+      "weekday": "Thursday",
+      "slot": "weekday-AM",
+      "week_number": 6,
+      "character": "な",
+      "source": "routine"
     }
   ],
   "delivery_log": [
@@ -442,6 +473,14 @@
       "week_number": 6,
       "weekday": "Wednesday",
       "word_japanese": "なる",
+      "character": "な"
+    },
+    {
+      "date": "2026-06-18",
+      "slot": "weekday-AM",
+      "week_number": 6,
+      "weekday": "Thursday",
+      "word_japanese": "なか",
       "character": "な"
     }
   ],
@@ -1572,6 +1611,38 @@
       "character": "な",
       "source": "routine",
       "delivered_at": "2026-06-17"
+    },
+    {
+      "japanese": "なか",
+      "reading_romaji": "naka",
+      "translation": "inside; middle",
+      "casual_usage": "なかに入って！(Naka ni haitte!) = \"Come inside!\" flows naturally between friends. When someone asks where your keys are, かばんのなか (kaban no naka) = \"inside the bag\" is the instant answer.",
+      "formal_usage": "なか itself is register-neutral and does not change in polite speech. The formality is carried by surrounding verbs and endings: …のなかにあります (no naka ni arimasu) is perfectly polite.",
+      "similar_words": [
+        {
+          "japanese": "そと",
+          "romaji": "soto",
+          "translation": "outside"
+        },
+        {
+          "japanese": "まえ",
+          "romaji": "mae",
+          "translation": "in front of; before"
+        },
+        {
+          "japanese": "うしろ",
+          "romaji": "ushiro",
+          "translation": "behind; back"
+        }
+      ],
+      "example_jp": "かばんのなかにある。",
+      "example_en": "It is inside the bag.",
+      "weekday": "Thursday",
+      "slot": "weekday-AM",
+      "week_number": 6,
+      "character": "な",
+      "source": "routine",
+      "delivered_at": "2026-06-18"
     }
   ],
   "all_characters_learned": [
