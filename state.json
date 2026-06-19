@@ -482,6 +482,13 @@
       "weekday": "Thursday",
       "word_japanese": "なか",
       "character": "な"
+    },
+    {
+      "date": "2026-06-18",
+      "slot": "weekday-PM",
+      "week_number": 6,
+      "weekday": "Thursday",
+      "word_japanese": "なか"
     }
   ],
   "all_words_learned": [
