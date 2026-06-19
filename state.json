@@ -3,8 +3,8 @@
   "system_start_date": "2026-04-29",
   "current_week_number": 6,
   "current_week_start": "2026-06-15",
-  "current_character": "な",
-  "current_character_romaji": "na",
+  "current_character": "ま",
+  "current_character_romaji": "ma",
   "current_character_script": "hiragana",
   "current_week_words": [
     {
@@ -130,6 +130,37 @@
       "week_number": 6,
       "character": "な",
       "source": "routine"
+    },
+    {
+      "japanese": "まったり",
+      "reading_romaji": "mattari",
+      "translation": "the pleasant feeling of relaxing at a slow, unhurried pace; leisurely ease",
+      "what_it_is": "まったり is a gitaigo (mimetic word) that describes a state of comfortable, unhurried relaxation — like melting into a couch on a Sunday with nowhere to be. It captures a distinctly Japanese appreciation for luxurious idleness, a conscious savoring of slowness. The word also doubles as a food descriptor, used to describe rich, smooth, full-bodied flavors.",
+      "similar_words": [
+        {
+          "japanese": "のんびり",
+          "romaji": "nonbiri",
+          "translation": "relaxed, carefree, easygoing"
+        },
+        {
+          "japanese": "ぼんやり",
+          "romaji": "bonyari",
+          "translation": "zoning out, absent-minded, hazy"
+        },
+        {
+          "japanese": "ゆっくり",
+          "romaji": "yukkuri",
+          "translation": "slowly, leisurely, take your time"
+        }
+      ],
+      "example_jp": "まったりしたいな。",
+      "example_en": "I just want to take it easy.",
+      "weekday": "Friday",
+      "slot": "friday-AM",
+      "week_number": 6,
+      "character": "ま",
+      "source": "routine",
+      "is_funword": true
     }
   ],
   "delivery_log": [
@@ -489,6 +520,14 @@
       "week_number": 6,
       "weekday": "Thursday",
       "word_japanese": "なか"
+    },
+    {
+      "date": "2026-06-19",
+      "slot": "friday-AM",
+      "week_number": 6,
+      "word_japanese": "まったり",
+      "character": "ま",
+      "weekday": "Friday"
     }
   ],
   "all_words_learned": [
@@ -1650,6 +1689,38 @@
       "character": "な",
       "source": "routine",
       "delivered_at": "2026-06-18"
+    },
+    {
+      "japanese": "まったり",
+      "reading_romaji": "mattari",
+      "translation": "the pleasant feeling of relaxing at a slow, unhurried pace; leisurely ease",
+      "what_it_is": "まったり is a gitaigo (mimetic word) that describes a state of comfortable, unhurried relaxation — like melting into a couch on a Sunday with nowhere to be. It captures a distinctly Japanese appreciation for luxurious idleness, a conscious savoring of slowness. The word also doubles as a food descriptor, used to describe rich, smooth, full-bodied flavors.",
+      "similar_words": [
+        {
+          "japanese": "のんびり",
+          "romaji": "nonbiri",
+          "translation": "relaxed, carefree, easygoing"
+        },
+        {
+          "japanese": "ぼんやり",
+          "romaji": "bonyari",
+          "translation": "zoning out, absent-minded, hazy"
+        },
+        {
+          "japanese": "ゆっくり",
+          "romaji": "yukkuri",
+          "translation": "slowly, leisurely, take your time"
+        }
+      ],
+      "example_jp": "まったりしたいな。",
+      "example_en": "I just want to take it easy.",
+      "weekday": "Friday",
+      "slot": "friday-AM",
+      "week_number": 6,
+      "character": "ま",
+      "source": "routine",
+      "is_funword": true,
+      "delivered_at": "2026-06-19"
     }
   ],
   "all_characters_learned": [
