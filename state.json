@@ -528,6 +528,12 @@
       "word_japanese": "まったり",
       "character": "ま",
       "weekday": "Friday"
+    },
+    {
+      "date": "2026-06-19",
+      "slot": "friday-PM",
+      "week_number": 6,
+      "word_japanese": "まったり"
     }
   ],
   "all_words_learned": [
