@@ -528,6 +528,12 @@
       "word_japanese": "まったり",
       "character": "ま",
       "weekday": "Friday"
+    },
+    {
+      "date": "2026-06-20",
+      "slot": "saturday-recap",
+      "week_number": 6,
+      "weekday": "Saturday"
     }
   ],
   "all_words_learned": [
