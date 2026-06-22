@@ -14,9 +14,21 @@
       "casual_usage": "りんごたべる？(Ringo taberu?) = 'Want to eat an apple?' flows naturally between friends. Pair it with juice: りんごジュース (ringo jūsu) is one of the most common drink orders in Japan.",
       "formal_usage": "The word doesn't change form in formal settings — just adjust what surrounds it. りんごをいただきました (ringo wo itadakimashita) = 'I received an apple' is perfectly polite when thanking someone for a gift.",
       "similar_words": [
-        {"japanese": "みかん", "romaji": "mikan", "translation": "tangerine / mandarin orange"},
-        {"japanese": "くだもの", "romaji": "kudamono", "translation": "fruit"},
-        {"japanese": "バナナ", "romaji": "banana", "translation": "banana"}
+        {
+          "japanese": "みかん",
+          "romaji": "mikan",
+          "translation": "tangerine / mandarin orange"
+        },
+        {
+          "japanese": "くだもの",
+          "romaji": "kudamono",
+          "translation": "fruit"
+        },
+        {
+          "japanese": "バナナ",
+          "romaji": "banana",
+          "translation": "banana"
+        }
       ],
       "weekday": "Monday",
       "slot": "weekday-AM",
@@ -1614,9 +1626,21 @@
       "casual_usage": "りんごたべる？(Ringo taberu?) = 'Want to eat an apple?' flows naturally between friends. Pair it with juice: りんごジュース (ringo jūsu) is one of the most common drink orders in Japan.",
       "formal_usage": "The word doesn't change form in formal settings — just adjust what surrounds it. りんごをいただきました (ringo wo itadakimashita) = 'I received an apple' is perfectly polite when thanking someone for a gift.",
       "similar_words": [
-        {"japanese": "みかん", "romaji": "mikan", "translation": "tangerine / mandarin orange"},
-        {"japanese": "くだもの", "romaji": "kudamono", "translation": "fruit"},
-        {"japanese": "バナナ", "romaji": "banana", "translation": "banana"}
+        {
+          "japanese": "みかん",
+          "romaji": "mikan",
+          "translation": "tangerine / mandarin orange"
+        },
+        {
+          "japanese": "くだもの",
+          "romaji": "kudamono",
+          "translation": "fruit"
+        },
+        {
+          "japanese": "バナナ",
+          "romaji": "banana",
+          "translation": "banana"
+        }
       ],
       "weekday": "Monday",
       "slot": "weekday-AM",
@@ -1642,7 +1666,6 @@
     "つ",
     "た",
     "お",
-    "あ",
     "さ",
     "せ",
     "そ",
