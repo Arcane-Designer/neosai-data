@@ -6,7 +6,28 @@
   "current_character": "り",
   "current_character_romaji": "ri",
   "current_character_script": "hiragana",
-  "current_week_words": [],
+  "current_week_words": [
+    {
+      "japanese": "りんご",
+      "reading_romaji": "ringo",
+      "translation": "apple",
+      "casual_usage": "りんごたべる？(Ringo taberu?) = 'Want to eat an apple?' flows naturally between friends. Pair it with juice: りんごジュース (ringo jūsu) is one of the most common drink orders in Japan.",
+      "formal_usage": "The word doesn't change form in formal settings — just adjust what surrounds it. りんごをいただきました (ringo wo itadakimashita) = 'I received an apple' is perfectly polite when thanking someone for a gift.",
+      "similar_words": [
+        {"japanese": "みかん", "romaji": "mikan", "translation": "tangerine / mandarin orange"},
+        {"japanese": "くだもの", "romaji": "kudamono", "translation": "fruit"},
+        {"japanese": "バナナ", "romaji": "banana", "translation": "banana"}
+      ],
+      "weekday": "Monday",
+      "slot": "weekday-AM",
+      "week_number": 7,
+      "character": "り",
+      "source": "routine",
+      "delivered_at": "2026-06-22",
+      "example_jp": "りんごをたべた。",
+      "example_en": "I ate an apple."
+    }
+  ],
   "delivery_log": [
     {
       "date": "2026-05-21",
@@ -384,6 +405,14 @@
       "slot": "sunday-master-recap",
       "week_number": 6,
       "weekday": "Sunday"
+    },
+    {
+      "date": "2026-06-22",
+      "slot": "weekday-AM",
+      "week_number": 7,
+      "weekday": "Monday",
+      "word_japanese": "りんご",
+      "character": "り"
     }
   ],
   "all_words_learned": [
@@ -1577,6 +1606,26 @@
       "source": "routine",
       "is_funword": true,
       "delivered_at": "2026-06-19"
+    },
+    {
+      "japanese": "りんご",
+      "reading_romaji": "ringo",
+      "translation": "apple",
+      "casual_usage": "りんごたべる？(Ringo taberu?) = 'Want to eat an apple?' flows naturally between friends. Pair it with juice: りんごジュース (ringo jūsu) is one of the most common drink orders in Japan.",
+      "formal_usage": "The word doesn't change form in formal settings — just adjust what surrounds it. りんごをいただきました (ringo wo itadakimashita) = 'I received an apple' is perfectly polite when thanking someone for a gift.",
+      "similar_words": [
+        {"japanese": "みかん", "romaji": "mikan", "translation": "tangerine / mandarin orange"},
+        {"japanese": "くだもの", "romaji": "kudamono", "translation": "fruit"},
+        {"japanese": "バナナ", "romaji": "banana", "translation": "banana"}
+      ],
+      "weekday": "Monday",
+      "slot": "weekday-AM",
+      "week_number": 7,
+      "character": "り",
+      "source": "routine",
+      "delivered_at": "2026-06-22",
+      "example_jp": "りんごをたべた。",
+      "example_en": "I ate an apple."
     }
   ],
   "all_characters_learned": [
@@ -1606,7 +1655,8 @@
     "づ",
     "き",
     "な",
-    "ま"
+    "ま",
+    "り"
   ],
   "user_words": [
     {
