@@ -1,168 +1,12 @@
 {
   "schema_version": 2,
   "system_start_date": "2026-04-29",
-  "current_week_number": 6,
-  "current_week_start": "2026-06-15",
-  "current_character": "ま",
-  "current_character_romaji": "ma",
+  "current_week_number": 7,
+  "current_week_start": "2026-06-22",
+  "current_character": "り",
+  "current_character_romaji": "ri",
   "current_character_script": "hiragana",
-  "current_week_words": [
-    {
-      "japanese": "なまえ",
-      "reading_romaji": "namae",
-      "translation": "name",
-      "casual_usage": "なまえは？ (namae wa?) is the ultra-casual way to ask someone's name — short and direct between friends. You'll also catch なまえおしえて (namae oshiete) = \"Tell me your name\" said without any particles at all.",
-      "formal_usage": "Add the honorific お: おなまえは？ (onamae wa?) is what hotel staff, café clerks, and doctors reach for automatically. Full formal: おなまえをおしえていただけますか (onamae wo oshiete itadakemasu ka) = \"Could you please tell me your name?\"",
-      "similar_words": [
-        {
-          "japanese": "なに",
-          "romaji": "nani",
-          "translation": "what"
-        },
-        {
-          "japanese": "なか",
-          "romaji": "naka",
-          "translation": "inside; middle"
-        },
-        {
-          "japanese": "なつ",
-          "romaji": "natsu",
-          "translation": "summer"
-        }
-      ],
-      "example_jp": "なまえをおしえて。",
-      "example_en": "Tell me your name.",
-      "weekday": "Monday",
-      "slot": "weekday-AM",
-      "week_number": 6,
-      "character": "な",
-      "source": "routine"
-    },
-    {
-      "japanese": "なんで",
-      "reading_romaji": "nande",
-      "translation": "why (casual)",
-      "casual_usage": "なんで is the gut-reaction question word you reach for any time something doesn't make sense. 「なんでいくの？」(Nande iku no?) = \"Why are you going?\" You'll also hear it trail off: 「なんでだろう…」(Nande darou...) = \"I wonder why…\"",
-      "formal_usage": "なんで is too casual for professional settings — swap it for なぜ (naze) or どうして (doushite). 「なぜそうしましたか？」(Naze sou shimashita ka?) = \"Why did you do that?\" is clean and appropriate anywhere.",
-      "similar_words": [
-        {
-          "japanese": "なぜ",
-          "romaji": "naze",
-          "translation": "why (formal/written Japanese)"
-        },
-        {
-          "japanese": "どうして",
-          "romaji": "doushite",
-          "translation": "why (softer; used when genuinely curious)"
-        },
-        {
-          "japanese": "どんな",
-          "romaji": "donna",
-          "translation": "what kind of"
-        }
-      ],
-      "example_jp": "なんでいくの。",
-      "example_en": "Why are you going?",
-      "weekday": "Tuesday",
-      "slot": "weekday-AM",
-      "week_number": 6,
-      "character": "な",
-      "source": "routine"
-    },
-    {
-      "japanese": "なる",
-      "reading_romaji": "naru",
-      "translation": "to become",
-      "casual_usage": "なる follows adjectives (in -ku form) and nouns + に to describe any change: あつくなる = it is getting hot, ともだちになる = to become friends. One of the most versatile words in casual Japanese — attach it to almost anything to say things are changing.",
-      "formal_usage": "The polite form is なります (narimasu), heard constantly at shops and restaurants: こちらになります (kochira ni narimasu) = \"Here you are / That will be...\". Same meaning, just a polished ending — the core word stays identical.",
-      "similar_words": [
-        {
-          "japanese": "なりたい",
-          "romaji": "naritai",
-          "translation": "want to become"
-        },
-        {
-          "japanese": "ならう",
-          "romaji": "narau",
-          "translation": "to learn (by being taught)"
-        },
-        {
-          "japanese": "できる",
-          "romaji": "dekiru",
-          "translation": "to become able to; can do"
-        }
-      ],
-      "example_jp": "さむくなった。",
-      "example_en": "It got cold.",
-      "weekday": "Wednesday",
-      "slot": "weekday-AM",
-      "week_number": 6,
-      "character": "な",
-      "source": "routine"
-    },
-    {
-      "japanese": "なか",
-      "reading_romaji": "naka",
-      "translation": "inside; middle",
-      "casual_usage": "なかに入って！(Naka ni haitte!) = \"Come inside!\" flows naturally between friends. When someone asks where your keys are, かばんのなか (kaban no naka) = \"inside the bag\" is the instant answer.",
-      "formal_usage": "なか itself is register-neutral and does not change in polite speech. The formality is carried by surrounding verbs and endings: …のなかにあります (no naka ni arimasu) is perfectly polite.",
-      "similar_words": [
-        {
-          "japanese": "そと",
-          "romaji": "soto",
-          "translation": "outside"
-        },
-        {
-          "japanese": "まえ",
-          "romaji": "mae",
-          "translation": "in front of; before"
-        },
-        {
-          "japanese": "うしろ",
-          "romaji": "ushiro",
-          "translation": "behind; back"
-        }
-      ],
-      "example_jp": "かばんのなかにある。",
-      "example_en": "It is inside the bag.",
-      "weekday": "Thursday",
-      "slot": "weekday-AM",
-      "week_number": 6,
-      "character": "な",
-      "source": "routine"
-    },
-    {
-      "japanese": "まったり",
-      "reading_romaji": "mattari",
-      "translation": "the pleasant feeling of relaxing at a slow, unhurried pace; leisurely ease",
-      "what_it_is": "まったり is a gitaigo (mimetic word) that describes a state of comfortable, unhurried relaxation — like melting into a couch on a Sunday with nowhere to be. It captures a distinctly Japanese appreciation for luxurious idleness, a conscious savoring of slowness. The word also doubles as a food descriptor, used to describe rich, smooth, full-bodied flavors.",
-      "similar_words": [
-        {
-          "japanese": "のんびり",
-          "romaji": "nonbiri",
-          "translation": "relaxed, carefree, easygoing"
-        },
-        {
-          "japanese": "ぼんやり",
-          "romaji": "bonyari",
-          "translation": "zoning out, absent-minded, hazy"
-        },
-        {
-          "japanese": "ゆっくり",
-          "romaji": "yukkuri",
-          "translation": "slowly, leisurely, take your time"
-        }
-      ],
-      "example_jp": "まったりしたいな。",
-      "example_en": "I just want to take it easy.",
-      "weekday": "Friday",
-      "slot": "friday-AM",
-      "week_number": 6,
-      "character": "ま",
-      "source": "routine",
-      "is_funword": true
-    }
-  ],
+  "current_week_words": [],
   "delivery_log": [
     {
       "date": "2026-05-21",
@@ -534,6 +378,12 @@
       "slot": "saturday-recap",
       "week_number": 6,
       "weekday": "Saturday"
+    },
+    {
+      "date": "2026-06-21",
+      "slot": "sunday-master-recap",
+      "week_number": 6,
+      "weekday": "Sunday"
     }
   ],
   "all_words_learned": [
@@ -1755,7 +1605,8 @@
     "ぢ",
     "づ",
     "き",
-    "な"
+    "な",
+    "ま"
   ],
   "user_words": [
     {
@@ -1930,6 +1781,6 @@
     }
   ],
   "skipped_character_priorities": [],
-  "last_health_check": "2026-06-14",
+  "last_health_check": "2026-06-21",
   "notes": "Neosai state file. Routines read and write this. user_words is the manually-added list (replaces user-lists.json from v1). all_words_learned grows over time and includes both routine-delivered words and user-added words distinguished by the 'source' field."
 }
