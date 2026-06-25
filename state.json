@@ -70,6 +70,38 @@
       "delivered_at": "2026-06-24",
       "example_jp": "りょうりがすきです。",
       "example_en": "I like cooking."
+    },
+    {
+      "japanese": "ひとり",
+      "reading_romaji": "hitori",
+      "translation": "alone / by oneself / one person",
+      "casual_usage": "ひとり shows up constantly for solo activities — ひとりで食べた (hitori de tabeta = \"I ate alone\") or ひとりじゃない (hitori ja nai = \"you're not alone\") are everyday phrases between friends.",
+      "formal_usage": "In service settings, おひとりですか (ohitori desu ka = \"Just one?\") is the standard restaurant greeting. The word stays the same — just add おー and polite endings.",
+      "similar_words": [
+        {
+          "japanese": "ふたり",
+          "romaji": "futari",
+          "translation": "two people / a couple"
+        },
+        {
+          "japanese": "みんな",
+          "romaji": "minna",
+          "translation": "everyone / all of us"
+        },
+        {
+          "japanese": "ひとりぼっち",
+          "romaji": "hitoribocchi",
+          "translation": "completely alone / solitary"
+        }
+      ],
+      "weekday": "Thursday",
+      "slot": "weekday-AM",
+      "week_number": 7,
+      "character": "り",
+      "source": "routine",
+      "delivered_at": "2026-06-25",
+      "example_jp": "ひとりでいく。",
+      "example_en": "I will go alone."
     }
   ],
   "delivery_log": [
@@ -464,6 +496,14 @@
       "week_number": 7,
       "weekday": "Wednesday",
       "word_japanese": "りょうり",
+      "character": "り"
+    },
+    {
+      "date": "2026-06-25",
+      "slot": "weekday-AM",
+      "week_number": 7,
+      "weekday": "Thursday",
+      "word_japanese": "ひとり",
       "character": "り"
     }
   ],
@@ -1722,6 +1762,38 @@
       "delivered_at": "2026-06-24",
       "example_jp": "りょうりがすきです。",
       "example_en": "I like cooking."
+    },
+    {
+      "japanese": "ひとり",
+      "reading_romaji": "hitori",
+      "translation": "alone / by oneself / one person",
+      "casual_usage": "ひとり shows up constantly for solo activities — ひとりで食べた (hitori de tabeta = \"I ate alone\") or ひとりじゃない (hitori ja nai = \"you're not alone\") are everyday phrases between friends.",
+      "formal_usage": "In service settings, おひとりですか (ohitori desu ka = \"Just one?\") is the standard restaurant greeting. The word stays the same — just add おー and polite endings.",
+      "similar_words": [
+        {
+          "japanese": "ふたり",
+          "romaji": "futari",
+          "translation": "two people / a couple"
+        },
+        {
+          "japanese": "みんな",
+          "romaji": "minna",
+          "translation": "everyone / all of us"
+        },
+        {
+          "japanese": "ひとりぼっち",
+          "romaji": "hitoribocchi",
+          "translation": "completely alone / solitary"
+        }
+      ],
+      "weekday": "Thursday",
+      "slot": "weekday-AM",
+      "week_number": 7,
+      "character": "り",
+      "source": "routine",
+      "delivered_at": "2026-06-25",
+      "example_jp": "ひとりでいく。",
+      "example_en": "I will go alone."
     }
   ],
   "all_characters_learned": [
