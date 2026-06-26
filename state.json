@@ -505,6 +505,13 @@
       "weekday": "Thursday",
       "word_japanese": "ひとり",
       "character": "り"
+    },
+    {
+      "date": "2026-06-25",
+      "slot": "weekday-PM",
+      "week_number": 7,
+      "weekday": "Thursday",
+      "word_japanese": "ひとり"
     }
   ],
   "all_words_learned": [
