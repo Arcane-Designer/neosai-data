@@ -102,6 +102,38 @@
       "delivered_at": "2026-06-25",
       "example_jp": "ひとりでいく。",
       "example_en": "I will go alone."
+    },
+    {
+      "japanese": "ほっこり",
+      "reading_romaji": "hokkori",
+      "translation": "that warm, fuzzy feeling of being wrapped in emotional coziness or heartwarming contentment",
+      "what_it_is": "ほっこり is a gitaigo — a word that mimics a sensation — capturing the feeling of warmth spreading through you when something is genuinely cozy, comforting, or quietly touching. It's the feeling of holding a hot cup of tea in both hands while it rains outside, of watching a cat curl into a sunbeam, or hearing exactly the right kind words at exactly the right moment. 'Cozy' gets partway there but misses the emotional warmth; 'heartwarming' is close but too dramatic. ほっこり is quieter — the small, real, everyday kind.",
+      "similar_words": [
+        {
+          "japanese": "ほんわか",
+          "romaji": "honwaka",
+          "translation": "soft, warm, and gently hazy; more about atmosphere than feeling"
+        },
+        {
+          "japanese": "なごむ",
+          "romaji": "nagomu",
+          "translation": "to feel soothed and settle into warmth; the verb version of this sensation"
+        },
+        {
+          "japanese": "のほほん",
+          "romaji": "nohohon",
+          "translation": "blissfully unbothered, floating through life without a care"
+        }
+      ],
+      "weekday": "Friday",
+      "slot": "friday-AM",
+      "week_number": 7,
+      "character": "り",
+      "source": "routine",
+      "is_funword": true,
+      "delivered_at": "2026-06-26",
+      "example_jp": "ほっこりした。",
+      "example_en": "I felt all warm inside."
     }
   ],
   "delivery_log": [
@@ -512,6 +544,14 @@
       "week_number": 7,
       "weekday": "Thursday",
       "word_japanese": "ひとり"
+    },
+    {
+      "date": "2026-06-26",
+      "slot": "friday-AM",
+      "week_number": 7,
+      "word_japanese": "ほっこり",
+      "character": "り",
+      "weekday": "Friday"
     }
   ],
   "all_words_learned": [
@@ -1801,6 +1841,38 @@
       "delivered_at": "2026-06-25",
       "example_jp": "ひとりでいく。",
       "example_en": "I will go alone."
+    },
+    {
+      "japanese": "ほっこり",
+      "reading_romaji": "hokkori",
+      "translation": "that warm, fuzzy feeling of being wrapped in emotional coziness or heartwarming contentment",
+      "what_it_is": "ほっこり is a gitaigo — a word that mimics a sensation — capturing the feeling of warmth spreading through you when something is genuinely cozy, comforting, or quietly touching. It's the feeling of holding a hot cup of tea in both hands while it rains outside, of watching a cat curl into a sunbeam, or hearing exactly the right kind words at exactly the right moment. 'Cozy' gets partway there but misses the emotional warmth; 'heartwarming' is close but too dramatic. ほっこり is quieter — the small, real, everyday kind.",
+      "similar_words": [
+        {
+          "japanese": "ほんわか",
+          "romaji": "honwaka",
+          "translation": "soft, warm, and gently hazy; more about atmosphere than feeling"
+        },
+        {
+          "japanese": "なごむ",
+          "romaji": "nagomu",
+          "translation": "to feel soothed and settle into warmth; the verb version of this sensation"
+        },
+        {
+          "japanese": "のほほん",
+          "romaji": "nohohon",
+          "translation": "blissfully unbothered, floating through life without a care"
+        }
+      ],
+      "weekday": "Friday",
+      "slot": "friday-AM",
+      "week_number": 7,
+      "character": "り",
+      "source": "routine",
+      "is_funword": true,
+      "delivered_at": "2026-06-26",
+      "example_jp": "ほっこりした。",
+      "example_en": "I felt all warm inside."
     }
   ],
   "all_characters_learned": [
