@@ -138,6 +138,12 @@
   ],
   "delivery_log": [
     {
+      "date": "2026-06-27",
+      "slot": "saturday-recap",
+      "week_number": 7,
+      "weekday": "Saturday"
+    },
+    {
       "date": "2026-05-21",
       "slot": "weekday-AM",
       "week_number": 2,
