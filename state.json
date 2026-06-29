@@ -1,141 +1,12 @@
 {
   "schema_version": 2,
   "system_start_date": "2026-04-29",
-  "current_week_number": 7,
-  "current_week_start": "2026-06-22",
-  "current_character": "り",
-  "current_character_romaji": "ri",
+  "current_week_number": 8,
+  "current_week_start": "2026-06-30",
+  "current_character": "の",
+  "current_character_romaji": "no",
   "current_character_script": "hiragana",
-  "current_week_words": [
-    {
-      "japanese": "りんご",
-      "reading_romaji": "ringo",
-      "translation": "apple",
-      "casual_usage": "りんごたべる？(Ringo taberu?) = 'Want to eat an apple?' flows naturally between friends. Pair it with juice: りんごジュース (ringo jūsu) is one of the most common drink orders in Japan.",
-      "formal_usage": "The word doesn't change form in formal settings — just adjust what surrounds it. りんごをいただきました (ringo wo itadakimashita) = 'I received an apple' is perfectly polite when thanking someone for a gift.",
-      "similar_words": [
-        {
-          "japanese": "みかん",
-          "romaji": "mikan",
-          "translation": "tangerine / mandarin orange"
-        },
-        {
-          "japanese": "くだもの",
-          "romaji": "kudamono",
-          "translation": "fruit"
-        },
-        {
-          "japanese": "バナナ",
-          "romaji": "banana",
-          "translation": "banana"
-        }
-      ],
-      "weekday": "Monday",
-      "slot": "weekday-AM",
-      "week_number": 7,
-      "character": "り",
-      "source": "routine",
-      "delivered_at": "2026-06-22",
-      "example_jp": "りんごをたべた。",
-      "example_en": "I ate an apple."
-    },
-    {
-      "japanese": "りょうり",
-      "reading_romaji": "ryouri",
-      "translation": "cooking / cuisine / food",
-      "casual_usage": "Between friends you'd say 「りょうりする？」(wanna cook?) or compliment someone with 「このりょうり、うまい！」(this food is amazing!). It covers both the act of cooking and the resulting dish.",
-      "formal_usage": "Add the polite お prefix: 「おりょうりはいかがですか？」(How is the cuisine?) is standard when hosting guests or in a restaurant setting. Restaurants often use 「本日のおりょうり」(today's dishes).",
-      "similar_words": [
-        {
-          "japanese": "たべる",
-          "romaji": "taberu",
-          "translation": "to eat"
-        },
-        {
-          "japanese": "ごはん",
-          "romaji": "gohan",
-          "translation": "meal / cooked rice"
-        },
-        {
-          "japanese": "レストラン",
-          "romaji": "resutoran",
-          "translation": "restaurant"
-        }
-      ],
-      "weekday": "Wednesday",
-      "slot": "weekday-AM",
-      "week_number": 7,
-      "character": "り",
-      "source": "routine",
-      "delivered_at": "2026-06-24",
-      "example_jp": "りょうりがすきです。",
-      "example_en": "I like cooking."
-    },
-    {
-      "japanese": "ひとり",
-      "reading_romaji": "hitori",
-      "translation": "alone / by oneself / one person",
-      "casual_usage": "ひとり shows up constantly for solo activities — ひとりで食べた (hitori de tabeta = \"I ate alone\") or ひとりじゃない (hitori ja nai = \"you're not alone\") are everyday phrases between friends.",
-      "formal_usage": "In service settings, おひとりですか (ohitori desu ka = \"Just one?\") is the standard restaurant greeting. The word stays the same — just add おー and polite endings.",
-      "similar_words": [
-        {
-          "japanese": "ふたり",
-          "romaji": "futari",
-          "translation": "two people / a couple"
-        },
-        {
-          "japanese": "みんな",
-          "romaji": "minna",
-          "translation": "everyone / all of us"
-        },
-        {
-          "japanese": "ひとりぼっち",
-          "romaji": "hitoribocchi",
-          "translation": "completely alone / solitary"
-        }
-      ],
-      "weekday": "Thursday",
-      "slot": "weekday-AM",
-      "week_number": 7,
-      "character": "り",
-      "source": "routine",
-      "delivered_at": "2026-06-25",
-      "example_jp": "ひとりでいく。",
-      "example_en": "I will go alone."
-    },
-    {
-      "japanese": "ほっこり",
-      "reading_romaji": "hokkori",
-      "translation": "that warm, fuzzy feeling of being wrapped in emotional coziness or heartwarming contentment",
-      "what_it_is": "ほっこり is a gitaigo — a word that mimics a sensation — capturing the feeling of warmth spreading through you when something is genuinely cozy, comforting, or quietly touching. It's the feeling of holding a hot cup of tea in both hands while it rains outside, of watching a cat curl into a sunbeam, or hearing exactly the right kind words at exactly the right moment. 'Cozy' gets partway there but misses the emotional warmth; 'heartwarming' is close but too dramatic. ほっこり is quieter — the small, real, everyday kind.",
-      "similar_words": [
-        {
-          "japanese": "ほんわか",
-          "romaji": "honwaka",
-          "translation": "soft, warm, and gently hazy; more about atmosphere than feeling"
-        },
-        {
-          "japanese": "なごむ",
-          "romaji": "nagomu",
-          "translation": "to feel soothed and settle into warmth; the verb version of this sensation"
-        },
-        {
-          "japanese": "のほほん",
-          "romaji": "nohohon",
-          "translation": "blissfully unbothered, floating through life without a care"
-        }
-      ],
-      "weekday": "Friday",
-      "slot": "friday-AM",
-      "week_number": 7,
-      "character": "り",
-      "source": "routine",
-      "is_funword": true,
-      "delivered_at": "2026-06-26",
-      "example_jp": "ほっこりした。",
-      "example_en": "I felt all warm inside."
-    }
-  ],
+  "current_week_words": [],
   "delivery_log": [
     {
       "date": "2026-06-27",
@@ -558,6 +429,12 @@
       "word_japanese": "ほっこり",
       "character": "り",
       "weekday": "Friday"
+    },
+    {
+      "date": "2026-06-29",
+      "slot": "sunday-master-recap",
+      "week_number": 7,
+      "weekday": "Sunday"
     }
   ],
   "all_words_learned": [
@@ -2089,6 +1966,6 @@
     }
   ],
   "skipped_character_priorities": [],
-  "last_health_check": "2026-06-21",
+  "last_health_check": "2026-06-29",
   "notes": "Neosai state file. Routines read and write this. user_words is the manually-added list (replaces user-lists.json from v1). all_words_learned grows over time and includes both routine-delivered words and user-added words distinguished by the 'source' field."
 }
