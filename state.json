@@ -7,9 +7,18 @@
   "current_character_romaji": "no",
   "current_character_script": "hiragana",
   "current_week_words": [
-    "のむ"
+    "のむ",
+    "のど"
   ],
   "delivery_log": [
+    {
+      "date": "2026-06-30",
+      "slot": "weekday-AM",
+      "week_number": 8,
+      "weekday": "Tuesday",
+      "word_japanese": "のど",
+      "character": "の"
+    },
     {
       "date": "2026-06-27",
       "slot": "saturday-recap",
@@ -1805,6 +1814,38 @@
       "delivered_at": "2026-06-30",
       "example_jp": "みずをのむ。",
       "example_en": "I drink water."
+    },
+    {
+      "japanese": "のど",
+      "reading_romaji": "nodo",
+      "translation": "throat",
+      "example_jp": "のどがいたい。",
+      "example_en": "My throat hurts.",
+      "casual_usage": "のど comes up constantly — say のどがかわいた (nodo ga kawaita) when you're thirsty (literally 'my throat dried out'), or のどがいたい (nodo ga itai) for a sore throat.",
+      "formal_usage": "Same word in polite speech. You might say のどのぐあいがわるいです (nodo no guai ga warui desu) — \"my throat is not well\" — in a formal or medical context.",
+      "similar_words": [
+        {
+          "japanese": "くち",
+          "romaji": "kuchi",
+          "translation": "mouth"
+        },
+        {
+          "japanese": "はな",
+          "romaji": "hana",
+          "translation": "nose"
+        },
+        {
+          "japanese": "かわく",
+          "romaji": "kawaku",
+          "translation": "to dry out / to be thirsty"
+        }
+      ],
+      "weekday": "Tuesday",
+      "slot": "weekday-AM",
+      "week_number": 8,
+      "character": "の",
+      "source": "routine",
+      "delivered_at": "2026-06-30"
     }
   ],
   "all_characters_learned": [
