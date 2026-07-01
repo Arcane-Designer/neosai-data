@@ -8,7 +8,8 @@
   "current_character_script": "hiragana",
   "current_week_words": [
     "のむ",
-    "のど"
+    "のど",
+    "のる"
   ],
   "delivery_log": [
     {
@@ -461,6 +462,14 @@
       "week_number": 8,
       "weekday": "Monday",
       "word_japanese": "のむ"
+    },
+    {
+      "date": "2026-07-01",
+      "slot": "weekday-AM",
+      "week_number": 8,
+      "weekday": "Wednesday",
+      "word_japanese": "のる",
+      "character": "の"
     }
   ],
   "all_words_learned": [
@@ -1846,6 +1855,38 @@
       "character": "の",
       "source": "routine",
       "delivered_at": "2026-06-30"
+    },
+    {
+      "japanese": "のる",
+      "reading_romaji": "noru",
+      "translation": "to ride; to get on (a vehicle)",
+      "casual_usage": "のる is what you say when hopping on trains, buses, bikes, or even elevators — 「でんしゃにのる」(densha ni noru) = \"to ride the train.\" Friends might just ask 「なんでいくの？のる？あるく？」= \"How are you getting there? Riding or walking?\"",
+      "formal_usage": "Becomes のります (norimasu) in polite speech — 「なんじのでんしゃにのりますか？」(Nanji no densha ni norimasu ka?) = \"What time train will you take?\" is a natural question when making plans with someone you're not close to.",
+      "similar_words": [
+        {
+          "japanese": "おりる",
+          "romaji": "oriru",
+          "translation": "to get off (a vehicle)"
+        },
+        {
+          "japanese": "でんしゃ",
+          "romaji": "densha",
+          "translation": "train"
+        },
+        {
+          "japanese": "あるく",
+          "romaji": "aruku",
+          "translation": "to walk"
+        }
+      ],
+      "weekday": "Wednesday",
+      "slot": "weekday-AM",
+      "week_number": 8,
+      "character": "の",
+      "source": "routine",
+      "example_jp": "でんしゃにのる。",
+      "example_en": "I ride the train.",
+      "delivered_at": "2026-07-01"
     }
   ],
   "all_characters_learned": [
