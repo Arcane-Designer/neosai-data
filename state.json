@@ -509,6 +509,13 @@
       "weekday": "Wednesday",
       "word_japanese": "のる",
       "character": "の"
+    },
+    {
+      "date": "2026-07-02",
+      "slot": "weekday-PM",
+      "week_number": 8,
+      "weekday": "Thursday",
+      "word_japanese": "もの"
     }
   ],
   "all_words_learned": [
