@@ -40,9 +40,48 @@
       "week_number": 8,
       "character": "の",
       "source": "routine"
+    },
+    {
+      "japanese": "のろけ",
+      "reading_romaji": "noroke",
+      "translation": "gushing about your romantic partner in a way that mildly annoys everyone listening",
+      "what_it_is": "のろけ is what happens when someone can't stop bragging about how great their partner is — the lovestruck rambling that makes single friends roll their eyes. The verb のろける means to do this openly, and a のろけばなし (noroke-banashi) is a full 'lovey-dovey brag story' told at a dinner table. There's no single English word for it — 'gushing' comes close, but it misses the specifically romantic, faintly obnoxious-but-endearing social ritual that のろけ names.",
+      "example_jp": "のろけをきいた。",
+      "example_en": "I listened to him gush about his girlfriend.",
+      "similar_words": [
+        {
+          "japanese": "のろける",
+          "romaji": "norokeru",
+          "translation": "to gush/brag fondly about one's partner (the verb form)"
+        },
+        {
+          "japanese": "あつあつ",
+          "romaji": "atsu-atsu",
+          "translation": "red-hot/head-over-heels (describing a couple who can't keep their hands off each other)"
+        },
+        {
+          "japanese": "ラブラブ",
+          "romaji": "rabu-rabu",
+          "translation": "lovey-dovey (from English 'love love'; a couple visibly smitten with each other)"
+        }
+      ],
+      "weekday": "Friday",
+      "slot": "friday-AM",
+      "week_number": 8,
+      "character": "の",
+      "source": "routine",
+      "is_funword": true
     }
   ],
   "delivery_log": [
+    {
+      "date": "2026-07-03",
+      "slot": "friday-AM",
+      "week_number": 8,
+      "word_japanese": "のろけ",
+      "character": "の",
+      "weekday": "Friday"
+    },
     {
       "date": "2026-07-02",
       "slot": "weekday-AM",
@@ -1965,6 +2004,38 @@
       "character": "の",
       "source": "routine",
       "delivered_at": "2026-07-02"
+    },
+    {
+      "japanese": "のろけ",
+      "reading_romaji": "noroke",
+      "translation": "gushing about your romantic partner in a way that mildly annoys everyone listening",
+      "what_it_is": "のろけ is what happens when someone can't stop bragging about how great their partner is — the lovestruck rambling that makes single friends roll their eyes. The verb のろける means to do this openly, and a のろけばなし (noroke-banashi) is a full 'lovey-dovey brag story' told at a dinner table. There's no single English word for it — 'gushing' comes close, but it misses the specifically romantic, faintly obnoxious-but-endearing social ritual that のろけ names.",
+      "example_jp": "のろけをきいた。",
+      "example_en": "I listened to him gush about his girlfriend.",
+      "similar_words": [
+        {
+          "japanese": "のろける",
+          "romaji": "norokeru",
+          "translation": "to gush/brag fondly about one's partner (the verb form)"
+        },
+        {
+          "japanese": "あつあつ",
+          "romaji": "atsu-atsu",
+          "translation": "red-hot/head-over-heels (describing a couple who can't keep their hands off each other)"
+        },
+        {
+          "japanese": "ラブラブ",
+          "romaji": "rabu-rabu",
+          "translation": "lovey-dovey (from English 'love love'; a couple visibly smitten with each other)"
+        }
+      ],
+      "weekday": "Friday",
+      "slot": "friday-AM",
+      "week_number": 8,
+      "character": "の",
+      "source": "routine",
+      "is_funword": true,
+      "delivered_at": "2026-07-03"
     }
   ],
   "all_characters_learned": [
