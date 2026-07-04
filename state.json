@@ -555,6 +555,12 @@
       "week_number": 8,
       "weekday": "Thursday",
       "word_japanese": "もの"
+    },
+    {
+      "date": "2026-07-03",
+      "slot": "friday-PM",
+      "week_number": 8,
+      "word_japanese": "のろけ"
     }
   ],
   "all_words_learned": [
