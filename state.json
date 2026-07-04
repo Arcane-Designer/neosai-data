@@ -75,6 +75,12 @@
   ],
   "delivery_log": [
     {
+      "date": "2026-07-04",
+      "slot": "saturday-recap",
+      "week_number": 8,
+      "weekday": "Saturday"
+    },
+    {
       "date": "2026-07-03",
       "slot": "friday-AM",
       "week_number": 8,
