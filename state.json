@@ -1,78 +1,12 @@
 {
   "schema_version": 2,
   "system_start_date": "2026-04-29",
-  "current_week_number": 8,
-  "current_week_start": "2026-06-30",
-  "current_character": "の",
-  "current_character_romaji": "no",
+  "current_week_number": 9,
+  "current_week_start": "2026-07-06",
+  "current_character": "お",
+  "current_character_romaji": "o",
   "current_character_script": "hiragana",
-  "current_week_words": [
-    "のむ",
-    "のど",
-    "のる",
-    {
-      "japanese": "もの",
-      "reading_romaji": "mono",
-      "translation": "thing / object",
-      "example_jp": "これはいいものです。",
-      "example_en": "This is a good thing.",
-      "casual_usage": "もの is your go-to casual word for 'thing' — 「それ、なんのもの？」(sore, nan no mono?) = \"what's that thing?\" It also hides inside everyday compounds you already half-know: たべもの (food) and のみもの (drink).",
-      "formal_usage": "Stays largely the same in polite speech, but shows up in set phrases like 「おわすれものにごちゅういください」(o-wasuremono ni gochūi kudasai) = \"please don't forget your belongings\" — the announcement you'll hear on every train and in every shop.",
-      "similar_words": [
-        {
-          "japanese": "こと",
-          "romaji": "koto",
-          "translation": "thing (abstract/intangible, vs. physical もの)"
-        },
-        {
-          "japanese": "たべもの",
-          "romaji": "tabemono",
-          "translation": "food"
-        },
-        {
-          "japanese": "のみもの",
-          "romaji": "nomimono",
-          "translation": "drink / beverage"
-        }
-      ],
-      "weekday": "Thursday",
-      "slot": "weekday-AM",
-      "week_number": 8,
-      "character": "の",
-      "source": "routine"
-    },
-    {
-      "japanese": "のろけ",
-      "reading_romaji": "noroke",
-      "translation": "gushing about your romantic partner in a way that mildly annoys everyone listening",
-      "what_it_is": "のろけ is what happens when someone can't stop bragging about how great their partner is — the lovestruck rambling that makes single friends roll their eyes. The verb のろける means to do this openly, and a のろけばなし (noroke-banashi) is a full 'lovey-dovey brag story' told at a dinner table. There's no single English word for it — 'gushing' comes close, but it misses the specifically romantic, faintly obnoxious-but-endearing social ritual that のろけ names.",
-      "example_jp": "のろけをきいた。",
-      "example_en": "I listened to him gush about his girlfriend.",
-      "similar_words": [
-        {
-          "japanese": "のろける",
-          "romaji": "norokeru",
-          "translation": "to gush/brag fondly about one's partner (the verb form)"
-        },
-        {
-          "japanese": "あつあつ",
-          "romaji": "atsu-atsu",
-          "translation": "red-hot/head-over-heels (describing a couple who can't keep their hands off each other)"
-        },
-        {
-          "japanese": "ラブラブ",
-          "romaji": "rabu-rabu",
-          "translation": "lovey-dovey (from English 'love love'; a couple visibly smitten with each other)"
-        }
-      ],
-      "weekday": "Friday",
-      "slot": "friday-AM",
-      "week_number": 8,
-      "character": "の",
-      "source": "routine",
-      "is_funword": true
-    }
-  ],
+  "current_week_words": [],
   "delivery_log": [
     {
       "date": "2026-07-04",
@@ -561,6 +495,12 @@
       "week_number": 8,
       "weekday": "Thursday",
       "word_japanese": "もの"
+    },
+    {
+      "date": "2026-07-05",
+      "slot": "sunday-master-recap",
+      "week_number": 8,
+      "weekday": "Sunday"
     }
   ],
   "all_words_learned": [
@@ -2077,7 +2017,8 @@
     "て",
     "で",
     "ど",
-    "と"
+    "と",
+    "の"
   ],
   "user_words": [
     {
@@ -2252,6 +2193,6 @@
     }
   ],
   "skipped_character_priorities": [],
-  "last_health_check": "2026-06-29",
+  "last_health_check": "2026-07-05",
   "notes": "Neosai state file. Routines read and write this. user_words is the manually-added list (replaces user-lists.json from v1). all_words_learned grows over time and includes both routine-delivered words and user-added words distinguished by the 'source' field."
 }
