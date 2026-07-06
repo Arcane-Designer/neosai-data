@@ -3,11 +3,51 @@
   "system_start_date": "2026-04-29",
   "current_week_number": 9,
   "current_week_start": "2026-07-06",
-  "current_character": "お",
-  "current_character_romaji": "o",
+  "current_character": "し",
+  "current_character_romaji": "shi",
   "current_character_script": "hiragana",
-  "current_week_words": [],
+  "current_week_words": [
+    {
+      "japanese": "しごと",
+      "reading_romaji": "shigoto",
+      "translation": "work; job",
+      "casual_usage": "しごと comes up in nearly every casual catch-up — 「しごとどう？」(Shigoto dou?) means 'How's work going?' and 「もうしごとおわった」(Mou shigoto owatta) = 'Work's already done' is the relief after a long day.",
+      "formal_usage": "Add the honorific お for politeness: 「おしごとはなんですか？」(Oshigoto wa nan desu ka?) is the standard way to ask a new acquaintance what they do for a living — one of the first questions in any formal introduction.",
+      "similar_words": [
+        {
+          "japanese": "かいしゃ",
+          "romaji": "kaisha",
+          "translation": "company"
+        },
+        {
+          "japanese": "はたらく",
+          "romaji": "hataraku",
+          "translation": "to work"
+        },
+        {
+          "japanese": "きゅうじつ",
+          "romaji": "kyuujitsu",
+          "translation": "day off"
+        }
+      ],
+      "weekday": "Monday",
+      "slot": "weekday-AM",
+      "week_number": 9,
+      "character": "し",
+      "source": "routine",
+      "example_jp": "しごとがすき。",
+      "example_en": "I like my job."
+    }
+  ],
   "delivery_log": [
+    {
+      "date": "2026-07-06",
+      "slot": "weekday-AM",
+      "week_number": 9,
+      "weekday": "Monday",
+      "word_japanese": "しごと",
+      "character": "し"
+    },
     {
       "date": "2026-07-04",
       "slot": "saturday-recap",
@@ -1982,6 +2022,38 @@
       "source": "routine",
       "is_funword": true,
       "delivered_at": "2026-07-03"
+    },
+    {
+      "japanese": "しごと",
+      "reading_romaji": "shigoto",
+      "translation": "work; job",
+      "casual_usage": "しごと comes up in nearly every casual catch-up — 「しごとどう？」(Shigoto dou?) means 'How's work going?' and 「もうしごとおわった」(Mou shigoto owatta) = 'Work's already done' is the relief after a long day.",
+      "formal_usage": "Add the honorific お for politeness: 「おしごとはなんですか？」(Oshigoto wa nan desu ka?) is the standard way to ask a new acquaintance what they do for a living — one of the first questions in any formal introduction.",
+      "similar_words": [
+        {
+          "japanese": "かいしゃ",
+          "romaji": "kaisha",
+          "translation": "company"
+        },
+        {
+          "japanese": "はたらく",
+          "romaji": "hataraku",
+          "translation": "to work"
+        },
+        {
+          "japanese": "きゅうじつ",
+          "romaji": "kyuujitsu",
+          "translation": "day off"
+        }
+      ],
+      "weekday": "Monday",
+      "slot": "weekday-AM",
+      "week_number": 9,
+      "character": "し",
+      "source": "routine",
+      "example_jp": "しごとがすき。",
+      "example_en": "I like my job.",
+      "delivered_at": "2026-07-06"
     }
   ],
   "all_characters_learned": [
