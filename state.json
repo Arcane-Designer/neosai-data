@@ -541,6 +541,13 @@
       "slot": "sunday-master-recap",
       "week_number": 8,
       "weekday": "Sunday"
+    },
+    {
+      "date": "2026-07-06",
+      "slot": "weekday-PM",
+      "week_number": 9,
+      "weekday": "Monday",
+      "word_japanese": "しごと"
     }
   ],
   "all_words_learned": [
