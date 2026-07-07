@@ -37,6 +37,37 @@
       "source": "routine",
       "example_jp": "しごとがすき。",
       "example_en": "I like my job."
+    },
+    {
+      "japanese": "しずか",
+      "reading_romaji": "shizuka",
+      "translation": "quiet; calm; peaceful",
+      "casual_usage": "Friends tell each other to pipe down with 「しずかにして！」(Shizuka ni shite!) = 'Be quiet!', and you'll hear 「このへや、しずかだね」(Kono heya, shizuka da ne) = 'This room's quiet, huh' when a place feels calm.",
+      "formal_usage": "As a na-adjective it stays simple in polite speech — 「しずかですね」(Shizuka desu ne) = 'It's quiet, isn't it.' Shopkeepers and hosts also use 「おしずかに」(Oshizuka ni) as a warm parting phrase meaning 'take care / travel safely.'",
+      "similar_words": [
+        {
+          "japanese": "うるさい",
+          "romaji": "urusai",
+          "translation": "noisy; annoying"
+        },
+        {
+          "japanese": "おだやか",
+          "romaji": "odayaka",
+          "translation": "calm; gentle"
+        },
+        {
+          "japanese": "へいわ",
+          "romaji": "heiwa",
+          "translation": "peace"
+        }
+      ],
+      "weekday": "Tuesday",
+      "slot": "weekday-AM",
+      "week_number": 9,
+      "character": "し",
+      "source": "routine",
+      "example_jp": "としょかんはしずかです。",
+      "example_en": "The library is quiet."
     }
   ],
   "delivery_log": [
@@ -548,6 +579,14 @@
       "week_number": 9,
       "weekday": "Monday",
       "word_japanese": "しごと"
+    },
+    {
+      "date": "2026-07-07",
+      "slot": "weekday-AM",
+      "week_number": 9,
+      "weekday": "Tuesday",
+      "word_japanese": "しずか",
+      "character": "し"
     }
   ],
   "all_words_learned": [
@@ -2061,6 +2100,38 @@
       "example_jp": "しごとがすき。",
       "example_en": "I like my job.",
       "delivered_at": "2026-07-06"
+    },
+    {
+      "japanese": "しずか",
+      "reading_romaji": "shizuka",
+      "translation": "quiet; calm; peaceful",
+      "casual_usage": "Friends tell each other to pipe down with 「しずかにして！」(Shizuka ni shite!) = 'Be quiet!', and you'll hear 「このへや、しずかだね」(Kono heya, shizuka da ne) = 'This room's quiet, huh' when a place feels calm.",
+      "formal_usage": "As a na-adjective it stays simple in polite speech — 「しずかですね」(Shizuka desu ne) = 'It's quiet, isn't it.' Shopkeepers and hosts also use 「おしずかに」(Oshizuka ni) as a warm parting phrase meaning 'take care / travel safely.'",
+      "similar_words": [
+        {
+          "japanese": "うるさい",
+          "romaji": "urusai",
+          "translation": "noisy; annoying"
+        },
+        {
+          "japanese": "おだやか",
+          "romaji": "odayaka",
+          "translation": "calm; gentle"
+        },
+        {
+          "japanese": "へいわ",
+          "romaji": "heiwa",
+          "translation": "peace"
+        }
+      ],
+      "weekday": "Tuesday",
+      "slot": "weekday-AM",
+      "week_number": 9,
+      "character": "し",
+      "source": "routine",
+      "example_jp": "としょかんはしずかです。",
+      "example_en": "The library is quiet.",
+      "delivered_at": "2026-07-07"
     }
   ],
   "all_characters_learned": [
