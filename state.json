@@ -3,8 +3,8 @@
   "system_start_date": "2026-04-29",
   "current_week_number": 9,
   "current_week_start": "2026-07-06",
-  "current_character": "し",
-  "current_character_romaji": "shi",
+  "current_character": "お",
+  "current_character_romaji": "o",
   "current_character_script": "hiragana",
   "current_week_words": [
     {
@@ -68,6 +68,37 @@
       "source": "routine",
       "example_jp": "としょかんはしずかです。",
       "example_en": "The library is quiet."
+    },
+    {
+      "japanese": "おおきい",
+      "reading_romaji": "ookii",
+      "translation": "big; large",
+      "casual_usage": "Friends react to size with 「わあ、おおきい！」(Waa, ookii!) = 'Whoa, that's big!', and 「おおきくなったね」(Ookiku natta ne) = 'You've gotten big!' is the classic line for a kid or pet who's grown.",
+      "formal_usage": "As an i-adjective it just takes です in polite speech: 「おおきいですね」(Ookii desu ne) = 'It's big, isn't it.' No special honorific form needed — the plain word works fine in formal contexts too.",
+      "similar_words": [
+        {
+          "japanese": "ちいさい",
+          "romaji": "chiisai",
+          "translation": "small"
+        },
+        {
+          "japanese": "ひろい",
+          "romaji": "hiroi",
+          "translation": "spacious; wide"
+        },
+        {
+          "japanese": "ながい",
+          "romaji": "nagai",
+          "translation": "long"
+        }
+      ],
+      "weekday": "Wednesday",
+      "slot": "weekday-AM",
+      "week_number": 9,
+      "character": "お",
+      "source": "routine",
+      "example_jp": "いえがおおきい。",
+      "example_en": "The house is big."
     }
   ],
   "delivery_log": [
@@ -587,6 +618,14 @@
       "weekday": "Tuesday",
       "word_japanese": "しずか",
       "character": "し"
+    },
+    {
+      "date": "2026-07-08",
+      "slot": "weekday-AM",
+      "week_number": 9,
+      "weekday": "Wednesday",
+      "word_japanese": "おおきい",
+      "character": "お"
     }
   ],
   "all_words_learned": [
@@ -2132,6 +2171,38 @@
       "example_jp": "としょかんはしずかです。",
       "example_en": "The library is quiet.",
       "delivered_at": "2026-07-07"
+    },
+    {
+      "japanese": "おおきい",
+      "reading_romaji": "ookii",
+      "translation": "big; large",
+      "casual_usage": "Friends react to size with 「わあ、おおきい！」(Waa, ookii!) = 'Whoa, that's big!', and 「おおきくなったね」(Ookiku natta ne) = 'You've gotten big!' is the classic line for a kid or pet who's grown.",
+      "formal_usage": "As an i-adjective it just takes です in polite speech: 「おおきいですね」(Ookii desu ne) = 'It's big, isn't it.' No special honorific form needed — the plain word works fine in formal contexts too.",
+      "similar_words": [
+        {
+          "japanese": "ちいさい",
+          "romaji": "chiisai",
+          "translation": "small"
+        },
+        {
+          "japanese": "ひろい",
+          "romaji": "hiroi",
+          "translation": "spacious; wide"
+        },
+        {
+          "japanese": "ながい",
+          "romaji": "nagai",
+          "translation": "long"
+        }
+      ],
+      "weekday": "Wednesday",
+      "slot": "weekday-AM",
+      "week_number": 9,
+      "character": "お",
+      "source": "routine",
+      "example_jp": "いえがおおきい。",
+      "example_en": "The house is big.",
+      "delivered_at": "2026-07-08"
     }
   ],
   "all_characters_learned": [
