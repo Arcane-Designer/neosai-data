@@ -99,6 +99,37 @@
       "source": "routine",
       "example_jp": "いえがおおきい。",
       "example_en": "The house is big."
+    },
+    {
+      "japanese": "おちゃ",
+      "reading_romaji": "ocha",
+      "translation": "tea",
+      "casual_usage": "Among friends it's super casual — 「おちゃのむ？」(Ocha nomu?) = 'Want some tea?' is a normal thing to ask when hanging out, and 「おちゃする？」(Ocha suru?) can even mean 'wanna grab a drink/chat somewhere?'",
+      "formal_usage": "The お is already built into the word as a politeness marker, so it stays the same in formal speech — 「おちゃをどうぞ」(Ocha wo douzo) = 'Please, have some tea' is exactly what you'd say serving a guest or customer.",
+      "similar_words": [
+        {
+          "japanese": "みず",
+          "romaji": "mizu",
+          "translation": "water"
+        },
+        {
+          "japanese": "コーヒー",
+          "romaji": "koohii",
+          "translation": "coffee"
+        },
+        {
+          "japanese": "のみもの",
+          "romaji": "nomimono",
+          "translation": "drink; beverage"
+        }
+      ],
+      "weekday": "Thursday",
+      "slot": "weekday-AM",
+      "week_number": 9,
+      "character": "お",
+      "source": "routine",
+      "example_jp": "おちゃをのむ。",
+      "example_en": "I drink tea."
     }
   ],
   "delivery_log": [
@@ -625,6 +656,14 @@
       "week_number": 9,
       "weekday": "Wednesday",
       "word_japanese": "おおきい",
+      "character": "お"
+    },
+    {
+      "date": "2026-07-09",
+      "slot": "weekday-AM",
+      "week_number": 9,
+      "weekday": "Thursday",
+      "word_japanese": "おちゃ",
       "character": "お"
     }
   ],
@@ -2203,6 +2242,38 @@
       "example_jp": "いえがおおきい。",
       "example_en": "The house is big.",
       "delivered_at": "2026-07-08"
+    },
+    {
+      "japanese": "おちゃ",
+      "reading_romaji": "ocha",
+      "translation": "tea",
+      "casual_usage": "Among friends it's super casual — 「おちゃのむ？」(Ocha nomu?) = 'Want some tea?' is a normal thing to ask when hanging out, and 「おちゃする？」(Ocha suru?) can even mean 'wanna grab a drink/chat somewhere?'",
+      "formal_usage": "The お is already built into the word as a politeness marker, so it stays the same in formal speech — 「おちゃをどうぞ」(Ocha wo douzo) = 'Please, have some tea' is exactly what you'd say serving a guest or customer.",
+      "similar_words": [
+        {
+          "japanese": "みず",
+          "romaji": "mizu",
+          "translation": "water"
+        },
+        {
+          "japanese": "コーヒー",
+          "romaji": "koohii",
+          "translation": "coffee"
+        },
+        {
+          "japanese": "のみもの",
+          "romaji": "nomimono",
+          "translation": "drink; beverage"
+        }
+      ],
+      "weekday": "Thursday",
+      "slot": "weekday-AM",
+      "week_number": 9,
+      "character": "お",
+      "source": "routine",
+      "example_jp": "おちゃをのむ。",
+      "example_en": "I drink tea.",
+      "delivered_at": "2026-07-09"
     }
   ],
   "all_characters_learned": [
