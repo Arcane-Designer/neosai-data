@@ -130,6 +130,37 @@
       "source": "routine",
       "example_jp": "おちゃをのむ。",
       "example_en": "I drink tea."
+    },
+    {
+      "japanese": "おっちょこちょい",
+      "reading_romaji": "occhokochoi",
+      "translation": "a lovable, scatterbrained klutz — someone endearingly clumsy or featherheaded",
+      "what_it_is": "おっちょこちょい describes someone who's endearingly clumsy or scatterbrained — the friend who trips on flat pavement, double-books plans, or mixes up simple words mid-sentence. It's warm rather than insulting; calling someone this is closer to affectionate teasing than criticism. English words like 'klutzy' or 'ditzy' brush the same idea but land harsher or more gendered — おっちょこちょい keeps the fondness built in.",
+      "example_jp": "かれはおっちょこちょいだ。",
+      "example_en": "He's a clumsy, scatterbrained goofball.",
+      "similar_words": [
+        {
+          "japanese": "そそっかしい",
+          "romaji": "sosokkashii",
+          "translation": "careless and hasty, prone to little slip-ups and mistakes"
+        },
+        {
+          "japanese": "どんくさい",
+          "romaji": "donkusai",
+          "translation": "clumsy and slow-witted (blunter, more critical than occhokochoi)"
+        },
+        {
+          "japanese": "うっかり",
+          "romaji": "ukkari",
+          "translation": "the \"oops, I spaced out\" feeling — a momentary careless lapse"
+        }
+      ],
+      "weekday": "Friday",
+      "slot": "friday-AM",
+      "week_number": 9,
+      "character": "お",
+      "source": "routine",
+      "is_funword": true
     }
   ],
   "delivery_log": [
@@ -665,6 +696,14 @@
       "weekday": "Thursday",
       "word_japanese": "おちゃ",
       "character": "お"
+    },
+    {
+      "date": "2026-07-10",
+      "slot": "friday-AM",
+      "week_number": 9,
+      "word_japanese": "おっちょこちょい",
+      "character": "お",
+      "weekday": "Friday"
     }
   ],
   "all_words_learned": [
@@ -2274,6 +2313,38 @@
       "example_jp": "おちゃをのむ。",
       "example_en": "I drink tea.",
       "delivered_at": "2026-07-09"
+    },
+    {
+      "japanese": "おっちょこちょい",
+      "reading_romaji": "occhokochoi",
+      "translation": "a lovable, scatterbrained klutz — someone endearingly clumsy or featherheaded",
+      "what_it_is": "おっちょこちょい describes someone who's endearingly clumsy or scatterbrained — the friend who trips on flat pavement, double-books plans, or mixes up simple words mid-sentence. It's warm rather than insulting; calling someone this is closer to affectionate teasing than criticism. English words like 'klutzy' or 'ditzy' brush the same idea but land harsher or more gendered — おっちょこちょい keeps the fondness built in.",
+      "example_jp": "かれはおっちょこちょいだ。",
+      "example_en": "He's a clumsy, scatterbrained goofball.",
+      "similar_words": [
+        {
+          "japanese": "そそっかしい",
+          "romaji": "sosokkashii",
+          "translation": "careless and hasty, prone to little slip-ups and mistakes"
+        },
+        {
+          "japanese": "どんくさい",
+          "romaji": "donkusai",
+          "translation": "clumsy and slow-witted (blunter, more critical than occhokochoi)"
+        },
+        {
+          "japanese": "うっかり",
+          "romaji": "ukkari",
+          "translation": "the \"oops, I spaced out\" feeling — a momentary careless lapse"
+        }
+      ],
+      "weekday": "Friday",
+      "slot": "friday-AM",
+      "week_number": 9,
+      "character": "お",
+      "source": "routine",
+      "is_funword": true,
+      "delivered_at": "2026-07-10"
     }
   ],
   "all_characters_learned": [
