@@ -704,6 +704,12 @@
       "word_japanese": "おっちょこちょい",
       "character": "お",
       "weekday": "Friday"
+    },
+    {
+      "date": "2026-07-11",
+      "slot": "saturday-recap",
+      "week_number": 9,
+      "weekday": "Saturday"
     }
   ],
   "all_words_learned": [
