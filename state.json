@@ -16,7 +16,8 @@
     {"date":"2026-04-30","slot":"weekday-AM","week_number":1,"weekday":"Thursday","word_japanese":"いつ","character":"い"},
     {"date":"2026-04-30","slot":"weekday-AM","week_number":1,"weekday":"Thursday","word_japanese":"いま","character":"い"},
     {"date":"2026-04-30","slot":"weekday-PM","week_number":1,"weekday":"Thursday","word_japanese":"いま"},
-    {"date":"2026-05-01","slot":"friday-AM","week_number":1,"word_japanese":"いただきます","character":"い","weekday":"Friday"}
+    {"date":"2026-05-01","slot":"friday-AM","week_number":1,"word_japanese":"いただきます","character":"い","weekday":"Friday"},
+    {"date":"2026-07-14","slot":"daily-tuesday","week_number":1,"word_japanese":"木漏れ日"}
   ],
   "all_words_learned": [
     {"japanese":"いい","reading_romaji":"ii","english":"good; nice; fine","translation":"good; nice; fine","date":"2026-04-29","slot":"weekday-AM","week_number":1,"weekday":"Wednesday","character":"い","delivered_at":"2026-04-29","source":"routine","example_jp":"これはいいですね。","example_en":"This is nice, isn't it?"},
@@ -71,7 +72,9 @@
     {"japanese":"十","reading_romaji":"joo","translation":"10","notes":"","added_at":"2026-04-29T22:58:15.407Z","source":"user"},
     {"japanese":"ゼロ","reading_romaji":"zeh-ro","translation":"0","notes":"most common in everyday speech. From English. Used for phone numbers, scores, temperatures","added_at":"2026-04-29T23:01:17.000Z","source":"user"}
   ],
-  "daily_words": [],
+  "daily_words": [
+    {"japanese":"木漏れ日","reading_romaji":"komorebi","translation":"sunlight filtering through tree leaves","what_it_is":"木漏れ日 names something everyone has seen but few languages bother to name outright: the dappled, shifting light that falls through a canopy of leaves. It bundles the sunlight, the leaves, and the shadows into a single word, so instead of describing a scene you just point at it with one breath. It's one of the words most often cited by Japanese speakers as 'impossible to translate' — English needs a whole clause to say what this says in three syllables.","similar_words":[{"japanese":"木陰","romaji":"kokage","translation":"the shade cast by a tree"},{"japanese":"陽だまり","romaji":"hidamari","translation":"a warm, sunny patch (often a cozy spot to sit)"},{"japanese":"そよ風","romaji":"soyokaze","translation":"a gentle, rustling breeze"}],"example_context":"It surfaces on a forest walk in early summer, when you look down and notice the ground is covered in shifting circles of light instead of describing the scene piece by piece.","bonus":"Komorebi shows up constantly in Studio Ghibli-style visual language and is a favorite word among translators precisely because it can't be rendered in one English word — it's frequently listed alongside 'hygge' and 'saudade' in articles about untranslatable feelings.","week_number":1,"day_of_week":"Tuesday","delivered_at":"2026-07-14","source":"routine","is_funword":true}
+  ],
   "daily_start_date": "2026-07-13",
   "skipped_character_priorities": [],
   "last_health_check": "2026-07-13",
