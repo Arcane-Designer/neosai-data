@@ -1,33 +1,18 @@
 # Neosai
 
-A daily Japanese vocabulary system delivered via Claude Routines, with a dashboard for tracking progress and managing personal word lists.
+A personal Japanese ledger: the words Nathan has met, and the characters he has marked as learned.
+
+As of 2026-09-06 there are **no routines or automations**. Everything is manual, from the dashboard.
 
 ## Architecture
 
-- **Claude Routines** fire on schedule, generate each word fresh, and write to GitHub
-- **`state.json`** — single source of truth. Tracks delivery history, characters covered, current week, user-added words.
-- **`character-order.json`** — priority order for character-of-the-week selection (hiragana → katakana → kanji starter set)
-- **Cloudflare Worker** — handles dashboard writes back to GitHub (no manual copy-paste)
-- **Dashboard** at `arcanedesigner.com/neosai` — reads state, allows adding/editing personal words
+- **Dashboard** at `arcanedesigner.com/neosai` (source: `neosai/` in the `Arcane-Designer/main` repo, served by GitHub Pages). Two tabs: **Words** (add / edit / delete) and **Characters** (hiragana, katakana, kanji tiles that flip to show which of your words use them, with a learned toggle).
+- **`state.json`** — single source of truth. `user_words` is the word list, `all_characters_learned` is the list of learned characters. Routine-era fields are kept empty for schema compatibility.
+- **`character-order.json`** — the character inventory (hiragana, katakana, then Joyo kanji with grade and meaning) used to draw the Characters tab.
+- **Cloudflare Worker** `neosai-worker` — reads and writes `state.json` on GitHub so the dashboard never needs a token in the browser.
 
-## Schedule
+## History
 
-| Day | Time | Content |
-|-----|------|---------|
-| Mon-Thu | 8:00 AM, 5:00 PM | Word of the day, reinforced in evening |
-| Fri | 8:00 AM, 5:00 PM | Funword Friday, reinforced in evening |
-| Sat | 11:00 AM | Weekly recap |
-| Sun | 5:00 PM | Master recap (everything to date) |
-
-Each weekday word contains the character of the week. The character changes every Monday; the routine picks the next from `character-order.json` that hasn't been used.
-
-## Files
-
-```
-neosai-data/                    (private GitHub repo)
-├── state.json                  ← live state, updated by routines
-├── character-order.json        ← priority list, rarely edited
-└── README.md
-```
-
-The dashboard (HTML/JS) lives in the `arcanedesigner.com` repo under `neosai/`.
+- 2026-04-29: system start (routine-delivered words).
+- 2026-07-13: v3 reset (three funword routines a week).
+- 2026-09-06: v4 reset to manual-only. Routines deleted, delivered words wiped, personal words kept. Pre-reset state is in git history (commit `ac4b7a3`).
