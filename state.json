@@ -241,7 +241,8 @@
       "source": "user",
       "week_number": 1,
       "character": null,
-      "delivered_at": "2026-04-29T23:01:17.000Z"
+      "delivered_at": "2026-04-29T23:01:17.000Z",
+      "updated_at": "2026-09-07T06:09:27.933Z"
     }
   ],
   "all_characters_learned": [
@@ -418,7 +419,8 @@
       "translation": "0",
       "notes": "most common in everyday speech. From English. Used for phone numbers, scores, temperatures",
       "added_at": "2026-04-29T23:01:17.000Z",
-      "source": "user"
+      "source": "user",
+      "updated_at": "2026-09-07T06:09:27.933Z"
     }
   ],
   "daily_words": [],
